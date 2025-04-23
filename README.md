@@ -263,5 +263,6 @@ El branding de Llanteros refleja el espíritu innovador y comprometido de una st
   margin-right: auto; 
   width=50%"/>
   
-![image] 
-https://miro.com/app/board/uXjVICCoJ1Y=/?share_link_id=374839324168
+![image](https://github.com/user-attachments/assets/47a55acd-37f6-41eb-b4bc-c717d1b70b22)
+
+https://miro.com/app/board/uXjVI_S7iZ8=/
