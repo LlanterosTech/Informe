@@ -253,30 +253,34 @@ El problema de no saber cómo cuidar correctamente las plantas se manifiesta en 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
 
-<h5> **Domain:** </h5>
+<h5><strong>Domain:</strong></h5>
 
 Plantita se sitúa en la intersección del cuidado de plantas, enfocándose específicamente en el nicho de los aficionados a la jardinería que buscan soluciones prácticas. Este segmento combina el deseo de tener plantas saludables con la necesidad de información clara y herramientas de monitoreo.
 
-<h5> **Customer Segments:** </h5>
+<h5><strong>Customer Segments:</strong></h5>
 
 **Aficionados a la jardinería:** Cuidadores novatos que luchan por optimizar el cuidado de sus plantas debido a la falta de herramientas y conocimientos.
 
-<h5> **Paint Points:** </h5>
-**Aficionados a la jardinería:**
+<h5><strong>Paint Points:</strong></h5>
+
+**Aficionados a la jardinería:** <br>
 * Dificultad para identificar las necesidades de las plantas al carecer de la información necesaria para mantener sus plantas saludables y prósperas.
 * Carencia de herramientas adecuadas, es decir, no disponen de los instrumentos o recursos necesarios para monitorear y gestionar eficazmente el cuidado de sus plantas.
 
-<h5> **Gap:** </h5>
+<h5><strong>Gap:</strong></h5>
+
 <div align="justify">
 Existe una brecha entre el deseo de los aficionados a la jardinería de tener plantas saludables y la disponibilidad de herramientas y conocimientos prácticos para lograrlo. Las soluciones existentes a menudo son demasiado genéricas o carecen de la personalización y el seguimiento detallado que necesitan los cuidadores novatos.
 </div>
 
-<h5> **Visión/Estrategia:** </h5>
+<h5><strong>Visión/Estrategia:</strong></h5>
+
 * Crear una aplicación con funcionalidades enfocadas en proporcionar el conocimiento y las herramientas necesarias para cultivar plantas prósperas y saludables.
 * Proporcionar una solución integral que combine tecnología IoT, información personalizada y una comunidad de apoyo.
 * Transformar la jardinería de una actividad intimidante a una experiencia gratificante y accesible para todos.
 
-<h5> **Initial Segment:** </h5>
+<h5><strong>Initial Segment:</strong></h5>
+
 <div align="justify">
 Nuestro segmento inicial se compone de aficionados a la jardinería que son relativamente nuevos en el cuidado de plantas y que han experimentado dificultades para mantenerlas con vida. Este grupo incluye personas que viven en apartamentos o espacios pequeños, aquellos que tienen poco tiempo o experiencia previa en jardinería, y quienes desean utilizar la tecnología para mejorar su experiencia de cuidado de plantas.
 </div>
