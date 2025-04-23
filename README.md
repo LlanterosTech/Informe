@@ -284,7 +284,11 @@ https://miro.com/app/board/uXjVI_S7iZ8=/
 
 <h1> 4.1.2. Context Mapping </h1>
 
-
+<img src= "./assets/Cap.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
 
 https://miro.com/app/board/uXjVI_R99-E=/
 
