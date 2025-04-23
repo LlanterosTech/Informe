@@ -392,10 +392,16 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 | Nombre | Plantita                         | Agrobit                                    | Afemis | Agri |
 |--------|------------------------------|------------------------------------------------|--------|------|
-| POST   | /api/v1/plants               | Registra una nueva planta                      |
-| GET    | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |
-| PUT    | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |
-| GET    | /api/v1/plants               | Lista todas las plantas del usuario            |
+| Overview   | /api/v1/plants               | Registra una nueva planta                      |||
+| Ventaja Competitiva   | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |||
+| Mercado Objetivo   | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |||
+| Estrategias de Marketing   | /api/v1/plants               | Lista todas las plantas del usuario            |||
+| Productos y Servicios   | /api/v1/plants               | Lista todas las plantas del usuario            |||
+| Precios y Costos   | /api/v1/plants               | Lista todas las plantas del usuario            |||
+| Fortalezas   | /api/v1/plants               | Lista todas las plantas del usuario            |||
+| Debilidades   | /api/v1/plants               | Lista todas las plantas del usuario            |||
+| Oportunidades   | /api/v1/plants               | Lista todas las plantas del usuario            |||
+| Amenazas   | /api/v1/plants               | Lista todas las plantas del usuario            |||
 
 <h3> 2.1.2. Estrategias y tácticas frente a competidores/h3>
 <h2> 2.2. Entrevistas</h2>
