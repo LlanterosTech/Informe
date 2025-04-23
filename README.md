@@ -412,17 +412,37 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 <b>Objetivo principal:</b> Sobresalir frente a la competencia mediante un producto que responda a necesidades específicas de nuestros segmentos de mercado.<br>
 <br>
 <b>Estrategias clave:</b><br>
-<br>
 <ul>
   <li><strong>Enfoque en el usuario</strong>: Priorizar mejoras basadas en las necesidades y sugerencias de los clientes.</li>
   <li><strong>Gestión de usuarios</strong>: La aplicación contará con una red interconectada que permitirá al usuario administrador supervisar y gestionar a los trabajadores bajo su responsabilidad.</li>
 </ul>
 </p>
-
  
 <h2> 2.2. Entrevistas</h2>
-<h3> 2.2.1. Diseño de entrevistas
-</h3>
+<h3> 2.2.1. Diseño de entrevistas</h3>
+<p><strong>Segmento 1:</strong> Agricultores</p>
+<p><strong>Pregunta general:</strong></p>
+<ul>
+  <li>¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?</li>
+  <li>¿Cómo consideras que es tu personalidad (extrovertido, introvertido, racional, idealista, etc.)?</li>
+</ul>
+
+<p><strong>Preguntas:</strong></p>
+<ul>
+  <li>¿Qué te motivó a empezar a cuidar plantas?</li>
+  <li>¿Cuáles son los mayores desafíos que enfrentas al cuidar tus plantas?</li>
+  <li>¿Tienes algún problema recurrente con tus plantas, como saber cuándo regarlas o qué cantidad de luz necesitan?</li>
+  <li>¿Actualmente usas alguna aplicación o herramienta para ayudarte a cuidar tus plantas? Si sí, ¿cuál?</li>
+  <li>¿Qué información te gustaría tener más clara o accesible sobre el cuidado de tus plantas?</li>
+  <li>¿Te gustaría recibir notificaciones o recordatorios sobre el cuidado de tus plantas (por ejemplo, cuándo regarlas, cuándo podarlas)?</li>
+  <li>Si pudieras tener una herramienta que te ayude a monitorear el estado de tus plantas, como la humedad del suelo o la luz que reciben, ¿te interesaría?</li>
+  <li>¿Qué tan importante es para ti recibir consejos prácticos y fáciles de seguir sobre el cuidado de tus plantas?</li>
+  <li>¿Qué funcionalidades te gustaría que tuviera una aplicación para facilitar el cuidado de tus plantas?</li>
+  <li>¿Te sentirías cómodo utilizando sensores para monitorear las condiciones de tus plantas (por ejemplo, humedad, temperatura, luz)?</li>
+  <li>¿Qué tipo de apoyo o comunidad te gustaría encontrar dentro de una app para jardineros novatos?</li>
+  <li>¿Qué tan importante es para ti que la aplicación sea fácil de usar y no requiera mucho tiempo para aprender?</li>
+</ul>
+
 <h3> 2.2.2. Registro de entrevistas</h3>
 <h3> 2.2.3. Análisis de entrevistas</h3>
 <h2> 2.3. Needfinding</h2>
