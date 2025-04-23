@@ -218,7 +218,7 @@ En esta sección se describe el problema que el proyecto tiene como objetivo res
 El mundo de la jardinería y el cuidado de plantas presenta actualmente desafíos que requieren soluciones creativas. Uno de los principales retos es la creciente popularidad de tener plantas en casa, impulsada por el deseo de conectar con la naturaleza y mejorar nuestros espacios. Esta tendencia exige que aprendamos más sobre cómo cultivar y mantener nuestras plantas saludables, lo que a su vez nos enfrenta a desafíos como entender sus necesidades específicas y adaptarnos a diferentes entornos. Además, quienes cuidan plantas a menudo se encuentran con la dificultad de monitorear y optimizar el crecimiento de sus plantas, así como la necesidad de asegurar que estén libres de plagas y enfermedades. Estos factores combinados resaltan la importancia de desarrollar conocimientos y métodos que nos ayuden a cuidar nuestras plantas de manera eficiente y exitosa.
 </div>
 
-<h1> **Problemática** (5Ws y 2Hs): </h1>
+<h1> **Problemática** (5Ws y 2Hs):** </h1>
 
 ##### WHAT/QUÉ 
   
@@ -253,9 +253,34 @@ El problema de no saber cómo cuidar correctamente las plantas se manifiesta en 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
 
-<h5> Domain: </h5>
+<h5> **Domain:** </h5>
 
 Plantita se sitúa en la intersección del cuidado de plantas, enfocándose específicamente en el nicho de los aficionados a la jardinería que buscan soluciones prácticas. Este segmento combina el deseo de tener plantas saludables con la necesidad de información clara y herramientas de monitoreo.
+
+<h5> **Customer Segments:** </h5>
+
+**Aficionados a la jardinería:** Cuidadores novatos que luchan por optimizar el cuidado de sus plantas debido a la falta de herramientas y conocimientos.
+
+<h5> **Paint Points:** </h5>
+**Aficionados a la jardinería:**
+* Dificultad para identificar las necesidades de las plantas al carecer de la información necesaria para mantener sus plantas saludables y prósperas.
+* Carencia de herramientas adecuadas, es decir, no disponen de los instrumentos o recursos necesarios para monitorear y gestionar eficazmente el cuidado de sus plantas.
+
+<h5> **Gap:** </h5>
+<div align="justify">
+Existe una brecha entre el deseo de los aficionados a la jardinería de tener plantas saludables y la disponibilidad de herramientas y conocimientos prácticos para lograrlo. Las soluciones existentes a menudo son demasiado genéricas o carecen de la personalización y el seguimiento detallado que necesitan los cuidadores novatos.
+</div>
+
+<h5> **Visión/Estrategia:** </h5>
+* Crear una aplicación con funcionalidades enfocadas en proporcionar el conocimiento y las herramientas necesarias para cultivar plantas prósperas y saludables.
+* Proporcionar una solución integral que combine tecnología IoT, información personalizada y una comunidad de apoyo.
+* Transformar la jardinería de una actividad intimidante a una experiencia gratificante y accesible para todos.
+
+<h5> **Initial Segment:** </h5>
+<div align="justify">
+Nuestro segmento inicial se compone de aficionados a la jardinería que son relativamente nuevos en el cuidado de plantas y que han experimentado dificultades para mantenerlas con vida. Este grupo incluye personas que viven en apartamentos o espacios pequeños, aquellos que tienen poco tiempo o experiencia previa en jardinería, y quienes desean utilizar la tecnología para mejorar su experiencia de cuidado de plantas.
+</div>
+
 
 <h1> 4. Capítulo IV: Solution Software Design </h1>
 
