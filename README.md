@@ -406,7 +406,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 <h3> 2.1.2. Estrategias y tácticas frente a competidores </h3>
 
 <p>Nos dirigiremos al segmento del sector agrícola que aún no ha incorporado tecnología, ofreciendo una solución accesible y fácil de usar. El objetivo es que incluso quienes no tienen experiencia con herramientas tecnológicas puedan utilizarlas de forma eficaz para optimizar sus recursos.<br>
-__Estrategia general__: Diferenciación<br>
+**Estrategia general** : Diferenciación<br>
 Objetivo principal: Sobresalir frente a la competencia mediante un producto que responda a necesidades específicas de nuestros segmentos de mercado.</p>
  
 <h2> 2.2. Entrevistas</h2>
