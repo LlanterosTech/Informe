@@ -206,16 +206,17 @@ Llanteros es una startup conformada por estudiantes de la carrera de Ingeniería
 | <p>**Andrea Milagros Cabanillas Gora-U202211711**<p> <img src= "./assets/andrea.png" style="width=75%"/> | Me   llamo   Andrea   Cabanillas,   tengo   18   años,   estudio ingeniería   de   software,   soy   una persona sociable y siempre estoy dispuesta a escuchar nuevas ideas , además me gusta trabajar en grupo ya que siempre aprendo de  otros.  Soy buena en  lo  que es el  ámbito de diseño de  videojuegos  y siempre  estoy  al  tanto  para dar nuevas ideas para la app de algún proyecto. |
 | <p>**Franky Oswald Mallma Espiritu- U20211c250**<p> <img src= "./assets/foto-Franky.png" style="width=75%"/> |Soy estudiante de ingeniería de software, actualmente en el octavo ciclo , tengo principales conocimientos en backend como lo son Golang y Nest.js y de mobile con Flutter , a nivel equipo soy una persona comprometida y buscador de soluciones emergentes en los proyectos. |
 
- <h1> 1.2 Solution Profile </h1>
+<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div align="justify">
 En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
 </div>
 
-<h1> 1.2.1 Antecedentes y problemática</h1>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
 <h5> Antecedentes: </h5>
-
+<div align="justify">
 El mundo de la jardinería y el cuidado de plantas presenta actualmente desafíos que requieren soluciones creativas. Uno de los principales retos es la creciente popularidad de tener plantas en casa, impulsada por el deseo de conectar con la naturaleza y mejorar nuestros espacios. Esta tendencia exige que aprendamos más sobre cómo cultivar y mantener nuestras plantas saludables, lo que a su vez nos enfrenta a desafíos como entender sus necesidades específicas y adaptarnos a diferentes entornos. Además, quienes cuidan plantas a menudo se encuentran con la dificultad de monitorear y optimizar el crecimiento de sus plantas, así como la necesidad de asegurar que estén libres de plagas y enfermedades. Estos factores combinados resaltan la importancia de desarrollar conocimientos y métodos que nos ayuden a cuidar nuestras plantas de manera eficiente y exitosa.
+</div>
 
 <h1> Problemática (5Ws y 2Hs): </h1>
 
