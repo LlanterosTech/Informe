@@ -185,3 +185,14 @@
 |**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
 | :-: | :-: | :-: |
 |     |     |     |
+
+
+
+
+CAPÍTULO I: INTRODUCCIÓN
+
+<h1> 1.1 Startup Profile <h1>
+
+  <h1> 1.1.1 Descripción de la Startup </h1> 
+ Llanteros es un startup conformado por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos somos un grupo comprometido con las necesidades y problemáticas que enfrenta el sector agrícola, viéndose afectadas principalmente por la gestión de sus productos y operaciones. Es de esta forma, que en conjunto, vimos una oportunidad para proponer una solución innovadora para la mejora de la eficiencia y calidad de las operaciones de los productores agrícolas. 
+
