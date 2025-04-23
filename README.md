@@ -198,6 +198,13 @@
 Llanteros es una startup conformada por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos, somos un equipo comprometido con las necesidades y problemáticas que enfrentan los entusiastas del cuidado de plantas, quienes a menudo se ven afectados por la falta de información clara y herramientas eficientes para la gestión del bienestar de sus plantas. Es así como identificamos una oportunidad para proponer una solución innovadora que mejore la eficiencia y calidad en el cuidado de las plantas.
 </div>
 
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo. </h4></div>
+
+|**Integrante**|**Perfil**|
+| :-: | :-: |
+| Astrid Jimena Boronda Heidinger - U202215823  | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo. |
+|  |  |
+
  <h1> 1.2 Solution Profile </h1>
 <div align="justify">
 En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
