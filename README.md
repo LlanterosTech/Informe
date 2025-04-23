@@ -249,10 +249,6 @@ Plantita se sitúa en la intersección del cuidado de plantas, enfocándose espe
 
 <h1> 4. Capítulo IV: Solution Software Design </h1>
 
-<h5> 4.1. Style Guidelines </h5>
-
-El branding de Llanteros refleja el espíritu innovador y comprometido de una startup tecnológica enfocada en el sector agrícola. Nuestra identidad visual y comunicacional está diseñada para transmitir confianza, eficiencia y conexión con las plantas.
-
 <h1>  4.1 Strategic-Level Domain-Driven Design </h1>
 
 <h5> 4.1.1. EventStorming </h5>
