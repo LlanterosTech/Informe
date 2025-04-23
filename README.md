@@ -257,6 +257,25 @@ El branding de Llanteros refleja el espíritu innovador y comprometido de una st
 
 <h5> 4.1.1. EventStorming </h5>
 
+<h5> 4.1.1.1. Candidate Context Discovery </h5>
+
 <img src= "./assets/braimtornig.png" />
 
 https://miro.com/app/board/uXjVI_S7iZ8=/
+
+<h1> 4.1.1.2 Domain Message Flows Modeling </h1>
+
+#	Escenarios
+
+| #  | Escenario                                                 | Actor             | Comando                     | Evento(s) Generado(s)                                          | Contexto Afectado                    |
+|----|-----------------------------------------------------------|-------------------|-----------------------------|----------------------------------------------------------------|--------------------------------------|
+| 1  | El sensor mide baja humedad en una planta                | Sensor            | TransmitirMedición          | MediciónRegistrada<br>HumedadBajaDetectada                    | SensorGateway, Monitoring            |
+| 2  | El sistema recomienda regar la planta                    | Sistema (PlantCare)| CrearSugerenciaDeCuidado    | SugerenciaGenerada                                             | PlantCare, Notification              |
+| 3  | Usuario agrega una nueva planta a su jardín              | Usuario           | AgregarPlantaAJardín        | PlantaAgregada                                                 | UserManagement, PlantCare            |
+| 4  | Usuario escanea código del sensor y lo vincula a una planta | Usuario         | AsignarSensorAPlanta        | SensorAsignadoAPlanta                                          | SensorGateway, Monitoring            |
+| 5  | El sensor deja de enviar datos durante una hora          | Sistema (Watchdog)| DesconectarSensor           | SensorDesconectado<br>AlertaCríticaEmitida                    | SensorGateway, Notification          |
+
+
+
+
+
