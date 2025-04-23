@@ -303,4 +303,30 @@ https://miro.com/app/board/uXjVI_S7iZ8=/
 
 https://miro.com/app/board/uXjVI_R99-E=/
 
+<h1> 4.1.3. Software Architecture </h1>
+
+<h5> 4.1.3.1. Software Architecture System Landscape Diagram. </h5>
+
+<img src= "./assets/plamt.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+  
+<h5> 4.1.3.2. Software Architecture Context Level Diagrams. </h5>
+
+<h5> 4.1.3.2. Software Architecture Container Level Diagrams. </h5> 
+
+<h5> 4.1.3.3. Software Architecture Deployment Diagrams. </h5>
+
+
+<h1 4.2. Tactical-Level Domain-Driven Design /h1>
+
+<h5> 4.2.1. Bounded Context: PlantCare </h5>
+
+<h5> 4.2.1.1. Domain Layer </h5>
+
+
+
+
 
