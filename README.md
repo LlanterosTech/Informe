@@ -285,6 +285,45 @@ Existe una brecha entre el deseo de los aficionados a la jardinería de tener pl
 Nuestro segmento inicial se compone de aficionados a la jardinería que son relativamente nuevos en el cuidado de plantas y que han experimentado dificultades para mantenerlas con vida. Este grupo incluye personas que viven en apartamentos o espacios pequeños, aquellos que tienen poco tiempo o experiencia previa en jardinería, y quienes desean utilizar la tecnología para mejorar su experiencia de cuidado de plantas.
 </div>
 
+<div id='1.2.2.2.'><h5> 1.2.2.1. Lean UX Assumptions.</h5></div>
+
+**Features**
+
+
+**Business Outcomes**
+
+* **Mejora de la eficiencia operativa:** Reducción de los tiempos de inactividad y los costos asociados con la gestión manual de inventario y la resolución de problemas en la cadena de suministro y optimización de los procesos mediante la automatización y la aplicación de datos en tiempo real para la toma de decisiones.
+* **Aumento de la rentabilidad:** Reducción de las pérdidas debido a enfermedades en los cultivos que no son detectadas, mejora de la productividad y la calidad de las plantas, lo que puede traducirse en mayores márgenes de beneficio para los cuidadores.
+* **Reducción de riesgos y cumplimiento normativo:** Mayor capacidad para responder rápidamente a problemas emergentes, como brotes de enfermedades o eventos climáticos extremos, minimizando el impacto en la producción y la distribución.
+
+**Users**
+
+Los usuarios son personas interesadas en el cuidado de plantas.
+
+**User Outcomes & Benefits**
+
+* **Aficionados al jardín:** Personas que empezaron a cultivar plantas y están aprendiendo a cuidarlos.
+
+**User assumptions**
+
+* **¿Quién es el usuario?**
+El usuario es típicamente un aficionado a la jardinería busca mejorar la eficiencia y calidad de sus plantas.
+
+* **¿Dónde encaja nuestro producto en sus trabajos o vidas?**
+Nuestra aplicación encaja perfectamente en su día a día al facilitar el cuidado de sus plantas, desde entender sus necesidades básicas hasta identificar problemas y recibir consejos personalizados, optimizando así su experiencia como amantes de las plantas.
+
+* **¿Qué problema resuelve nuestro producto?*
+Nuestro producto resuelve problemas como dificultad para monitorear el crecimiento de cultivos, mejorando la eficiencia operativa y mejorar de la calidad de la plantas
+
+* **¿Cuándo y cómo es usado nuestro producto?**
+Nuestro producto es utilizado a lo largo de todo el ciclo de vida de las plantas, desde su plantación y crecimiento, a través de una plataforma digital accesible desde dispositivos móviles o computadoras.
+
+* **¿Qué características son importantes?**
+Las características de seguimiento de la cadena de suministro en tiempo real, gestión automatizada de las necesidades de la plantas, herramientas de monitorización de cultivos y análisis de datos para la toma de decisiones informadas.
+
+* **¿Cómo debería verse y comportarse nuestro producto?**
+Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualizaciones claras de datos y esto de las plantas. Debería ser confiable, escalable y adaptable a las necesidades específicas de cada usuario.
+
 
 <h1> 4. Capítulo IV: Solution Software Design </h1>
 
