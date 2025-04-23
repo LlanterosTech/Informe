@@ -246,3 +246,22 @@ El problema de no saber cómo cuidar correctamente las plantas se manifiesta en 
 <h5> Domain: </h5>
 
 Plantita se sitúa en la intersección del cuidado de plantas, enfocándose específicamente en el nicho de los aficionados a la jardinería que buscan soluciones prácticas. Este segmento combina el deseo de tener plantas saludables con la necesidad de información clara y herramientas de monitoreo.
+
+<h1> 4. Capítulo IV: Solution Software Design </h1>
+
+<h5> 4.1. Style Guidelines </h5>
+
+El branding de Llanteros refleja el espíritu innovador y comprometido de una startup tecnológica enfocada en el sector agrícola. Nuestra identidad visual y comunicacional está diseñada para transmitir confianza, eficiencia y conexión con las plantas.
+
+<h1>  4.1 Strategic-Level Domain-Driven Design </h1>
+
+<h5> 4.1.1. EventStorming </h5>
+
+<img src="![image](" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+  
+![image] 
+https://miro.com/app/board/uXjVICCoJ1Y=/?share_link_id=374839324168
