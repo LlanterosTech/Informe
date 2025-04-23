@@ -326,7 +326,44 @@ https://miro.com/app/board/uXjVI_R99-E=/
 
 <h5> 4.2.1.1. Domain Layer </h5>
 
+La capa de dominio contiene los conceptos centrales del sistema relacionados con el cuidado de plantas. Aquí se modela la entidad "Plant" como agregado raíz, encapsulando atributos clave y comportamientos relevantes para su monitoreo y mantenimiento.
+
+| Atributo       | Tipo    | Descripción                                     |
+|----------------|---------|-------------------------------------------------|
+| id             | Long    | Identificador único de la planta                |
+| name           | String  | Nombre asignado por el usuario                  |
+| species        | String  | Especie de la planta                            |
+| humidityLevel  | Double  | Nivel actual de humedad                         |
+| temperature    | Double  | Temperatura ambiente                            |
+| lightExposure  | Double  | Nivel de luz recibida                           |
+| careTips       | String  | Consejos de cuidado relacionados a la especie   |
+| userId         | Long    | ID del usuario que gestiona esta planta         |
+
+Métodos:
+
+updateEnvironmentData(humidity, temperature, light): actualiza datos ambientales
+
+getStatus(): devuelve un resumen del estado de la planta
+
+needsWatering(): determina si la planta requiere riego
+
+<h5> 4.2.1.2. Interface Layer </h5>
+
+Esta capa define los puntos de interacción entre el sistema y los usuarios o sistemas externos. Incluye controladores REST que permiten registrar, actualizar y consultar información sobre las plantas.
+
+| Método | Ruta                         | Descripción                                    |
+|--------|------------------------------|------------------------------------------------|
+| POST   | /api/v1/plants               | Registra una nueva planta                      |
+| GET    | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |
+| PUT    | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |
+| GET    | /api/v1/plants               | Lista todas las plantas del usuario            |
 
 
+Controlador: PlantController
 
-
+| Método | Ruta                         | Descripción                                    |
+|--------|------------------------------|------------------------------------------------|
+| POST   | /api/v1/plants               | Registra una nueva planta                      |
+| GET    | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |
+| PUT    | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |
+| GET    | /api/v1/plants               | Lista todas las plantas del usuario            |
