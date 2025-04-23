@@ -407,16 +407,12 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 <p>Nos dirigiremos al segmento del sector agrícola que aún no ha incorporado tecnología, ofreciendo una solución accesible y fácil de usar. El objetivo es que incluso quienes no tienen experiencia con herramientas tecnológicas puedan utilizarlas de forma eficaz para optimizar sus recursos.<br>
 <b>Estrategia general:</b> Diferenciación<br>
-<b>Objetivo principal:</b> Sobresalir frente a la competencia mediante un producto que responda a necesidades específicas de nuestros segmentos de mercado.
-<b>Estrategias clave:</b>
-- **Enfoque en el usuario**: Priorizar mejoras basadas en las necesidades y sugerencias de los clientes.  
-- **Gestión de usuarios**: La aplicación contará con una red interconectada que permitirá al usuario administrador supervisar y gestionar a los trabajadores bajo su responsabilidad.
+<b>Objetivo principal:</b> Sobresalir frente a la competencia mediante un producto que responda a necesidades específicas de nuestros segmentos de mercado.<br>
+<b>Estrategias clave:</b><br>
 <ul>
   <li><strong>Enfoque en el usuario</strong>: Priorizar mejoras basadas en las necesidades y sugerencias de los clientes.</li>
   <li><strong>Gestión de usuarios</strong>: La aplicación contará con una red interconectada que permitirá al usuario administrador supervisar y gestionar a los trabajadores bajo su responsabilidad.</li>
 </ul>
-
-
 </p>
 
  
