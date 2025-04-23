@@ -257,12 +257,6 @@ El branding de Llanteros refleja el espíritu innovador y comprometido de una st
 
 <h5> 4.1.1. EventStorming </h5>
 
-<img src="![image](" 
-  style="display: block; 
-  margin-left:auto; 
-  margin-right: auto; 
-  width=50%"/>
-  
-![image]()
+<img src= "./assets/braimtorning.png" />
 
 https://miro.com/app/board/uXjVI_S7iZ8=/
