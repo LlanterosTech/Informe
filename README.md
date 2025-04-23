@@ -281,3 +281,11 @@ https://miro.com/app/board/uXjVI_S7iZ8=/
 | PlantCare         | Entidades: Planta, Recordatorio<br>Servicios: Generador de alertas, recomendaciones según especie<br>Infraestructura: motor de reglas basado en condiciones ambientales y preferencias del usuario | planta, recordatorio, especie, cuidado     | Core Domain               | Decision Engine       |
 | Notification      | Envío de alertas por email, notificación push o en la app<br>Registro de eventos críticos                                     | alerta, evento, notificación               | Generic Subdomain         | Delivery Mechanism   |
 | UserManagement    | Registro e inicio de sesión<br>Asignación de sensores y plantas a usuarios                                                     | usuario, login, sesión, asignación         | Supporting Subdomain      | Access Control       |
+
+<h1> 4.1.2. Context Mapping </h1>
+
+
+
+https://miro.com/app/board/uXjVI_R99-E=/
+
+
