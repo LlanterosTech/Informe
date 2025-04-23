@@ -392,7 +392,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 | Nombre | Plantita                         | Agrobit                                    | Afemis | Agri |
 |--------|------------------------------|------------------------------------------------|--------|------|
-| Overview   | /api/v1/plants               | Registra una nueva planta                      |||
+| Overview   | Software de gestión agrícola centrado en la capacitación del usuario que puede adaptarse a sus necesidades | Software enfocado en la gestión de procesos agrícolas y ganaderos con ayuda de herramientas de alta gama | Software de hispatec que gestiona procesos agrícolas utilizando herramientas de alta gama | Agri es una solución de software latina que permite gestionar campos de cultivo de forma centralizada |
 | Ventaja Competitiva   | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |||
 | Mercado Objetivo   | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |||
 | Estrategias de Marketing   | /api/v1/plants               | Lista todas las plantas del usuario            |||
