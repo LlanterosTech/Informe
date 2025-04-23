@@ -189,15 +189,19 @@
 
 
 
-CAPÍTULO I: INTRODUCCIÓN
+<div id='1.'><h2>CAPÍTULO I: INTRODUCCIÓN</h2></div>
 
-<h1> 1.1 Startup Profile <h1>
+<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
 
-  <h1> 1.1.1 Descripción de la Startup </h1> 
- Llanteros es un startup conformado por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos somos un grupo comprometido con las necesidades y problemáticas que enfrenta el sector agrícola, viéndose afectadas principalmente por la gestión de sus productos y operaciones. Es de esta forma, que en conjunto, vimos una oportunidad para proponer una solución innovadora para la mejora de la eficiencia y calidad de las operaciones de los productores agrícolas. 
+<div id='1.1.1.'><h4> 1.1.1. Descripción de la Startup.</h4></div>
+<div align="justify">
+Llanteros es una startup conformada por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos, somos un equipo comprometido con las necesidades y problemáticas que enfrentan los entusiastas del cuidado de plantas, quienes a menudo se ven afectados por la falta de información clara y herramientas eficientes para la gestión del bienestar de sus plantas. Es así como identificamos una oportunidad para proponer una solución innovadora que mejore la eficiencia y calidad en el cuidado de las plantas.
+</div>
 
  <h1> 1.2 Solution Profile </h1>
- En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
+<div align="justify">
+En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
+</div>
 
 <h1> 1.2.1 Antecedentes y problemática</h1>
 
