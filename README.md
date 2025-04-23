@@ -347,40 +347,31 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
-<table>
-	<tbody>
-		<tr>
-			<td colspan="2" rowspan="2">Lean UX Canvas</td>
-			<td>Fecha: 19/04/2025</td>
-		</tr>
-		<tr>
-			<td>Iteración 1</td>
-		</tr>
-		<tr>
-			<td>1. Problema de negocios: <br> Los usuarios enfrentan dificultades para mantener sus plantas saludables y prósperas debido a la falta de información y herramientas adecuadas para su cuidado.</td>
-			<td rowspan="2">5. Ideas de solución: <br> Desarrollar una aplicación que integre sensores que informe sobre el estado de la planta y proporcione recomendaciones o acciones personalizadas para el cuidado óptimo de la planta.</td>
-			<td rowspan="2">2. Resultados comerciales: <br> - Mejora en la calidad de crecimiento de las plantas. <br>
-- Reducción de pérdidas. <br>
-- Aumento de la satisfacción del cliente.
-</td>
-		</tr>
-		<tr>
-			<td>3. Usuarios y Clientes: <br> Personas interesadas en el cuidado de plantas.</td>
-		</tr>
-		<tr>
-			<td rowspan="2">6. Hipótesis <br> * Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <tbody>
+    <tr>
+      <td colspan="2" rowspan="2" style="font-weight: bold; text-align: justify;">Lean UX Canvas</td>
+      <td style="text-align: right; font-weight: bold;">Fecha: 19/04/2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: right; font-weight: bold;">Iteración 1</td>
+    </tr>
+    <tr>
+      <td style="text-align: justify;"><strong>1. Problema de negocios:</strong><br>Los usuarios enfrentan dificultades para mantener sus plantas saludables y prósperas debido a la falta de información y herramientas adecuadas para su cuidado.</td>
+      <td rowspan="2" style="text-align: justify;"><strong>5. Ideas de solución:</strong><br>Desarrollar una aplicación que integre sensores que informe sobre el estado de la planta y proporcione recomendaciones o acciones personalizadas para el cuidado óptimo de la planta.</td>
+      <td rowspan="2" style="text-align: justify;"><strong>2. Resultados comerciales:</strong><br>- Mejora en la calidad de crecimiento de las plantas.<br>- Reducción de pérdidas.<br>- Aumento de la satisfacción del cliente.</td>
+    </tr>
+    <tr>
+      <td style="text-align: justify;"><strong>3. Usuarios y Clientes:</strong><br>Personas interesadas en el cuidado de plantas.</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="text-align: justify;"><strong>6. Hipótesis</strong><br>* Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.<br><br>* Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
+      <td rowspan="2" style="text-align: justify;"><strong>7. ¿Qué es lo más importante que debemos aprender primero?</strong><br>Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.</td>
+      <td style="text-align: justify;"><strong>4. Beneficios del usuario:</strong><br>* Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas.<br>* Disminución de la pérdida de plantas debido a un cuidado inadecuado y a la falta de información.</td>
+    </tr>
+    <tr>
+      <td style="text-align: justify;"><strong>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</strong><br>La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para
 
-* Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
-			<td rowspan="2"> 7. ¿Qué es lo más importante que debemos aprender primero? <br> Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.</td>
-			<td>4. Beneficios del usuario: <br> * Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas. <br>
-* Disminución de la  pérdida de plantas  debido a un cuidado inadecuado y a la falta de información. </td>
-		</tr>
-		<tr>
-			<td>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante? <br> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
-Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio. </td>
-		</tr>
-	</tbody>
-</table>
 
 <h1> 2. CAPÍTULO II: Needfinding </h1>
 <h2> 2.1. Competidores</h2>
