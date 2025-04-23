@@ -385,6 +385,11 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 <p> **Efemis** : Esta herramienta digital para la gestión agrícola utiliza imágenes satelitales, pronósticos meteorológicos y sensores para optimizar las operaciones y reducir costos. Desarrollada por Hispatec, Efemis es su solución principal dentro de una serie de herramientas especializadas para diferentes áreas del sector agrícola. </p>
 <p> **Agri** : Es un software diseñado específicamente para el sector agrícola, que facilita la gestión de órdenes de aplicación, labores agrícolas, cosechas y sistemas de riego, entre otros. Para utilizar sus servicios, es necesario realizar una evaluación del terreno agrícola, la cual determina su clasificación por tamaño. En base a ello, se establece una tarifa mensual que varía entre 320 dólares para pequeñas empresas y 715 dólares para grandes explotaciones agrícolas. </p>
 <h3> 2.1.1. Análisis Competitivo</h3>
+<p>¿Por qué realizar este análisis?</p>
+<p>Es fundamental realizar este análisis para comprender las áreas en las que se enfocan nuestros competidores directos. Esto nos permitirá identificar oportunidades para diferenciarnos y destacar en aspectos que capten el interés de nuestro público objetivo.</p>
+
+|Nombre|Plantita|Agrobit|Efemis|Agri|
+
 <h3> 2.1.2. Estrategias y tácticas frente a competidores/h3>
 <h2> 2.2. Entrevistas</h2>
 <h3> 2.2.1. Diseño de entrevistas
