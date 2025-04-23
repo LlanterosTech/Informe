@@ -370,8 +370,10 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
       <td style="text-align: justify;"><strong>4. Beneficios del usuario:</strong><br>* Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas.<br>* Disminución de la pérdida de plantas debido a un cuidado inadecuado y a la falta de información.</td>
     </tr>
     <tr>
-      <td style="text-align: justify;"><strong>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</strong><br>La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para
-
+      <td style="text-align: justify;"><strong>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</strong><br>La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.<br><br>Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h1> 2. CAPÍTULO II: Needfinding </h1>
 <h2> 2.1. Competidores</h2>
