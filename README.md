@@ -75,11 +75,11 @@
    1.2. [Solution Profile.](#1.2.)<br>
    1.2.1. [Antecedentes y Problemática.](#1.2.1.)<br>
    1.2.2. [Lean UX Process.](#1.2.2.)<br>
-   1.2.3. [Lean UX Problem Statements.](#1.2.3.)<br>
-   1.2.4. [Lean UX Assumptions.](#1.2.4.)<br>
-   1.2.5. [Lean UX Hypothesis Statements.](#1.2.5.)<br>
-   1.2.6. [Lean UX Canvas.](#1.2.5.)<br>
-   1.3. [Segmentos objetivo.](#1.2.6.)<br>
+   1.2.2.1. [Lean UX Problem Statements.](#1.2.2.1.)<br>
+   1.2.2.2. [Lean UX Assumptions.](#1.2.2.2.)<br>
+   1.2.2.3. [Lean UX Hypothesis Statements.](#1.2.2.3.)<br>
+   1.2.2.4. [Lean UX Canvas.](#1.2.2.4.)<br>
+   1.3. [Segmentos objetivo.](#1.3.)<br>
 2. [**Capítulo II: Requirements Elicitation & Analysis.**](#2.)<br>
    2.1. [Competidores.](#2.1.)<br>
    2.1.1. [Análisis competitivo.](#2.1.1.)<br>
@@ -323,6 +323,18 @@ Las características de seguimiento de la cadena de suministro en tiempo real, g
 
 * **¿Cómo debería verse y comportarse nuestro producto?**
 Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualizaciones claras de datos y esto de las plantas. Debería ser confiable, escalable y adaptable a las necesidades específicas de cada usuario.
+
+**Business Assumptions**
+1. Creemos que nuestros clientes necesitan una solución que les permita gestionar eficientemente el cuidado de las plantas, mejorando la eficiencia y la calidad.
+2. Estas necesidades pueden ser satisfechas por una plataforma digital que integre sensores. Estos sensores proporcionarían información sobre el clima, la humedad, el monitoreo de cultivos y el análisis de datos. Esto proporcionaría herramientas poderosas para la toma de decisiones informadas.
+3. El valor #1 que mi cliente quiere de mi servicio es la mejora en la eficiencia y la calidad de sus plantas, lo que les permite maximizar los rendimientos.
+4. El cliente obtiene beneficios al tener un mejor manejo de sus plantas ya que se detectara el estado del clima y plagas y el propio sistema sabrán cómo tratarlas.
+5. Voy a adquirir la mayoría de mis clientes a través de campañas de marketing y redes sociales.
+6. Haré dinero a través (...)
+7. Mi competencia principal en el mercado son otras soluciones de cuidado de plantas, tanto tradicionales como digitales.
+8. Los venceremos debido a la simplicidad y facilidad de uso de nuestra plataforma, así como a su capacidad para ofrecer una solución integral y altamente personalizable que se adapte a las necesidades específicas de cada cliente.
+9. El mayor riesgo es que los clientes no adopten nuestra solución debido a la resistencia al cambio o a la falta de conocimiento tecnológico.
+10. Resolveremos esto a través de demostraciones y pruebas gratuitas de nuestra plataforma, y proporcionando un sólido soporte al cliente para garantizar una implementación exitosa y una experiencia positiva del usuario.
 
 
 <h1> 4. Capítulo IV: Solution Software Design </h1>
