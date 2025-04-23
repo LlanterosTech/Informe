@@ -365,12 +365,14 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 </td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>3. Usuarios y Clientes: <br> Personas interesadas en el cuidado de plantas.</td>
 		</tr>
 		<tr>
+			<td rowspan="2">6. Hipótesis <br> - Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
+
+- Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
 			<td rowspan="2"></td>
-			<td rowspan="2"></td>
-			<td></td>
+			<td>7. ¿Qué es lo más importante que debemos aprender primero? <br> Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas. </td>
 		</tr>
 		<tr>
 			<td></td>
