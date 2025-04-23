@@ -368,14 +368,16 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 			<td>3. Usuarios y Clientes: <br> Personas interesadas en el cuidado de plantas.</td>
 		</tr>
 		<tr>
-			<td rowspan="2">6. Hipótesis <br> - Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
+			<td rowspan="2">6. Hipótesis <br> * Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
 
-- Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
-			<td rowspan="2"></td>
-			<td>7. ¿Qué es lo más importante que debemos aprender primero? <br> Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas. </td>
+* Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
+			<td rowspan="2"> 7. ¿Qué es lo más importante que debemos aprender primero? <br> Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.</td>
+			<td>4. Beneficios del usuario: <br> * Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas. <br>
+* Disminución de la  pérdida de plantas  debido a un cuidado inadecuado y a la falta de información. </td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante? <br> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
+Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio. </td>
 		</tr>
 	</tbody>
 </table>
