@@ -346,7 +346,36 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
-
+<table>
+	<tbody>
+		<tr>
+			<td colspan="2" rowspan="2">Lean UX Canvas</td>
+			<td>Fecha: 19/04/2025</td>
+		</tr>
+		<tr>
+			<td>Iteración 1</td>
+		</tr>
+		<tr>
+			<td>1. Problema de negocios: <br> Los usuarios enfrentan dificultades para mantener sus plantas saludables y prósperas debido a la falta de información y herramientas adecuadas para su cuidado.</td>
+			<td rowspan="2">5. Ideas de solución: <br> Desarrollar una aplicación que integre sensores que informe sobre el estado de la planta y proporcione recomendaciones o acciones personalizadas para el cuidado óptimo de la planta.</td>
+			<td rowspan="2">2. Resultados comerciales: <br> - Mejora en la calidad de crecimiento de las plantas. <br>
+- Reducción de pérdidas. <br>
+- Aumento de la satisfacción del cliente.
+</td>
+		</tr>
+		<tr>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="2"></td>
+			<td rowspan="2"></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
 
 <h1> 4. Capítulo IV: Solution Software Design </h1>
 
