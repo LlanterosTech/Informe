@@ -255,7 +255,7 @@ Plantita se sitúa en la intersección del cuidado de plantas, enfocándose espe
 
 <h5> 4.1.1.1. Candidate Context Discovery </h5>
 
-<img src= "./assets/braimtornig.png" />
+<img src= "./assets/brain.png" />
 
 https://miro.com/app/board/uXjVI_S7iZ8=/
 
