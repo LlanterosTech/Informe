@@ -390,8 +390,8 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 |Nombre|Plantita|Agrobit|Efemis|Agri|
 
-| Método | Ruta                         | Descripción                                    |
-|--------|------------------------------|------------------------------------------------|
+| Nombre | Plantita                         | Agrobit                                    | Afemis | Agri |
+|--------|------------------------------|------------------------------------------------|--------|------|
 | POST   | /api/v1/plants               | Registra una nueva planta                      |
 | GET    | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |
 | PUT    | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |
