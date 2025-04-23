@@ -196,3 +196,11 @@ CAPÍTULO I: INTRODUCCIÓN
   <h1> 1.1.1 Descripción de la Startup </h1> 
  Llanteros es un startup conformado por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos somos un grupo comprometido con las necesidades y problemáticas que enfrenta el sector agrícola, viéndose afectadas principalmente por la gestión de sus productos y operaciones. Es de esta forma, que en conjunto, vimos una oportunidad para proponer una solución innovadora para la mejora de la eficiencia y calidad de las operaciones de los productores agrícolas. 
 
+ <h1> 1.2 Solution Profile </h1>
+ En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
+
+<h1> 1.2.1 Antecedentes y problemática</h1>
+
+<h5> Antecedentes: </h5>
+
+El mundo de la jardinería y el cuidado de plantas presenta actualmente desafíos que requieren soluciones creativas. Uno de los principales retos es la creciente popularidad de tener plantas en casa, impulsada por el deseo de conectar con la naturaleza y mejorar nuestros espacios. Esta tendencia exige que aprendamos más sobre cómo cultivar y mantener nuestras plantas saludables, lo que a su vez nos enfrenta a desafíos como entender sus necesidades específicas y adaptarnos a diferentes entornos. Además, quienes cuidan plantas a menudo se encuentran con la dificultad de monitorear y optimizar el crecimiento de sus plantas, así como la necesidad de asegurar que estén libres de plagas y enfermedades. Estos factores combinados 
