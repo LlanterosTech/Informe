@@ -213,48 +213,45 @@ En esta sección se describe el problema que el proyecto tiene como objetivo res
 
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
-<h5> Antecedentes: </h5>
+<h5> **Antecedentes:** </h5>
 <div align="justify">
 El mundo de la jardinería y el cuidado de plantas presenta actualmente desafíos que requieren soluciones creativas. Uno de los principales retos es la creciente popularidad de tener plantas en casa, impulsada por el deseo de conectar con la naturaleza y mejorar nuestros espacios. Esta tendencia exige que aprendamos más sobre cómo cultivar y mantener nuestras plantas saludables, lo que a su vez nos enfrenta a desafíos como entender sus necesidades específicas y adaptarnos a diferentes entornos. Además, quienes cuidan plantas a menudo se encuentran con la dificultad de monitorear y optimizar el crecimiento de sus plantas, así como la necesidad de asegurar que estén libres de plagas y enfermedades. Estos factores combinados resaltan la importancia de desarrollar conocimientos y métodos que nos ayuden a cuidar nuestras plantas de manera eficiente y exitosa.
 </div>
 
-<h1> Problemática (5Ws y 2Hs): </h1>
+<h1> **Problemática** (5Ws y 2Hs): </h1>
 
-
- WHAT/QUÉ 
+##### WHAT/QUÉ 
   
 En este proyecto, el problema central que abordamos es la dificultad que enfrentan las personas al cuidar plantas, especialmente aquellas que recién comienzan. Esta dificultad se manifiesta en la falta de información clara, el desconocimiento de las necesidades específicas de cada planta y la gestión ineficiente de los recursos necesarios para su cuidado, lo que puede llevar a la frustración y al abandono de esta actividad. 
 
-WHERE/DÓNDE 
+##### WHERE/DÓNDE 
   
 Este problema se da en los hogares de las personas aficionadas al jardín. Cualquier lugar donde las personas intentan cultivar y cuidar plantas, especialmente principiantes, pueden enfrentar estas dificultades. 
 
- WHY/POR QUÉ 
+##### WHY/POR QUÉ 
 
 Este problema surge porque cada vez más personas quieren tener plantas en casa, pero no siempre saben cómo cuidarlas correctamente. Esto puede deberse a la falta de información clara y accesible, o a que las necesidades de cada planta son diferentes y pueden ser difíciles de entender al principio. Además, a veces no contamos con el tiempo o los recursos necesarios para darles a nuestras plantas la atención que requieren 
 
-WHEN/CUANDO
+##### WHEN/CUANDO
 
 Este problema se manifiesta desde el momento en que decidimos traer una planta a nuestro hogar. Al inicio, no estamos seguros de cómo cuidarla y pueden surgir dificultades. También ocurre cuando las plantas experimentan cambios en su entorno, como trasplantes o cambios de estación, y no sabemos cómo adaptarnos a sus nuevas necesidades.
 
-WHO/QUIÉN
+##### WHO/QUIÉN
 
 Personas interesadas en el mundo de las plantas con poco conocimiento acerca del cuidado adecuado.
 
-HOW/CÓMO
+##### HOW/CÓMO
 
 Las personas podrán acceder a nuestra aplicación a través de sus teléfonos móviles o computadoras. Encontrarán información clara y fácil de entender sobre el cuidado de plantas, consejos, recordatorios de riego y fertilización, e incluso la posibilidad de identificar plantas y problemas comunes.
 
-HOW MUCH/CUÁNTO
+##### HOW MUCH/CUÁNTO
 
 “El nivel de dificultad para cuidar una planta depende de factores como humedad, iluminación, riego y control de plagas. Las exigencias pueden variar según las condiciones del hogar y las tendencias del cuidador.” (Infobae, 2024)
 
 El problema de no saber cómo cuidar correctamente las plantas se manifiesta en la cantidad de plantas que mueren o se enferman en hogares y espacios de cultivo. Esto puede significar una pérdida económica, pero también una frustración emocional para quienes intentan mantenerlas con vida. A menudo, las personas gastan dinero en plantas y suministros sin obtener los resultados deseados, lo que lleva a un ciclo de compra y pérdida.
 
-<h1> 1.2.2 Lean UX Process </h1>
-
-   <h1> 1.2.2.2 Lean UX Problem Statements </h1>
-
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
 
 <h5> Domain: </h5>
 
