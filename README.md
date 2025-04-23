@@ -404,6 +404,11 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 | Amenazas   | La implementación de herramientas costosas por parte de la competencia | Dado que el proceso de cotización es lento, muchos clientes prefieren buscar otras opciones | Sus ventas se han visto reducidas |La creciente tecnología y el uso de la inteligencia artificial puede desplazar a muchas soluciones de software|
 
 <h3> 2.1.2. Estrategias y tácticas frente a competidores/h3>
+
+<p>Nos dirigiremos al segmento del sector agrícola que aún no ha incorporado tecnología, ofreciendo una solución accesible y fácil de usar. El objetivo es que incluso quienes no tienen experiencia con herramientas tecnológicas puedan utilizarlas de forma eficaz para optimizar sus recursos.<br>
+Estrategia general: Diferenciación<br>
+Objetivo principal: Sobresalir frente a la competencia mediante un producto que responda a necesidades específicas de nuestros segmentos de mercado.</p>
+ 
 <h2> 2.2. Entrevistas</h2>
 <h3> 2.2.1. Diseño de entrevistas
 </h3>
