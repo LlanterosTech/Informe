@@ -375,6 +375,14 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
   </tbody>
 </table>
 
+<div id='1.3.'><h3> 1.3. Segmentos objetivo.</h3></div>
+
+* **Aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas:** Los usuarios utilizarán "Plantita" para acceder a información personalizada, herramientas de monitoreo y una comunidad de apoyo, con el fin de mejorar la salud y el crecimiento de sus plantas.
+
+* **Características Demográficas:** Personas entre 20 y 50 años, que viven en áreas urbanas y suburbanas, con un interés en la jardinería y el cuidado de plantas pero con conocimientos limitados.  Posiblemente con un nivel educativo medio o superior y con acceso a dispositivos móviles y tecnología.
+
+* **Características Geográficas:** Inicialmente enfocado en áreas urbanas y suburbanas en Perú, con potencial de expansión a otras regiones y países con un interés similar en la jardinería doméstica y el cuidado de plantas.
+
 <h1> 2. CAPÍTULO II: Needfinding </h1>
 <h2> 2.1. Competidores</h2>
 <p> En el mercado al que buscamos ofrecer nuestra solución, identificamos diversos competidores que presentan propuestas similares orientadas a la gestión agrícola. A continuación, se detalla un resumen de sus soluciones de software: </p>
