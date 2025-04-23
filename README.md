@@ -390,6 +390,13 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 |Nombre|Plantita|Agrobit|Efemis|Agri|
 
+| Método | Ruta                         | Descripción                                    |
+|--------|------------------------------|------------------------------------------------|
+| POST   | /api/v1/plants               | Registra una nueva planta                      |
+| GET    | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |
+| PUT    | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |
+| GET    | /api/v1/plants               | Lista todas las plantas del usuario            |
+
 <h3> 2.1.2. Estrategias y tácticas frente a competidores/h3>
 <h2> 2.2. Entrevistas</h2>
 <h3> 2.2.1. Diseño de entrevistas
