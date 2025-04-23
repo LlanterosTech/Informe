@@ -255,7 +255,7 @@ Plantita se sitúa en la intersección del cuidado de plantas, enfocándose espe
 
 <h5> 4.1.1.1. Candidate Context Discovery </h5>
 
-<img src= "./assets/brain.png" />
+<img src= "./assets/braini.png" />
 
 https://miro.com/app/board/uXjVI_S7iZ8=/
 
@@ -274,13 +274,10 @@ https://miro.com/app/board/uXjVI_S7iZ8=/
 
 <h1> 4.1.1.3. Bounded Context Canvases </h1>
 
-| Bounded Context     | Descripción                                                                                 |
-|---------------------|---------------------------------------------------------------------------------------------|
-| Sensor Monitoring   | Recolecta datos de sensores de humedad, luz y temperatura. Identifica condiciones críticas. |
-| Plant Profile       | Maneja la información específica de cada planta: especie, nombre, fechas, condiciones.      |
-| Recommendations Engine | Genera consejos personalizados y alertas en base a datos recogidos por los sensores.        |
-| User Management     | Gestiona usuarios, registros, login y preferencias personalizadas.                          |
-| Notifications       | Envía alertas sobre riego, poda, fertilización o eventos fuera de parámetros.               |
-| Community and Support | Proporciona guías, videos, foros y soporte para principiantes en jardinería.                |
 
-
+| Bounded Context   | Descripción                                                                                                                   | Ubiquitous Language                        | Strategic Classification | Domain Role         |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|---------------------------|----------------------|
+| Monitoring        | Sensor gateway para recolección y enrutamiento de datos desde sensores IoT hacia los servicios internos                       | sensor, medición, humedad, temperatura     | Supporting Subdomain      | Input Layer          |
+| PlantCare         | Entidades: Planta, Recordatorio<br>Servicios: Generador de alertas, recomendaciones según especie<br>Infraestructura: motor de reglas basado en condiciones ambientales y preferencias del usuario | planta, recordatorio, especie, cuidado     | Core Domain               | Decision Engine       |
+| Notification      | Envío de alertas por email, notificación push o en la app<br>Registro de eventos críticos                                     | alerta, evento, notificación               | Generic Subdomain         | Delivery Mechanism   |
+| UserManagement    | Registro e inicio de sesión<br>Asignación de sensores y plantas a usuarios                                                     | usuario, login, sesión, asignación         | Supporting Subdomain      | Access Control       |
