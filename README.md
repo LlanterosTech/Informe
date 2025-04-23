@@ -274,13 +274,13 @@ https://miro.com/app/board/uXjVI_S7iZ8=/
 
 <h1> 4.1.1.3. Bounded Context Canvases </h1>
 
+| Bounded Context     | Descripción                                                                                 |
+|---------------------|---------------------------------------------------------------------------------------------|
+| Sensor Monitoring   | Recolecta datos de sensores de humedad, luz y temperatura. Identifica condiciones críticas. |
+| Plant Profile       | Maneja la información específica de cada planta: especie, nombre, fechas, condiciones.      |
+| Recommendations Engine | Genera consejos personalizados y alertas en base a datos recogidos por los sensores.        |
+| User Management     | Gestiona usuarios, registros, login y preferencias personalizadas.                          |
+| Notifications       | Envía alertas sobre riego, poda, fertilización o eventos fuera de parámetros.               |
+| Community and Support | Proporciona guías, videos, foros y soporte para principiantes en jardinería.                |
 
-| Bounded Context             | Descripción                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------------------|
-| **Sensor Monitoring**       | Recolecta datos de sensores de humedad, luz y temperatura. Identifica condiciones críticas. |
-| **Plant Profile**           | Maneja la información específica de cada planta: especie, nombre, fechas, condiciones.      |
-| **Recommendations Engine**  | Genera consejos personalizados y alertas en base a datos recogidos por los sensores.        |
-| **User Management**         | Gestiona usuarios, registros, login y preferencias personalizadas.                          |
-| **Notifications**           | Envía alertas sobre riego, poda, fertilización o eventos fuera de parámetros.               |
-| **Community & Support**     | Proporciona guías, videos, foros y soporte para principiantes en jardinería.                |
 
