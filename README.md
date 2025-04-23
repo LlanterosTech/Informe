@@ -238,3 +238,11 @@ HOW MUCH/CUÁNTO
 
 El problema de no saber cómo cuidar correctamente las plantas se manifiesta en la cantidad de plantas que mueren o se enferman en hogares y espacios de cultivo. Esto puede significar una pérdida económica, pero también una frustración emocional para quienes intentan mantenerlas con vida. A menudo, las personas gastan dinero en plantas y suministros sin obtener los resultados deseados, lo que lleva a un ciclo de compra y pérdida.
 
+<h1> 1.2.2 Lean UX Process </h1>
+
+   <h1> 1.2.2.2 Lean UX Problem Statements </h1>
+
+
+<h5> Domain: </h5>
+
+Plantita se sitúa en la intersección del cuidado de plantas, enfocándose específicamente en el nicho de los aficionados a la jardinería que buscan soluciones prácticas. Este segmento combina el deseo de tener plantas saludables con la necesidad de información clara y herramientas de monitoreo.
