@@ -274,22 +274,13 @@ https://miro.com/app/board/uXjVI_S7iZ8=/
 
 <h1> 4.1.1.3. Bounded Context Canvases </h1>
 
-#### • Bounded Context: Sensor Monitoring
-Gestiona la recolección y procesamiento de datos de sensores (humedad, luz, temperatura) instalados en las macetas o zonas de cultivo. Este contexto permite identificar condiciones críticas para la salud de las plantas.
 
-#### • Bounded Context: Plant Profile
-Administra los registros de especies, nombres personalizados, fechas de siembra y características específicas. Permite personalizar el seguimiento de cada planta según sus necesidades.
-
-#### • Bounded Context: Recommendations Engine
-Interpreta los datos recolectados para generar consejos de cuidado personalizados, alertas y diagnósticos preliminares ante posibles plagas o enfermedades.
-
-#### • Bounded Context: User Management
-Encargado de los registros, autenticación y configuración de preferencias del usuario. Permite también el ajuste del tipo y frecuencia de notificaciones.
-
-#### • Bounded Context: Notifications
-Orquesta el envío de notificaciones inteligentes para recordar riego, fertilización, poda y advertencias por condiciones anormales.
-
-#### • Bounded Context: Community & Support
-Proporciona acceso a guías, videos educativos, foros y canales de soporte para aficionados a la jardinería, integrando la dimensión social al cuidado de plantas.
-
+| Bounded Context             | Descripción                                                                                 |
+|----------------------------|---------------------------------------------------------------------------------------------|
+| **Sensor Monitoring**       | Recolecta datos de sensores de humedad, luz y temperatura. Identifica condiciones críticas. |
+| **Plant Profile**           | Maneja la información específica de cada planta: especie, nombre, fechas, condiciones.      |
+| **Recommendations Engine**  | Genera consejos personalizados y alertas en base a datos recogidos por los sensores.        |
+| **User Management**         | Gestiona usuarios, registros, login y preferencias personalizadas.                          |
+| **Notifications**           | Envía alertas sobre riego, poda, fertilización o eventos fuera de parámetros.               |
+| **Community & Support**     | Proporciona guías, videos, foros y soporte para principiantes en jardinería.                |
 
