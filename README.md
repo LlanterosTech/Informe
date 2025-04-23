@@ -285,7 +285,7 @@ Existe una brecha entre el deseo de los aficionados a la jardinería de tener pl
 Nuestro segmento inicial se compone de aficionados a la jardinería que son relativamente nuevos en el cuidado de plantas y que han experimentado dificultades para mantenerlas con vida. Este grupo incluye personas que viven en apartamentos o espacios pequeños, aquellos que tienen poco tiempo o experiencia previa en jardinería, y quienes desean utilizar la tecnología para mejorar su experiencia de cuidado de plantas.
 </div>
 
-<div id='1.2.2.2.'><h5> 1.2.2.1. Lean UX Assumptions.</h5></div>
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 **Features**
 
@@ -335,6 +335,17 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 8. Los venceremos debido a la simplicidad y facilidad de uso de nuestra plataforma, así como a su capacidad para ofrecer una solución integral y altamente personalizable que se adapte a las necesidades específicas de cada cliente.
 9. El mayor riesgo es que los clientes no adopten nuestra solución debido a la resistencia al cambio o a la falta de conocimiento tecnológico.
 10. Resolveremos esto a través de demostraciones y pruebas gratuitas de nuestra plataforma, y proporcionando un sólido soporte al cliente para garantizar una implementación exitosa y una experiencia positiva del usuario.
+
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+**Hipótesis 1:**
+**Creemos que** al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. **Sabremos que** hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
+
+**Hipótesis 2:**
+**Creemos que** el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. **Sabremos que** hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.
+
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+
 
 
 <h1> 4. Capítulo IV: Solution Software Design </h1>
