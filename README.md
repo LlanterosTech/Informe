@@ -378,6 +378,22 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 	</tbody>
 </table>
 
+<h1> 2. CAPÍTULO II: Needfinding </h1>
+<h2> 2.1. Competidores</h2>
+<h3> 2.1.1. Análisis Competitivo</h3>
+<h3> 2.1.2. Estrategias y tácticas frente a competidores/h3>
+<h2> 2.2. Entrevistas</h2>
+<h3> 2.2.1. Diseño de entrevistas
+</h3>
+<h3> 2.2.2. Registro de entrevistas</h3>
+<h3> 2.2.3. Análisis de entrevistas</h3>
+<h2> 2.3. Needfinding</h2>
+<h3> 2.3.1. User Personas</h3>
+<h3> 2.3.2. User Task Matrix</h3>
+<h3> 2.3.3. User Journey Mapping</h3>
+<h3> 2.3.4. As-is Scenario Mapping</h3>
+
+
 <h1> 4. Capítulo IV: Solution Software Design </h1>
 
 <h1>  4.1 Strategic-Level Domain-Driven Design </h1>
