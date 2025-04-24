@@ -465,7 +465,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
 
 <p><b>Para el segmento de aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas.:</b></p>
-<img src="assets/images/To-Be ScenarioMap.jpg">
+<img src="assets/To-Be ScenarioMap.jpg">
 
 
 ## 3.2 User Stories
