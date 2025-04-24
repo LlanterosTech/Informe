@@ -585,3 +585,85 @@ Controlador: PlantController
 | GET    | /api/v1/plants/{id}          | Obtiene una planta por su ID                   |
 | PUT    | /api/v1/plants/{id}/data     | Actualiza datos de sensores de una planta      |
 | GET    | /api/v1/plants               | Lista todas las plantas del usuario            |
+
+
+**Dependencias:**
+
+- PlantCommandService
+- PlantQueryService
+- CreatePlantResource
+- UpdateSensorDataResource
+
+4\.2.1.3. Application Layer
+
+Esta capa orquesta los casos de uso del sistema. Aquí se encuentran servicios que encapsulan la lógica para crear y mantener plantas, validando datos y coordinando interacciones con el dominio y la infraestructura.
+
+Servicios:
+
+PlantCommandServiceImpl
+
+handle(CreatePlantCommand): valida datos y crea una planta
+
+handle(UpdateSensorDataCommand): actualiza humedad, temperatura y luz
+
+PlantQueryServiceImpl
+
+handle(GetPlantByIdQuery): devuelve la planta con un ID específico
+
+handle(GetAllPlantsByUserQuery): lista todas las plantas de un usuario
+
+Dependencias:
+
+PlantRepository
+
+CreatePlantCommand, UpdateSensorDataCommand
+
+Plant
+
+4\.2.1.4. Infrastructure Layer
+
+Se encarga de la persistencia de datos. La implementación del repositorio utiliza una base de datos relacional y mapea la entidad "Plant" a una tabla en la base de datos.
+
+Repositorio: PlantRepository
+
+|Método|Descripción|
+| :- | :- |
+|save(Plant plant)|Guarda o actualiza una planta|
+|findById(Long id)|Busca una planta por ID|
+|findAllByUserId(Long userId)|Lista plantas por usuario|
+
+
+
+
+4\.2.1.5. Bounded Context Software Architecture Component Level Diagram
+
+Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
+
+[SPA] --> [PlantController] --> [PlantCommandService | PlantQueryService] --> [PlantRepository] --> [DB: PlantTable]
+
+SPA (Single Page App): cliente web/móvil
+
+Controller: capa de entrada
+
+Services: lógica de aplicación
+
+Repository: persistencia
+
+DB: almacenamiento
+
+4\.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+4\.2.1.6.1. Bounded Context Domain Layer Class Diagram
+
+![](assets/Aspose.Words.016d377a-90f0-4a0c-8624-3413e28aca8f.001.png)
+
+4\.2.1.6.2. Bounded Context Database Design Diagram
+
+`  `![](assets/Aspose.Words.016d377a-90f0-4a0c-8624-3413e28aca8f.002.png)
+
+La tabla plants representa las plantas registradas, con referencia al usuario que las gestiona. El diseño está optimizado para consultas por usuario y actualización frecuente de datos sensoriales.
+
+**Referencias:**
+
+- Martignoni, D. (2024, noviembre 19). *Las plantas de interior más difíciles de cuidar*. Infobae. <https://www.infobae.com/tendencias/2024/11/19/las-plantas-de-interior-mas-dificiles-de-cuidar/>
+
