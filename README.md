@@ -206,6 +206,7 @@ Llanteros es una startup conformada por estudiantes de la carrera de Ingeniería
 | <p>**Andrea Milagros Cabanillas Gora-U202211711**<p> <img src= "./assets/andrea.png" style="width=75%"/> | Me   llamo   Andrea   Cabanillas,   tengo   18   años,   estudio ingeniería   de   software,   soy   una persona sociable y siempre estoy dispuesta a escuchar nuevas ideas , además me gusta trabajar en grupo ya que siempre aprendo de  otros.  Soy buena en  lo  que es el  ámbito de diseño de  videojuegos  y siempre  estoy  al  tanto  para dar nuevas ideas para la app de algún proyecto. |
 | <p>**Franky Oswald Mallma Espiritu- U20211c250**<p> <img src= "./assets/foto-Franky.png" style="width=75%"/> |Soy estudiante de ingeniería de software, actualmente en el octavo ciclo , tengo principales conocimientos en backend como lo son Golang y Nest.js y de mobile con Flutter , a nivel equipo soy una persona comprometida y buscador de soluciones emergentes en los proyectos. |
 | <p>**Juan Eduardo Montes Figueroa- U202210775**<p> <img src= "./assets/foto-Juan.png" style="width=75%"/> |Mi nombre es Juan Montes, tengo 20 años, tengo conocimientos en C++, IntelliJ IDEA Ultimate, Rider, Webstorm, Android Studio, Flutter y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles. |
+| <p>**Erick Joaquin Palomino Santa Cruz- U2022148434**<p> <img src= "./assets/foto-Erick.jpg" style="width=75%"/> |erick. |
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div align="justify">
@@ -463,14 +464,9 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
 
-<p><b>Para el segmento 1 (Pacientes):</b></p>
-<img src="assets/images/To_Be_Scenario_Mapping_1.jpg">
+<p><b>Para el segmento de aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas.:</b></p>
+<img src="assets/images/To-Be Scenario.jpg">
 
-<p><b>Para el segmento 2 (Doctores):</b></p>
-<img src="assets/images/To_Be_Scenario_Mapping_2.jpg">
-
-<p><b>Para el segmento 3 (Laboratorios):</b></p>
-<img src="assets/images/To_Be_Scenario_Mapping_3.jpg">
 
 ## 3.2 User Stories
 
