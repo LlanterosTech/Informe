@@ -476,9 +476,29 @@ Resumen de la entrevista:
 
 <p>Norma comenzó a cuidar plantas debido al estrés y la ansiedad, buscando un beneficio para su salud y estilo de vida, siguiendo recomendaciones sobre los efectos positivos de la jardinería. Sin embargo, se considera inexperta en el cultivo de flores y plantas frutales, lo que dificulta el proceso. Actualmente, riega y cuida las plantas basándose en su propio criterio, observando si están secas o enmontadas, y depende de consejos y opiniones de amigas y vecinas para el cuidado de sus plantas.
 Ella expresa su deseo de contar con la guía de un profesional o alguien con experiencia que pueda enseñarle directamente en su jardín. Le gustaría recibir notificaciones y recordatorios sobre el cuidado de sus plantas, así como una herramienta que monitoree el estado de sus plantas, como la humedad del suelo y la luz recibida. También le interesaría que una aplicación le indique qué enfermedad tiene una planta, por qué no crece, y cómo tratar las plagas. Aunque inicialmente no entendió el concepto de sensores, se mostró abierta a la idea de usarlos para monitorear las plantas.
-Para ella, es crucial que cualquier aplicación sea fácil de usar y no requiera mucho tiempo para aprender, especialmente para personas mayores de 50 años como ella. Le gustaría encontrar apoyo o una comunidad dentro de una aplicación para jardineros novatos, donde pueda aprender sobre por qué las flores tardan en florecer y los árboles frutales en dar frutos. Valora la simplicidad, la facilidad de uso y el apoyo personalizado. Está abierta a la tecnología, siempre y cuando sea accesible y le proporcione la información y el soporte que necesita para tener éxito en su jardín.
+Para ella, es crucial que cualquier aplicación sea fácil de usar y no requiera mucho tiempo para aprender, especialmente para personas mayores de 50 años como ella. Le gustaría encontrar apoyo o una comunidad dentro de una aplicación para jardineros novatos, donde pueda aprender sobre por qué las flores tardan en florecer y los árboles frutales en dar frutos. Valora la simplicidad, la facilidad de uso y el apoyo personalizado. Está abierta a la tecnología, siempre y cuando sea accesible y le proporcione la información y el soporte que necesita para tener éxito en su jardín.</p>
 
-</p>
+### Entrevista 1:
+
+Entrevistador: Juan Montes
+
+Entrevistado: Jorge Rivas
+
+Datos del entrevistado:
+
+- Edad: 42 años
+- Sexo: Masculino
+
+Link de la Entrevista: <a href="" Target="_blank">Link</a>
+
+- Minuto de Inicio: 0:00 
+- Minuto de Fin: 
+
+<img alt = "Entrevista1.1" src="assets/images/Entrevista1.1.png">
+
+Resumen de la entrevista:
+
+<p>Jorge Rivas, agricultor de 42 años, se considera práctico y racional. Comenzó a cuidar plantas por necesidad laboral y ahora siente pasión por su crecimiento. Sus principales desafíos son el clima cambiante, la dificultad para identificar problemas en las plantas y saber cuándo y cuánto regarlas. Actualmente no utiliza aplicaciones debido a barreras de idioma y falta de personalización, pero está interesado en herramientas que ofrezcan recordatorios, monitoreo con sensores y consejos prácticos. Valora especialmente que la aplicación sea fácil de usar, esté en español y cuente con una comunidad de apoyo para resolver dudas y compartir experiencias.</p>
 
 <h3> 2.2.3. Análisis de entrevistas</h3>
 <h2> 2.3. Needfinding</h2>
