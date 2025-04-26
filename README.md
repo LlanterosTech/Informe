@@ -451,6 +451,35 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 </ul>
 
 <h3> 2.2.2. Registro de entrevistas</h3>
+
+### Segmento objetivo - Agricultor
+
+### Entrevista 1:
+
+Entrevistador: Astrid Boronda
+
+Entrevistado: Norma Heidinger Casimiro
+
+Datos del entrevistado:
+
+- Edad: 55 años
+- Sexo: Femenino
+
+Link de la Entrevista: <a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://drive.google.com/file/d/1QPmypxm86Kk_iFu7pJxvQDSTnDv1nRg9/view?usp=sharing)" Target="_blank">Link</a>
+
+- Minuto de Inicio: 0:00 
+- Minuto de Fin: 7:19
+
+<img alt = "Entrevista1.1" src="assets/images/Entrevista1.1.png">
+
+Resumen de la entrevista:
+
+<p>Norma comenzó a cuidar plantas debido al estrés y la ansiedad, buscando un beneficio para su salud y estilo de vida, siguiendo recomendaciones sobre los efectos positivos de la jardinería. Sin embargo, se considera inexperta en el cultivo de flores y plantas frutales, lo que dificulta el proceso. Actualmente, riega y cuida las plantas basándose en su propio criterio, observando si están secas o enmontadas, y depende de consejos y opiniones de amigas y vecinas para el cuidado de sus plantas.
+Ella expresa su deseo de contar con la guía de un profesional o alguien con experiencia que pueda enseñarle directamente en su jardín. Le gustaría recibir notificaciones y recordatorios sobre el cuidado de sus plantas, así como una herramienta que monitoree el estado de sus plantas, como la humedad del suelo y la luz recibida. También le interesaría que una aplicación le indique qué enfermedad tiene una planta, por qué no crece, y cómo tratar las plagas. Aunque inicialmente no entendió el concepto de sensores, se mostró abierta a la idea de usarlos para monitorear las plantas.
+Para ella, es crucial que cualquier aplicación sea fácil de usar y no requiera mucho tiempo para aprender, especialmente para personas mayores de 50 años como ella. Le gustaría encontrar apoyo o una comunidad dentro de una aplicación para jardineros novatos, donde pueda aprender sobre por qué las flores tardan en florecer y los árboles frutales en dar frutos. Valora la simplicidad, la facilidad de uso y el apoyo personalizado. Está abierta a la tecnología, siempre y cuando sea accesible y le proporcione la información y el soporte que necesita para tener éxito en su jardín.
+
+</p>
+
 <h3> 2.2.3. Análisis de entrevistas</h3>
 <h2> 2.3. Needfinding</h2>
 <h3> 2.3.1. User Personas</h3>
