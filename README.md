@@ -583,13 +583,9 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 
 En esta sección se muestra un gráfico que incluye los business goals del negocio así como tiene un impacto en nuestras user personas.
 
-#### Segmento 1(Paciente):
+#### Segmeto de aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas:
 
-<img src="assets/images/impact_maping-paciente.png">
-
-#### Segmento 2(Doctor):
-
-<img src="assets/images/impact_maping-doctor.png">
+<img src="assets/impact_maping.png">
 
 ## 3.4 Product Backlog
 
