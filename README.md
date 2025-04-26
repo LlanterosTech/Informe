@@ -528,6 +528,9 @@ Agricultor:
 | Configurar o revisar sensores IoT | Baja | Alta |
 
 <h3> 2.3.3. User Journey Mapping</h3>
+<br>
+<img src="assets/UJM.PNG">
+
 <h3> 2.3.4. As-is Scenario Mapping</h3>
 
 
