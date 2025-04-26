@@ -503,6 +503,15 @@ Resumen de la entrevista:
 <h3> 2.2.3. Análisis de entrevistas</h3>
 <h2> 2.3. Needfinding</h2>
 <h3> 2.3.1. User Personas</h3>
+
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+<br>
+<br>
+Agricultor:
+<br>
+<br>
+<img src="assets/UserPersona.PNG">
+
 <h3> 2.3.2. User Task Matrix</h3>
 <h3> 2.3.3. User Journey Mapping</h3>
 <h3> 2.3.4. As-is Scenario Mapping</h3>
