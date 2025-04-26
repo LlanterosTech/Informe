@@ -470,7 +470,7 @@ Link de la Entrevista: <a href="[https://upcedupe-my.sharepoint.com/:v:/g/person
 - Minuto de Inicio: 0:00 
 - Minuto de Fin: 7:19
 
-<img alt = "Entrevista1.1" src="assets/images/Entrevista1.1.png">
+<img alt = "Entrevista1.1" src="assets/Entrevista1.png">
 
 Resumen de la entrevista:
 
