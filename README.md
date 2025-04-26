@@ -295,8 +295,10 @@ Nuestro segmento inicial se compone de aficionados a la jardinería que son rela
 
 **Business Outcomes**
 
-* **Mejora de la eficiencia operativa:** Reducción de los tiempos de inactividad y los costos asociados con la gestión manual de inventario y la resolución de problemas en la cadena de suministro y optimización de los procesos mediante la automatización y la aplicación de datos en tiempo real para la toma de decisiones.
-* **Aumento de la rentabilidad:** Reducción de las pérdidas debido a enfermedades en los cultivos que no son detectadas, mejora de la productividad y la calidad de las plantas, lo que puede traducirse en mayores márgenes de beneficio para los cuidadores.
+* **Mejora de la eficiencia operativa:** Reducción de los tiempos de inactividad y los costos asociados con la gestión de cuidado y la resolución de problemas mediante la automatización y la aplicación de datos en tiempo real para la toma de decisiones.
+
+* **Aumento de la rentabilidad:** Reducción de las pérdidas debido a enfermedades que no son detectadas, mejora de la productividad y la calidad de las plantas, lo que puede traducirse en mayores márgenes de beneficio para los cuidadores.
+
 * **Reducción de riesgos y cumplimiento normativo:** Mayor capacidad para responder rápidamente a problemas emergentes, como brotes de enfermedades o eventos climáticos extremos, minimizando el impacto en la producción y la distribución.
 
 **Users**
