@@ -515,6 +515,18 @@ Agricultor:
 <img src="assets/UserPersona.PNG">
 
 <h3> 2.3.2. User Task Matrix</h3>
+
+| User Task | Frecuencia | Importancia |
+|:---|:---|:---|
+| Monitorear la humedad del suelo | Alta | Alta |
+| Verificar condiciones de luz y temperatura | Alta | Alta |
+| Recibir alertas sobre posibles plagas o enfermedades | Media | Alta |
+| Consultar recomendaciones personalizadas de cuidado | Alta | Alta |
+| Planificar calendario de riego y fertilización | Media | Alta |
+| Revisar la evolución y crecimiento de las plantas | Alta | Alta |
+| Interactuar con la comunidad de usuarios (foros, tips) | Media | Media |
+| Configurar o revisar sensores IoT | Baja | Alta |
+
 <h3> 2.3.3. User Journey Mapping</h3>
 <h3> 2.3.4. As-is Scenario Mapping</h3>
 
