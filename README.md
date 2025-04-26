@@ -195,7 +195,7 @@
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción de la Startup.</h4></div>
 <div align="justify">
-Llanteros es una startup conformada por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos, somos un equipo comprometido con las necesidades y problemáticas que enfrentan los entusiastas del cuidado de plantas, quienes a menudo se ven afectados por la falta de información clara y herramientas eficientes para la gestión del bienestar de sus plantas. Es así como identificamos una oportunidad para proponer una solución innovadora que mejore la eficiencia y calidad en el cuidado de las plantas.
+LlanterosTech es una startup conformada por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos, somos un equipo comprometido con las necesidades y problemáticas que enfrentan los entusiastas del cuidado de plantas, quienes a menudo se ven afectados por la falta de información clara y herramientas eficientes para la gestión del bienestar de sus plantas. Es así como identificamos una oportunidad para proponer una solución innovadora que mejore la eficiencia y calidad en el cuidado de las plantas.
 </div>
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo. </h4></div>
@@ -290,7 +290,8 @@ Nuestro segmento inicial se compone de aficionados a la jardinería que son rela
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 **Features**
-
+- Herramientas de monitorización del crecimiento de plantas: Sensores para recopilar datos sobre condiciones ambientales, humedad del suelo, y salud de los cultivos.
+- Plataforma integrada de gestión: Suite de herramientas que abarca la planificación de cultivos, gestión de la mano de obra, programación de riego, y funcionalidades de análisis de datos para identificar áreas de mejora y optimizar la eficiencia operativa en todas las etapas de crecimiento de las plantas.
 
 **Business Outcomes**
 
@@ -332,7 +333,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 3. El valor #1 que mi cliente quiere de mi servicio es la mejora en la eficiencia y la calidad de sus plantas, lo que les permite maximizar los rendimientos.
 4. El cliente obtiene beneficios al tener un mejor manejo de sus plantas ya que se detectara el estado del clima y plagas y el propio sistema sabrán cómo tratarlas.
 5. Voy a adquirir la mayoría de mis clientes a través de campañas de marketing y redes sociales.
-6. Haré dinero a través (...)
+6. Haré dinero a través de modelos de suscripción mensual por el acceso a mejor información de nuestra plataforma.
 7. Mi competencia principal en el mercado son otras soluciones de cuidado de plantas, tanto tradicionales como digitales.
 8. Los venceremos debido a la simplicidad y facilidad de uso de nuestra plataforma, así como a su capacidad para ofrecer una solución integral y altamente personalizable que se adapte a las necesidades específicas de cada cliente.
 9. El mayor riesgo es que los clientes no adopten nuestra solución debido a la resistencia al cambio o a la falta de conocimiento tecnológico.
