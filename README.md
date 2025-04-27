@@ -531,7 +531,9 @@ Agricultor:
 <br>
 <img src="assets/UJM.PNG">
 
-<h3> 2.3.4. As-is Scenario Mapping</h3>
+<h3> 2.3.4. Empathy Maping</h3>
+
+<h3> 2.3.5. As-is Scenario Mapping</h3>
 
 
 # Capítulo III: Requirements Specification
