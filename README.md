@@ -537,6 +537,7 @@ Agricultor:
 <br>
 <h3> 2.3.5. As-is Scenario Mapping</h3>
 
+<img src="assets/AsIs.png">
 
 # Capítulo III: Requirements Specification
 
