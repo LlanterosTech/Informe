@@ -532,7 +532,9 @@ Agricultor:
 <img src="assets/UJM.PNG">
 
 <h3> 2.3.4. Empathy Maping</h3>
-
+<br>
+<img src="assets/EM.PNG">
+<br>
 <h3> 2.3.5. As-is Scenario Mapping</h3>
 
 
