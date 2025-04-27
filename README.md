@@ -184,7 +184,8 @@
 
 |**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
 | :-: | :-: | :-: |
-|     |     |     |
+|  Trabaja en equipo para proporcionar liderazgo en forma conjunta   |  <p> Astrid Boronda: **TB1**</p> <p>Para esta TB1, realice el análisis de la problemática del proyecto, por lo que, en conjunto, definimos el problema, identificar los segmentos de clientes, y establecer hipótesis y estrategias para la solución, culminando con la definición de los segmentos objetivo de la aplicación respectivamente. </p>   |     |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <p> Astrid Boronda: **TB1**<p> <p> Para este TB1, me propuse a lograr comprender la problemática y a los segmentos implicados en el proyecto, contribuyendo a conocer más al segmento objetivo y definiendo la aplicación de acuerdo a sus necesidades. </p> | |
 
 
 
