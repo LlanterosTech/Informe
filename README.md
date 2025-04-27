@@ -184,10 +184,8 @@
 
 |**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
 | :-: | :-: | :-: |
-|  Trabaja en equipo para proporcionar liderazgo en forma conjunta   |  <p> Astrid Boronda: **TB1**</p> <p>Para esta TB1, realice el análisis de la problemática del proyecto, por lo que, en conjunto, definimos el problema, identificar los segmentos de clientes, y establecer hipótesis y estrategias para la solución, culminando con la definición de los segmentos objetivo de la aplicación respectivamente. </p>   |     |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <p> Astrid Boronda: **TB1**<p> <p> Para este TB1, me propuse a lograr comprender la problemática y a los segmentos implicados en el proyecto, contribuyendo a conocer más al segmento objetivo y definiendo la aplicación de acuerdo a sus necesidades. </p> | |
-
-
+|  Trabaja en equipo para proporcionar liderazgo en forma conjunta   |  <p> Astrid Boronda:</p> <p>**TB1**</p> <p>En el TB1, participé activamente en el análisis profundo de la problemática central del proyecto. Esto implicó, en colaboración con el equipo, la definición clara y concisa del problema principal, la identificación exhaustiva de los diversos segmentos de clientes a los que se dirige la solución, y la formulación de hipótesis y estrategias iniciales para abordar la problemática. Como resultado de este proceso, contribuí a la definición precisa de los segmentos objetivo específicos del proyecto, asegurando que el desarrollo se enfoque en las necesidades reales de los usuarios."</p>   |     |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <p> Astrid Boronda:</p> <p>**TB1**<p> <p> "Para el TB1 de este proyecto, me propuse comprender en profundidad la problemática central del cuidado de plantas y los diferentes segmentos de usuarios a los que nos dirigimos. Realicé una investigación exhaustiva para identificar las necesidades y desafíos de los aficionados a la jardinería. Como resultado de este proceso, pude conocer mejor al segmento objetivo y sus necesidades, lo que me permitió colaborar en la definición inicial de la aplicación 'Plantita' y sus funcionalidades, tales como el monitoreo de condiciones ambientales y la identificación de problemas en las plantas."</p> | |
 
 
 <div id='1.'><h2>CAPÍTULO I: INTRODUCCIÓN</h2></div>
