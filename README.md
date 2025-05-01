@@ -661,7 +661,7 @@ https://miro.com/app/board/uXjVI_R99-E=/
 
 <h5> 4.1.3.1. Software Architecture System Landscape Diagram. </h5>
 
-<img src= "./assets/plamt.png" 
+<img src= "./assets/ee.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
