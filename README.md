@@ -620,9 +620,9 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
 
 <h5> 4.1.1.1. Candidate Context Discovery </h5>
 
-<img src= "./assets/braini.png" />
+<img src= "./assets/torm.png" />
 
-https://miro.com/app/board/uXjVI_S7iZ8=/
+https://miro.com/app/board/uXjVI7BgK1w=/
 
 <h1> 4.1.1.2 Domain Message Flows Modeling </h1>
 
