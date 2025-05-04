@@ -794,29 +794,18 @@ Repositorio: PlantRepository
 
 Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
 
-[SPA] --> [PlantController] --> [PlantCommandService | PlantQueryService] --> [PlantRepository] --> [DB: PlantTable]
-
-SPA (Single Page App): cliente web/móvil
-
-Controller: capa de entrada
-
-Services: lógica de aplicación
-
-Repository: persistencia
-
-DB: almacenamiento
+![](assets/plantuml%20(1).png)
 
 4\.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 4\.2.1.6.1. Bounded Context Domain Layer Class Diagram
 
-![](assets/Aspose.Words.016d377a-90f0-4a0c-8624-3413e28aca8f.001.png)
+![](assets/plant%20class%20diagram.png)
 
 4\.2.1.6.2. Bounded Context Database Design Diagram
 
-`  `![](assets/Aspose.Words.016d377a-90f0-4a0c-8624-3413e28aca8f.002.png)
+`  `![](assets/plant%20db%20diagram.png)
 
-La tabla plants representa las plantas registradas, con referencia al usuario que las gestiona. El diseño está optimizado para consultas por usuario y actualización frecuente de datos sensoriales.
 
 **Conclusiones**
 
