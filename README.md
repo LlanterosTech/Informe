@@ -815,3 +815,20 @@ Nos enfocándose en las necesidades de los entusiastas y aficionados a la jardin
 
 - Martignoni, D. (2024, noviembre 19). *Las plantas de interior más difíciles de cuidar*. Infobae. <https://www.infobae.com/tendencias/2024/11/19/las-plantas-de-interior-mas-dificiles-de-cuidar/>
 
+<h1> 4.4. Web Applications UX/UI Design </h1>
+
+<br> 4.4.1. Web Applications Wireframes </br>
+
+<img src= "./assets/uu.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+<br> 4.4.3. Web Applications Mock-ups </br>
+
+<img src= "./assets/uu.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
