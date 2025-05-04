@@ -811,7 +811,7 @@ Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
 
 <br> 4.4.1. Web Applications Wireframes </br>
 
-<img src= "./assets/uu.png" 
+<img src= "./assets/po.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
@@ -819,7 +819,7 @@ Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
 
 <br> 4.4.3. Web Applications Mock-ups </br>
 
-<img src= "./assets/uu.png" 
+<img src= "./assets/ru.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
