@@ -807,14 +807,6 @@ Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
 `  `![](assets/plant%20db%20diagram.png)
 
 
-**Conclusiones**
-
-Nos enfocándose en las necesidades de los entusiastas y aficionados a la jardinería. A lo largo del proyecto, enfrentamos desafíos significativos al integrar tecnología en un área que a menudo se maneja de manera tradicional. No obstante, a través de la dedicación y el compromiso, hemos logrado identificar la problemática y las necesidades principales, como proporcionar información valiosa y personalizada sobre el cuidado de las plantas, también facilitar el seguimiento y monitoreo de su salud. Nuestra plataforma busca mejorar la experiencia de los cuidadores, especialmente aquellos con menos experiencia, brindándoles las herramientas y el conocimiento necesarios para tener éxito en su jardinería. Al superar los obstáculos técnicos y adaptar nuestra solución a las necesidades específicas de los usuarios, hemos dado un paso importante hacia un futuro donde el cuidado de las plantas es más accesible y gratificante para todos.
-
-**Referencias:**
-
-- Martignoni, D. (2024, noviembre 19). *Las plantas de interior más difíciles de cuidar*. Infobae. <https://www.infobae.com/tendencias/2024/11/19/las-plantas-de-interior-mas-dificiles-de-cuidar/>
-
 <h1> 4.4. Web Applications UX/UI Design </h1>
 
 <br> 4.4.1. Web Applications Wireframes </br>
@@ -832,3 +824,15 @@ Nos enfocándose en las necesidades de los entusiastas y aficionados a la jardin
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
+
+
+
+
+
+**Conclusiones**
+
+Nos enfocándose en las necesidades de los entusiastas y aficionados a la jardinería. A lo largo del proyecto, enfrentamos desafíos significativos al integrar tecnología en un área que a menudo se maneja de manera tradicional. No obstante, a través de la dedicación y el compromiso, hemos logrado identificar la problemática y las necesidades principales, como proporcionar información valiosa y personalizada sobre el cuidado de las plantas, también facilitar el seguimiento y monitoreo de su salud. Nuestra plataforma busca mejorar la experiencia de los cuidadores, especialmente aquellos con menos experiencia, brindándoles las herramientas y el conocimiento necesarios para tener éxito en su jardinería. Al superar los obstáculos técnicos y adaptar nuestra solución a las necesidades específicas de los usuarios, hemos dado un paso importante hacia un futuro donde el cuidado de las plantas es más accesible y gratificante para todos.
+
+**Referencias:**
+
+- Martignoni, D. (2024, noviembre 19). *Las plantas de interior más difíciles de cuidar*. Infobae. <https://www.infobae.com/tendencias/2024/11/19/las-plantas-de-interior-mas-dificiles-de-cuidar/>
