@@ -387,7 +387,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 * **Características Geográficas:** Inicialmente enfocado en áreas urbanas y suburbanas en Perú, con potencial de expansión a otras regiones y países con un interés similar en la jardinería doméstica y el cuidado de plantas.
 
 <h1> 2. CAPÍTULO II: Needfinding </h1>
-<h2> 2.1. Competidores</h2>
+<div id='2.1.'><h2> 2.1. Competidores</h2>
 <p> En el mercado al que buscamos ofrecer nuestra solución, identificamos diversos competidores que presentan propuestas similares orientadas a la gestión agrícola. A continuación, se detalla un resumen de sus soluciones de software: </p>
 <p> **Agrobit** : Es una plataforma enfocada en la gestión agrícola y ganadera, orientada a grandes empresas. Su objetivo es promover formas sustentables y rentables de producción de alimentos. Entre sus funcionalidades destacan el control de actividades, el seguimiento del desarrollo de cultivos, el monitoreo predictivo, la trazabilidad y el cálculo de la huella de carbono.</p>
 <p> **Efemis** : Esta herramienta digital para la gestión agrícola utiliza imágenes satelitales, pronósticos meteorológicos y sensores para optimizar las operaciones y reducir costos. Desarrollada por Hispatec, Efemis es su solución principal dentro de una serie de herramientas especializadas para diferentes áreas del sector agrícola. </p>
@@ -411,7 +411,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 | Oportunidades   | Muchas de las gestiones agrícolas en nuestro país son deficientes y gran parte de las cosechas son desperdiciadas, por ello el Perú es un país ideal para implementar agroges  | Dadas sus herramientas presenta una estabilidad que les permitiría desarrollarse más  |Cuenta con acceso a herramientas de gama alta que permiten el recopilado de información detallada para beneficio del usuario|Cuenta con el apoyo de clientes de más de un país por ello pueden expandirse por todo latinoamérica|
 | Amenazas   | La implementación de herramientas costosas por parte de la competencia | Dado que el proceso de cotización es lento, muchos clientes prefieren buscar otras opciones | Sus ventas se han visto reducidas |La creciente tecnología y el uso de la inteligencia artificial puede desplazar a muchas soluciones de software|
 
-<h3> 2.1.2. Estrategias y tácticas frente a competidores </h3>
+<div id='2.1.2.'><h3> 2.1.2. Estrategias y tácticas frente a competidores </h3>
 
 <p>Nos dirigiremos al segmento del sector agrícola que aún no ha incorporado tecnología, ofreciendo una solución accesible y fácil de usar. El objetivo es que incluso quienes no tienen experiencia con herramientas tecnológicas puedan utilizarlas de forma eficaz para optimizar sus recursos.<br>
 <br>
@@ -426,8 +426,8 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 </ul>
 </p>
  
-<h2> 2.2. Entrevistas</h2>
-<h3> 2.2.1. Diseño de entrevistas</h3>
+<div id='2.2.'><h2> 2.2. Entrevistas</h2>
+<div id='2.2.1.'><h3> 2.2.1. Diseño de entrevistas</h3>
 <p><strong>Segmento 1:</strong> Agricultores</p>
 <p><strong>Pregunta general:</strong></p>
 <ul>
@@ -451,7 +451,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
   <li>¿Qué tan importante es para ti que la aplicación sea fácil de usar y no requiera mucho tiempo para aprender?</li>
 </ul>
 
-<h3> 2.2.2. Registro de entrevistas</h3>
+<div id='2.2.2.'><h3> 2.2.2. Registro de entrevistas</h3>
 
 ### Segmento objetivo - Agricultor
 
@@ -501,9 +501,9 @@ Resumen de la entrevista:
 
 <p>Jorge Rivas, agricultor de 42 años, se considera práctico y racional. Comenzó a cuidar plantas por necesidad laboral y ahora siente pasión por su crecimiento. Sus principales desafíos son el clima cambiante, la dificultad para identificar problemas en las plantas y saber cuándo y cuánto regarlas. Actualmente no utiliza aplicaciones debido a barreras de idioma y falta de personalización, pero está interesado en herramientas que ofrezcan recordatorios, monitoreo con sensores y consejos prácticos. Valora especialmente que la aplicación sea fácil de usar, esté en español y cuente con una comunidad de apoyo para resolver dudas y compartir experiencias.</p>
 
-<h3> 2.2.3. Análisis de entrevistas</h3>
-<h2> 2.3. Needfinding</h2>
-<h3> 2.3.1. User Personas</h3>
+<div id='2.2.3.'><h3> 2.2.3. Análisis de entrevistas</h3>
+<div id='2.3.'><h2> 2.3. Needfinding</h2>
+<div id='2.3.1.'><h3> 2.3.1. User Personas</h3>
 
 Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 <br>
@@ -513,7 +513,7 @@ Agricultor:
 <br>
 <img src="assets/UserPersona.PNG">
 
-<h3> 2.3.2. User Task Matrix</h3>
+<div id='2.3.2.'><h3> 2.3.2. User Task Matrix</h3>
 
 | User Task | Frecuencia | Importancia |
 |:---|:---|:---|
@@ -526,15 +526,15 @@ Agricultor:
 | Interactuar con la comunidad de usuarios (foros, tips) | Media | Media |
 | Configurar o revisar sensores IoT | Baja | Alta |
 
-<h3> 2.3.3. User Journey Mapping</h3>
+<div id='2.3.3.'><h3> 2.3.3. User Journey Mapping</h3>
 <br>
 <img src="assets/UJM.PNG">
 
-<h3> 2.3.4. Empathy Maping</h3>
+<div id='2.3.4.'><h3> 2.3.4. Empathy Maping</h3>
 <br>
 <img src="assets/EM.PNG">
 <br>
-<h3> 2.3.5. As-is Scenario Mapping</h3>
+<div id='2.3.5.'> <h3> 2.3.5. As-is Scenario Mapping</h3>
 
 <img src="assets/AsIs.png">
 
