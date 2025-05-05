@@ -188,16 +188,16 @@
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <p><strong>Astrid Boronda:</strong></p><p><strong>TB1</strong><br>Para el TB1 de este proyecto, me propuse comprender en profundidad la problemática central del cuidado de plantas y los diferentes segmentos de usuarios a los que nos dirigimos. Realicé una investigación exhaustiva para identificar las necesidades y desafíos de los aficionados a la jardinería. Como resultado de este proceso, pude conocer mejor al segmento objetivo y sus necesidades, lo que me permitió colaborar en la definición inicial de la aplicación 'Plantita' y sus funcionalidades, tales como el monitoreo de condiciones ambientales y la identificación de problemas en las plantas.</p><p><strong>Franky Mallma:</strong></p><p>Trabajé en promover un entorno de respeto y escucha activa en las reuniones de equipo. Propuse y ayudé a construir el capítulo 4 utilizando el contenido de capítulos anteriores definidos. Coordiné la planificación de pequeñas entregas semanales para alcanzar las metas establecidas, revisando los avances y adaptando las tareas cuando fue necesario.</p><p><strong>Juan Montes:</strong></p><p>Promoví la participación activa de todos los integrantes en las reuniones de trabajo, fomentando un ambiente de respeto y apertura para compartir ideas. Propuse un esquema de tareas semanales para asegurar el avance del proyecto, y ayudé a establecer las metas para la definición de las funcionalidades prioritarias de la aplicación.</p><p><strong>Andrea Cabanillas:</strong></p><p>Trabajé en la identificación de los Domain Message Flows y la elaboración de los Bounded Context Canvases, estableciendo metas claras para cada etapa del modelado. Además, organicé la planificación de tareas para construir los Context Maps y asegurar que se cumpliera con los objetivos de diseñar una arquitectura de software coherente y alineada al proyecto 'Plantita'.</p><p><strong>Erick Palomino:</strong></p><p>Contribuí activamente a la planificación estratégica del proyecto 'Plantita' mediante la organización del backlog priorizado y la definición visual de funcionalidades clave. Propuse un enfoque centrado en el valor para el usuario, estructurando los entregables en función de los objetivos del negocio. Además, presenté los mapas y artefactos de forma clara para facilitar la comprensión y toma de decisiones en equipo, promoviendo la integración entre diseño, desarrollo y objetivos de producto.</p> | Se demostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, tal como se evidencia en la organización de sus roles, la definición de objetivos claros y la planificación detallada de tareas. Esta estructura ha permitido cumplir con los objetivos propuestos en el desarrollo del proyecto. La colaboración, el respeto a las ideas de cada miembro y la eficiencia en la ejecución de tareas han sido pilares fundamentales para alcanzar el éxito. Este enfoque de trabajo en equipo no solo ha facilitado el desarrollo técnico del proyecto, sino que también ha fomentado un ambiente positivo y productivo, esencial para la innovación y la resolución de problemas.|
 
 
-<div id='1.'><h2>CAPÍTULO I: INTRODUCCIÓN</h2></div>
+<div id='1.'><h1>CAPÍTULO I: INTRODUCCIÓN</h1></div>
 
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+<div id='1.1.'><h2> 1.1 Startup Profile.</h2></div>
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción de la Startup.</h4></div>
+<div id='1.1.1.'><h3> 1.1.1. Descripción de la Startup.</h3></div>
 <div align="justify">
 LlanterosTech es una startup conformada por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Juntos, somos un equipo comprometido con las necesidades y problemáticas que enfrentan los entusiastas del cuidado de plantas, quienes a menudo se ven afectados por la falta de información clara y herramientas eficientes para la gestión del bienestar de sus plantas. Es así como identificamos una oportunidad para proponer una solución innovadora que mejore la eficiencia y calidad en el cuidado de las plantas.
 </div>
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo. </h4></div>
+<div id='1.1.2.'><h3> 1.1.2. Perfiles de integrantes del equipo. </h3></div>
 
 |**Integrante**|**Perfil**|
 | :-: | :-: |
@@ -207,19 +207,19 @@ LlanterosTech es una startup conformada por estudiantes de la carrera de Ingenie
 | <p>**Juan Eduardo Montes Figueroa- U202210775**<p> <img src= "./assets/foto-Juan.png" style="width=75%"/> |Mi nombre es Juan Montes, tengo 20 años, tengo conocimientos en C++, IntelliJ IDEA Ultimate, Rider, Webstorm, Android Studio, Flutter y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles. |
 | <p>**Erick Joaquin Palomino Santa Cruz- U2022148434**<p> <img src= "./assets/foto-Erick.jpg" style="width=75%"/> |Mi nombre es Erick Palomino, tengo 19 años, tengo conocimientos en C# Android Studio, Flutter y también en diseño de imágenes y páginas web. Puedo aportar en el equipo con ideas y confianza. |
 
-<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
+<div id='1.2.'><h2> 1.2. Solution Profile</h2></div>
 <div align="justify">
 En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
 </div>
 
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+<div id='1.2.1.'><h3> 1.2.1. Antecedentes y Problemática</h3></div>
 
-<h5> **Antecedentes:** </h5>
+<h5><b>Antecedentes:</b></h5>
 <div align="justify">
 El mundo de la jardinería y el cuidado de plantas presenta actualmente desafíos que requieren soluciones creativas. Uno de los principales retos es la creciente popularidad de tener plantas en casa, impulsada por el deseo de conectar con la naturaleza y mejorar nuestros espacios. Esta tendencia exige que aprendamos más sobre cómo cultivar y mantener nuestras plantas saludables, lo que a su vez nos enfrenta a desafíos como entender sus necesidades específicas y adaptarnos a diferentes entornos. Además, quienes cuidan plantas a menudo se encuentran con la dificultad de monitorear y optimizar el crecimiento de sus plantas, así como la necesidad de asegurar que estén libres de plagas y enfermedades. Estos factores combinados resaltan la importancia de desarrollar conocimientos y métodos que nos ayuden a cuidar nuestras plantas de manera eficiente y exitosa.
 </div>
 
-<h1> **Problemática** (5Ws y 2Hs):** </h1>
+<h5><b>Problemática** (5Ws y 2Hs):</b></h5>
 
 ##### WHAT/QUÉ 
   
@@ -251,8 +251,8 @@ Las personas podrán acceder a nuestra aplicación a través de sus teléfonos m
 
 El problema de no saber cómo cuidar correctamente las plantas se manifiesta en la cantidad de plantas que mueren o se enferman en hogares y espacios de cultivo. Esto puede significar una pérdida económica, pero también una frustración emocional para quienes intentan mantenerlas con vida. A menudo, las personas gastan dinero en plantas y suministros sin obtener los resultados deseados, lo que lleva a un ciclo de compra y pérdida.
 
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+<div id='1.2.2.'><h3> 1.2.2. Lean UX Process.</h3></div>
+<div id='1.2.2.1.'><h4> 1.2.2.1. Lean UX Problem Statements.</h4></div>
 
 <h5><strong>Domain:</strong></h5>
 
@@ -286,7 +286,7 @@ Existe una brecha entre el deseo de los aficionados a la jardinería de tener pl
 Nuestro segmento inicial se compone de aficionados a la jardinería que son relativamente nuevos en el cuidado de plantas y que han experimentado dificultades para mantenerlas con vida. Este grupo incluye personas que viven en apartamentos o espacios pequeños, aquellos que tienen poco tiempo o experiencia previa en jardinería, y quienes desean utilizar la tecnología para mejorar su experiencia de cuidado de plantas.
 </div>
 
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+<div id='1.2.2.2.'><h4> 1.2.2.2. Lean UX Assumptions.</h4></div>
 
 **Features**
 - Herramientas de monitorización del crecimiento de plantas: Sensores para recopilar datos sobre condiciones ambientales, humedad del suelo, y salud de los cultivos.
@@ -340,7 +340,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 9. El mayor riesgo es que los clientes no adopten nuestra solución debido a la resistencia al cambio o a la falta de conocimiento tecnológico.
 10. Resolveremos esto a través de demostraciones y pruebas gratuitas de nuestra plataforma, y proporcionando un sólido soporte al cliente para garantizar una implementación exitosa y una experiencia positiva del usuario.
 
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+<div id='1.2.2.3.'><h4> 1.2.2.3. Lean UX Hypothesis Statements.</h4></div>
 
 **Hipótesis 1:**
 **Creemos que** al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. **Sabremos que** hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
@@ -348,7 +348,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 **Hipótesis 2:**
 **Creemos que** el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. **Sabremos que** hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.
 
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+<div id='1.2.2.4.'><h4> 1.2.2.4. Lean UX Canvas</h4></div>
 
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tbody>
@@ -368,9 +368,9 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
       <td style="text-align: justify;"><strong>3. Usuarios y Clientes:</strong><br>Personas interesadas en el cuidado de plantas.</td>
     </tr>
     <tr>
-      <td rowspan="2" style="text-align: justify;"><strong>6. Hipótesis</strong><br>* Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.<br><br>* Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
+      <td rowspan="2" style="text-align: justify;"><strong>6. Hipótesis</strong><br>- Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.<br><br>- Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
       <td rowspan="2" style="text-align: justify;"><strong>7. ¿Qué es lo más importante que debemos aprender primero?</strong><br>Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.</td>
-      <td style="text-align: justify;"><strong>4. Beneficios del usuario:</strong><br>* Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas.<br>* Disminución de la pérdida de plantas debido a un cuidado inadecuado y a la falta de información.</td>
+      <td style="text-align: justify;"><strong>4. Beneficios del usuario:</strong><br>- Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas.<br>- Disminución de la pérdida de plantas debido a un cuidado inadecuado y a la falta de información.</td>
     </tr>
     <tr>
       <td style="text-align: justify;"><strong>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</strong><br>La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.<br><br>Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio.</td>
@@ -378,7 +378,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
   </tbody>
 </table>
 
-<div id='1.3.'><h3> 1.3. Segmentos objetivo.</h3></div>
+<div id='1.3.'><h2> 1.3. Segmentos objetivo.</h2></div>
 
 * **Aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas:** Los usuarios utilizarán "Plantita" para acceder a información personalizada, herramientas de monitoreo y una comunidad de apoyo, con el fin de mejorar la salud y el crecimiento de sus plantas.
 
@@ -386,7 +386,8 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 * **Características Geográficas:** Inicialmente enfocado en áreas urbanas y suburbanas en Perú, con potencial de expansión a otras regiones y países con un interés similar en la jardinería doméstica y el cuidado de plantas.
 
-<h1> 2. CAPÍTULO II: Needfinding </h1>
+<div id='2.'><h1><b>2. CAPÍTULO II: Needfinding</b></h1>
+
 <div id='2.1.'><h2> 2.1. Competidores</h2>
 <p> En el mercado al que buscamos ofrecer nuestra solución, identificamos diversos competidores que presentan propuestas similares orientadas a la gestión agrícola. A continuación, se detalla un resumen de sus soluciones de software: </p>
 <p> **Agrobit** : Es una plataforma enfocada en la gestión agrícola y ganadera, orientada a grandes empresas. Su objetivo es promover formas sustentables y rentables de producción de alimentos. Entre sus funcionalidades destacan el control de actividades, el seguimiento del desarrollo de cultivos, el monitoreo predictivo, la trazabilidad y el cálculo de la huella de carbono.</p>
