@@ -550,17 +550,17 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 <img src="assets/AsIs.png">
 
-# Capítulo III: Requirements Specification
 
-## 3.1 To-Be Scenario Mapping
+<div id='3.'><h1><b>3. Capítulo III: Requirements Specification</b></h1>
+
+<div id='3.1.'><h2>3.1 To-Be Scenario Mapping</h2>
 
 En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
 
 <p><b>Para el segmento de aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas.:</b></p>
 <img src="assets/To-Be ScenarioMap.jpg">
 
-
-## 3.2 User Stories
+<div id='3.2.'><h2>3.2 User Stories</h2>
 
 | Epic ID | Título                             | Descripción                                                                 | Criterios de Aceptación | Relacionado con (Epic ID) |
 |--------|-------------------------------------|-----------------------------------------------------------------------------|-------------------------|---------------------------|
@@ -605,8 +605,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 
 
 
-
-## 3.3 Impact Mapping
+<div id='3.3.'><h2>3.3 Impact Mapping</h2>
 
 En esta sección se muestra un gráfico que incluye los business goals del negocio así como tiene un impacto en nuestras user personas.
 
@@ -614,7 +613,7 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
 
 <img src="assets/impact_maping.png">
 
-## 3.4 Product Backlog
+<div id='3.4.'><h2>3.4 Product Backlog</h2>
 
 <p>Para elaborar nuestro Product Backlog hemos utilizado la secuencia de Fibonacci (1,2,3,5,8). Aplicamos esto con el objetivo de evaluar la complejidad de las tareas.
 
@@ -623,20 +622,19 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
 ---
 
 <br>
+<div id='4.'><h1><b>4. Capítulo IV: Solution Software Design</b></h1>
 
-<h1> 4. Capítulo IV: Solution Software Design </h1>
+<div id='4.1.'><h2><b>4.1 Strategic-Level Domain-Driven Design</b></h2>
 
-<h1>  4.1 Strategic-Level Domain-Driven Design </h1>
+<div id='4.1.1.'><h3><b>4.1.1. EventStorming</b></h3>
 
-<h5> 4.1.1. EventStorming </h5>
-
-<h5> 4.1.1.1. Candidate Context Discovery </h5>
+<div id='4.1.1.1.'><h4><b> 4.1.1.1. Candidate Context Discovery</b></h4>
 
 <img src= "./assets/torm.png" />
 
-https://miro.com/app/board/uXjVI7BgK1w=/
+**Link:** [https://miro.com/app/board/uXjVI7BgK1w=/](https://miro.com/app/board/uXjVI7BgK1w=/) 
 
-<h1> 4.1.1.2 Domain Message Flows Modeling </h1>
+<div id='4.1.1.2.'><h4><b> 4.1.1.2 Domain Message Flows Modeling</b></h4>
 
 #	Escenarios
 
@@ -648,8 +646,7 @@ https://miro.com/app/board/uXjVI7BgK1w=/
 | 4  | Usuario escanea código del sensor y lo vincula a una planta | Usuario         | AsignarSensorAPlanta        | SensorAsignadoAPlanta                                          | SensorGateway, Monitoring            |
 | 5  | El sensor deja de enviar datos durante una hora          | Sistema (Watchdog)| DesconectarSensor           | SensorDesconectado<br>AlertaCríticaEmitida                    | SensorGateway, Notification          |
 
-
-<h1> 4.1.1.3. Bounded Context Canvases </h1>
+<div id='4.1.1.3.'><h4><b> 4.1.1.3. Bounded Context Canvases</b></h4>
 
 
 | Bounded Context   | Descripción                                                                                                                   | Ubiquitous Language                        | Strategic Classification | Domain Role         |
@@ -659,7 +656,7 @@ https://miro.com/app/board/uXjVI7BgK1w=/
 | Notification      | Envío de alertas por email, notificación push o en la app<br>Registro de eventos críticos                                     | alerta, evento, notificación               | Generic Subdomain         | Delivery Mechanism   |
 | UserManagement    | Registro e inicio de sesión<br>Asignación de sensores y plantas a usuarios                                                     | usuario, login, sesión, asignación         | Supporting Subdomain      | Access Control       |
 
-<h1> 4.1.2. Context Mapping </h1>
+<div id='4.1.2.'><h3><b>4.1.2. Context Mapping</b></h3>
 
 <img src= "./assets/Cap.png" 
   style="display: block; 
@@ -667,19 +664,19 @@ https://miro.com/app/board/uXjVI7BgK1w=/
   margin-right: auto; 
   width=50%"/>
 
-https://miro.com/app/board/uXjVI_R99-E=/
+**Link:** [https://miro.com/app/board/uXjVI_R99-E=/](https://miro.com/app/board/uXjVI_R99-E=/)
 
-<h1> 4.1.3. Software Architecture </h1>
+<div id='4.1.3.'><h3><b>4.1.3. Software Architecture</b></h3>
 
-<h5> 4.1.3.1. Software Architecture System Landscape Diagram. </h5>
+<div id='4.1.3.1.'><h4><b>4.1.3.1. Software Architecture System Landscape Diagram</b></h4>
 
 <img src= "./assets/ee.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
-  
-<h5> 4.1.3.2. Software Architecture Context Level Diagrams. </h5>
+
+<div id='4.1.3.2.'><h4><b>4.1.3.2. Software Architecture Context Level Diagrams</b></h4>
 
 <img src= "./assets/diagram.png" 
   style="display: block; 
@@ -687,7 +684,7 @@ https://miro.com/app/board/uXjVI_R99-E=/
   margin-right: auto; 
   width=50%"/>
 
-<h5> 4.1.3.2. Software Architecture Container Level Diagrams. </h5> 
+<div id='4.1.3.3.'><h4><b>4.1.3.3. Software Architecture Container Level Diagrams</b></h4>
 
 <img src= "./assets/aa.png" 
   style="display: block; 
@@ -695,8 +692,7 @@ https://miro.com/app/board/uXjVI_R99-E=/
   margin-right: auto; 
   width=50%"/>
 
-
-<h5> 4.1.3.3. Software Architecture Deployment Diagrams. </h5>
+<div id='4.1.3.4.'><h4><b>4.1.3.4. Software Architecture Deployment Diagrams</b></h4>
 
 <img src= "./assets/uu.png" 
   style="display: block; 
@@ -705,11 +701,11 @@ https://miro.com/app/board/uXjVI_R99-E=/
   width=50%"/>
 
 
-<h1 4.2. Tactical-Level Domain-Driven Design /h1>
+<div id='4.2.'><h2><b>4.2. Tactical-Level Domain-Driven Design</b></h2>
 
-<h5> 4.2.1. Bounded Context: PlantCare </h5>
+<div id='4.2.1.'><h3><b>4.2.1. Bounded Context: PlantCare</b></h3>
 
-<h5> 4.2.1.1. Domain Layer </h5>
+<div id='4.2.1.1.'><h4><b>4.2.1.1. Domain Layer</b></h4>
 
 La capa de dominio contiene los conceptos centrales del sistema relacionados con el cuidado de plantas. Aquí se modela la entidad "Plant" como agregado raíz, encapsulando atributos clave y comportamientos relevantes para su monitoreo y mantenimiento.
 
@@ -732,7 +728,7 @@ getStatus(): devuelve un resumen del estado de la planta
 
 needsWatering(): determina si la planta requiere riego
 
-<h5> 4.2.1.2. Interface Layer </h5>
+<div id='4.2.1.2.'><h4><b>4.2.1.2. Interface Layer</b></h4>
 
 Esta capa define los puntos de interacción entre el sistema y los usuarios o sistemas externos. Incluye controladores REST que permiten registrar, actualizar y consultar información sobre las plantas.
 
@@ -761,7 +757,7 @@ Controlador: PlantController
 - CreatePlantResource
 - UpdateSensorDataResource
 
-4\.2.1.3. Application Layer
+<div id='4.2.1.3.'><h4><b>4.2.1.3. Application Layer</b></h4>
 
 Esta capa orquesta los casos de uso del sistema. Aquí se encuentran servicios que encapsulan la lógica para crear y mantener plantas, validando datos y coordinando interacciones con el dominio y la infraestructura.
 
@@ -787,7 +783,7 @@ CreatePlantCommand, UpdateSensorDataCommand
 
 Plant
 
-4\.2.1.4. Infrastructure Layer
+<div id='4.2.1.4.'><h4><b>4.2.1.4. Infrastructure Layer</b></h4>
 
 Se encarga de la persistencia de datos. La implementación del repositorio utiliza una base de datos relacional y mapea la entidad "Plant" a una tabla en la base de datos.
 
@@ -800,23 +796,24 @@ Repositorio: PlantRepository
 |findAllByUserId(Long userId)|Lista plantas por usuario|
 
 
+<div id='4.2.1.5.'><h4><b>4.2.1.5. Bounded Context Software Architecture Component Level Diagram</b></h4>
 
-
-4\.2.1.5. Bounded Context Software Architecture Component Level Diagram
 
 Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
 
 ![](assets/plantuml%20(1).png)
 
-4\.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+<div id='4.2.1.6.'><h4><b>4.2.1.6. Bounded Context Software Architecture Code Level Diagrams</b></h4>
 
-4\.2.1.6.1. Bounded Context Domain Layer Class Diagram
+<div id='4.2.1.6.1.'><h5><b>4.2.1.6.1. Bounded Context Domain Layer Class Diagram</b></h5>
 
 ![](assets/plant%20class%20diagram.png)
 
-4\.2.1.6.2. Bounded Context Database Design Diagram
+<div id='4.2.1.6.2.'><h5><b>4.2.1.6.2. Bounded Context Database Design Diagram</b></h5>
 
-`  `![](assets/plant%20db%20diagram.png)
+![](assets/plant%20db%20diagram.png)
+
+--------------------------------------------------------------------------------
 
 
 <h1> 4.4. Web Applications UX/UI Design </h1>
