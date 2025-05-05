@@ -380,21 +380,30 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 <div id='1.3.'><h2> 1.3. Segmentos objetivo.</h2></div>
 
+<div align="justify">
 * **Aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas:** Los usuarios utilizarán "Plantita" para acceder a información personalizada, herramientas de monitoreo y una comunidad de apoyo, con el fin de mejorar la salud y el crecimiento de sus plantas.
 
 * **Características Demográficas:** Personas entre 20 y 50 años, que viven en áreas urbanas y suburbanas, con un interés en la jardinería y el cuidado de plantas pero con conocimientos limitados.  Posiblemente con un nivel educativo medio o superior y con acceso a dispositivos móviles y tecnología.
 
 * **Características Geográficas:** Inicialmente enfocado en áreas urbanas y suburbanas en Perú, con potencial de expansión a otras regiones y países con un interés similar en la jardinería doméstica y el cuidado de plantas.
+</div>
 
 <div id='2.'><h1><b>2. CAPÍTULO II: Needfinding</b></h1>
 
 <div id='2.1.'><h2> 2.1. Competidores</h2>
-<p> En el mercado al que buscamos ofrecer nuestra solución, identificamos diversos competidores que presentan propuestas similares orientadas a la gestión agrícola. A continuación, se detalla un resumen de sus soluciones de software: </p>
-<p> **Agrobit** : Es una plataforma enfocada en la gestión agrícola y ganadera, orientada a grandes empresas. Su objetivo es promover formas sustentables y rentables de producción de alimentos. Entre sus funcionalidades destacan el control de actividades, el seguimiento del desarrollo de cultivos, el monitoreo predictivo, la trazabilidad y el cálculo de la huella de carbono.</p>
-<p> **Efemis** : Esta herramienta digital para la gestión agrícola utiliza imágenes satelitales, pronósticos meteorológicos y sensores para optimizar las operaciones y reducir costos. Desarrollada por Hispatec, Efemis es su solución principal dentro de una serie de herramientas especializadas para diferentes áreas del sector agrícola. </p>
-<p> **Agri** : Es un software diseñado específicamente para el sector agrícola, que facilita la gestión de órdenes de aplicación, labores agrícolas, cosechas y sistemas de riego, entre otros. Para utilizar sus servicios, es necesario realizar una evaluación del terreno agrícola, la cual determina su clasificación por tamaño. En base a ello, se establece una tarifa mensual que varía entre 320 dólares para pequeñas empresas y 715 dólares para grandes explotaciones agrícolas. </p>
-<h3> 2.1.1. Análisis Competitivo</h3>
-<p>¿Por qué realizar este análisis?</p>
+
+<div align="justify">
+En el mercado al que buscamos ofrecer nuestra solución, identificamos diversos competidores que presentan propuestas similares orientadas a la gestión agrícola. A continuación, se detalla un resumen de sus soluciones de software:
+  
+* **Agrobit** : Es una plataforma enfocada en la gestión agrícola y ganadera, orientada a grandes empresas. Su objetivo es promover formas sustentables y rentables de producción de alimentos. Entre sus funcionalidades destacan el control de actividades, el seguimiento del desarrollo de cultivos, el monitoreo predictivo, la trazabilidad y el cálculo de la huella de carbono.
+  
+* **Efemis** : Esta herramienta digital para la gestión agrícola utiliza imágenes satelitales, pronósticos meteorológicos y sensores para optimizar las operaciones y reducir costos. Desarrollada por Hispatec, Efemis es su solución principal dentro de una serie de herramientas especializadas para diferentes áreas del sector agrícola.
+  
+* **Agri** : Es un software diseñado específicamente para el sector agrícola, que facilita la gestión de órdenes de aplicación, labores agrícolas, cosechas y sistemas de riego, entre otros. Para utilizar sus servicios, es necesario realizar una evaluación del terreno agrícola, la cual determina su clasificación por tamaño. En base a ello, se establece una tarifa mensual que varía entre 320 dólares para pequeñas empresas y 715 dólares para grandes explotaciones agrícolas.
+</div>
+
+<div id='2.1.1.'><h3> 2.1.1. Análisis Competitivo</h3>
+**¿Por qué realizar este análisis?**
 <p>Es fundamental realizar este análisis para comprender las áreas en las que se enfocan nuestros competidores directos. Esto nos permitirá identificar oportunidades para diferenciarnos y destacar en aspectos que capten el interés de nuestro público objetivo.</p>
 
 |Nombre|Plantita|Agrobit|Efemis|Agri|
@@ -429,7 +438,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
  
 <div id='2.2.'><h2> 2.2. Entrevistas</h2>
 <div id='2.2.1.'><h3> 2.2.1. Diseño de entrevistas</h3>
-<p><strong>Segmento 1:</strong> Agricultores</p>
+<p><strong>Segmento 1:</strong> Aficionados al jardín</p>
 <p><strong>Pregunta general:</strong></p>
 <ul>
   <li>¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?</li>
@@ -440,21 +449,21 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 <ul>
   <li>¿Qué te motivó a empezar a cuidar plantas?</li>
   <li>¿Cuáles son los mayores desafíos que enfrentas al cuidar tus plantas?</li>
-  <li>¿Tienes algún problema recurrente con tus plantas, como saber cuándo regarlas o qué cantidad de luz necesitan?</li>
-  <li>¿Actualmente usas alguna aplicación o herramienta para ayudarte a cuidar tus plantas? Si sí, ¿cuál?</li>
+  <li>¿Tienes algún problema recurrente con tus plantas? ¿Cómo saber cuándo regarlas o qué cantidad de luz necesitan?</li>
+  <li>¿Actualmente usas alguna aplicación o herramienta para ayudarte a cuidar tus plantas? Si es asi, ¿Cuál es?</li>
   <li>¿Qué información te gustaría tener más clara o accesible sobre el cuidado de tus plantas?</li>
   <li>¿Te gustaría recibir notificaciones o recordatorios sobre el cuidado de tus plantas (por ejemplo, cuándo regarlas, cuándo podarlas)?</li>
-  <li>Si pudieras tener una herramienta que te ayude a monitorear el estado de tus plantas, como la humedad del suelo o la luz que reciben, ¿te interesaría?</li>
+  <li>Si pudieras tener una herramienta que te ayude a monitorear el estado de tus plantas, como la húmedad del suelo o la luz que reciben, ¿Te interesaría?</li>
   <li>¿Qué tan importante es para ti recibir consejos prácticos y fáciles de seguir sobre el cuidado de tus plantas?</li>
   <li>¿Qué funcionalidades te gustaría que tuviera una aplicación para facilitar el cuidado de tus plantas?</li>
-  <li>¿Te sentirías cómodo utilizando sensores para monitorear las condiciones de tus plantas (por ejemplo, humedad, temperatura, luz)?</li>
+  <li>¿Te sentirías cómodo utilizando sensores para monitorear las condiciones de tus plantas (por ejemplo, húmedad, temperatura, luz)?</li>
   <li>¿Qué tipo de apoyo o comunidad te gustaría encontrar dentro de una app para jardineros novatos?</li>
   <li>¿Qué tan importante es para ti que la aplicación sea fácil de usar y no requiera mucho tiempo para aprender?</li>
 </ul>
 
 <div id='2.2.2.'><h3> 2.2.2. Registro de entrevistas</h3>
 
-### Segmento objetivo - Agricultor
+### Segmento objetivo - Aficionados al jardín
 
 ### Entrevista 1:
 
@@ -476,9 +485,11 @@ Link de la Entrevista: <a href="[https://upcedupe-my.sharepoint.com/:v:/g/person
 
 Resumen de la entrevista:
 
+<div align="justify">
 <p>Norma comenzó a cuidar plantas debido al estrés y la ansiedad, buscando un beneficio para su salud y estilo de vida, siguiendo recomendaciones sobre los efectos positivos de la jardinería. Sin embargo, se considera inexperta en el cultivo de flores y plantas frutales, lo que dificulta el proceso. Actualmente, riega y cuida las plantas basándose en su propio criterio, observando si están secas o enmontadas, y depende de consejos y opiniones de amigas y vecinas para el cuidado de sus plantas.
 Ella expresa su deseo de contar con la guía de un profesional o alguien con experiencia que pueda enseñarle directamente en su jardín. Le gustaría recibir notificaciones y recordatorios sobre el cuidado de sus plantas, así como una herramienta que monitoree el estado de sus plantas, como la humedad del suelo y la luz recibida. También le interesaría que una aplicación le indique qué enfermedad tiene una planta, por qué no crece, y cómo tratar las plagas. Aunque inicialmente no entendió el concepto de sensores, se mostró abierta a la idea de usarlos para monitorear las plantas.
 Para ella, es crucial que cualquier aplicación sea fácil de usar y no requiera mucho tiempo para aprender, especialmente para personas mayores de 50 años como ella. Le gustaría encontrar apoyo o una comunidad dentro de una aplicación para jardineros novatos, donde pueda aprender sobre por qué las flores tardan en florecer y los árboles frutales en dar frutos. Valora la simplicidad, la facilidad de uso y el apoyo personalizado. Está abierta a la tecnología, siempre y cuando sea accesible y le proporcione la información y el soporte que necesita para tener éxito en su jardín.</p>
+</div>
 
 ### Entrevista 1:
 
@@ -509,7 +520,7 @@ Resumen de la entrevista:
 Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 <br>
 <br>
-Agricultor:
+<b>Aficionados al jardín:</b>
 <br>
 <br>
 <img src="assets/UserPersona.PNG">
