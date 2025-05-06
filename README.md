@@ -133,14 +133,14 @@
    5.2.5. [Navigation Systems.](#5.2.5.)<br>
    5.3. [Landing Page UI Design.](#5.3.)<br>
    5.3.1. [Landing Page Wireframe.](#5.3.1.)<br>
-   5.3.2. [Landing Page Mock-up.](#5.3.2.)<br>  
+   5.3.2. [Landing Page Mock-up.](#5.3.2.)<br> 
    5.4. [Applications UX/UI Design.](#5.4.)<br>
    5.4.1. [Applications Wireframes.](#5.4.1.)<br>
    5.4.2. [Applications Wireflow Diagrams.](#5.4.2.)<br>
    5.4.3. [Applications Mock-ups.](#5.4.3.)<br>
    5.4.4. [Applications User Flow Diagrams.](#5.4.4.)<br>
    5.5. [Applications Prototyping.](#5.5.)<br>
-6. [**Capítulo VI: Product Implementation, Validation & Deployment**](#6.)<br>
+7. [**Capítulo VI: Product Implementation, Validation & Deployment**](#6.)<br>
    6.1. [Software Configuration Management.](#6.1.)<br>
    6.1.1. [Software Development Environment Configuration.](#6.1.1.)<br>
    6.1.2. [Source Code Management.](#6.1.2.)<br>
@@ -188,9 +188,9 @@
    6.3.2. [Registro de Entrevistas.](#6.3.2)<br>
    6.3.3. [Evaluaciones según heurísticas.](#6.3.3)<br>
    6.4. [Video About-the-Product.](#6.4.)<br>
-7. [**Conclusiones.**](#7.)<br>
-8. [**Bibliografía.**](#8.)<br>
-9. [**Anexos.**](#9.)<br>
+8. [**Conclusiones.**](#7.)<br>
+9. [**Bibliografía.**](#8.)<br>
+10. [**Anexos.**](#9.)<br>
 
 
 ## Student Outcome
