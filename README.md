@@ -539,8 +539,9 @@ Resumen de la entrevista:
 
 **1. Uso de tecnología**
 
-- Norma enfatiza la facilidad de uso para personas mayores.
-- Jorge señala que muchas apps actuales no están adaptadas (idioma, necesidades prácticas).
+- Norma enfatiza que la aplicación sea fácil de usar para las personas mayores, con el fin de que puedan entenderla sin problemas.
+- Jorge señala que muchas aplicaciones actuales no están adaptadas para todo el público por la barrera del idioma y lo poco prácticos que son.
+- Están dispuestos a usar sensores o aplicaciones que los ayuden al cuidado de plantas, pero con la condición de que sean accesibles, simples y funcionales.
 
 **2. Necesidad de asistencia**
 
@@ -550,21 +551,31 @@ Resumen de la entrevista:
 **3. Interés en aprender**
 
 - Jorge menciona la utilidad de una sección para hacer preguntas y compartir experiencias.
-- Norma valoran el aprendizaje continuo, desea el acompañamiento de un experto (como lo es su circulo cercano) o una comunidad.
+- Norma valoran el aprendizaje continuo, desea el acompañamiento de un experto (como lo es su circulo cercano de amigos y vecinos) o una comunidad.
+- Ambos desean una comunidad de usuarios o red de apoyo dentro de una aplicación para resolver dudas y aprender de otros.
 
 * **Subjetivas**
 
 **1. Experiencias**
 
-- 
+- Norma se dedica al cuidado de plantas como una forma de aliviar el estrés y mejorar su bienestar personal.
+- Jorge, aunque empezó por necesidad económica, ha desarrollado afecto al verla a sus plantas.
+- Para los entrevistados, el cuidado vegetal representa algo más que una tarea práctica: es una fuente de satisfacción personal.
 
 **2. Consideraciones**
 
-- 
+- Norma ha buscado consejos de amigos, vecinos y cercanos, probando sus comendaciones y esperando que puedan ayudar al crecimiento de sus plantas.
+- Jorge buscar ayuda externa para sentirse algo seguro en la toma de decisiones.
+- No se consideran expertos y expresan dudas o limitaciones en su conocimiento, especialmente en aspectos como enfermedades, plagas o necesidades específicas de cada planta.
 
 **3. Motivaciones**
 
-- 
+- Norma pide una app sencilla que no requiera mucho tiempo de aprendizaje.
+- Jorge quiere información clara y sin complicaciones.
+- Los entrevistados desean aprender por sí mismos, pero con orientación práctica y comprensible, sin sentirse abrumados.
+
+**Análisis por medio de herramientas estadísticas:**
+
 
 <div id='2.3.'><h2> 2.3. Needfinding</h2>
 <div id='2.3.1.'><h3> 2.3.1. User Personas</h3>
