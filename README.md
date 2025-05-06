@@ -394,7 +394,8 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 <div id='1.3.'><h2> 1.3. Segmentos objetivo.</h2></div>
 
 <div align="justify">
-* **Aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas:** Los usuarios utilizarán "Plantita" para acceder a información personalizada, herramientas de monitoreo y una comunidad de apoyo, con el fin de mejorar la salud y el crecimiento de sus plantas.
+  
+* **Aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas** Los usuarios utilizarán "Plantita" para acceder a información personalizada, herramientas de monitoreo y una comunidad de apoyo, con el fin de mejorar la salud y el crecimiento de sus plantas.
 
 * **Características Demográficas:** Personas entre 20 y 50 años, que viven en áreas urbanas y suburbanas, con un interés en la jardinería y el cuidado de plantas pero con conocimientos limitados.  Posiblemente con un nivel educativo medio o superior y con acceso a dispositivos móviles y tecnología.
 
@@ -489,7 +490,7 @@ Datos del entrevistado:
 - Edad: 55 años
 - Sexo: Femenino
 
-Link de la Entrevista: <a href="[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://drive.google.com/file/d/1QPmypxm86Kk_iFu7pJxvQDSTnDv1nRg9/view?usp=sharing)" Target="_blank">Link</a>
+Link de la Entrevista: [https://drive.google.com/file/d/1QPmypxm86Kk_iFu7pJxvQDSTnDv1nRg9/view?usp=sharing](https://drive.google.com/file/d/1QPmypxm86Kk_iFu7pJxvQDSTnDv1nRg9/view?usp=sharing)
 
 - Minuto de Inicio: 0:00 
 - Minuto de Fin: 7:19
@@ -515,16 +516,18 @@ Datos del entrevistado:
 - Edad: 42 años
 - Sexo: Masculino
 
-Link de la Entrevista: <a href="" Target="_blank">Link</a>
+Link de la Entrevista: [https://drive.google.com/file/d/1coUjDZoDrMYm9dg1AQ2Ctp4jvXZZdYMX/view?usp=sharing](https://drive.google.com/file/d/1coUjDZoDrMYm9dg1AQ2Ctp4jvXZZdYMX/view?usp=sharing)
 
 - Minuto de Inicio: 0:00 
-- Minuto de Fin: 
+- Minuto de Fin: 5:35
 
-<img alt = "Entrevista1.1" src="assets/images/Entrevista1.1.png">
+<img alt = "Entrevista1.2" src="assets/images/Entrevista2.png">
 
 Resumen de la entrevista:
 
-<p>Jorge Rivas, agricultor de 42 años, se considera práctico y racional. Comenzó a cuidar plantas por necesidad laboral y ahora siente pasión por su crecimiento. Sus principales desafíos son el clima cambiante, la dificultad para identificar problemas en las plantas y saber cuándo y cuánto regarlas. Actualmente no utiliza aplicaciones debido a barreras de idioma y falta de personalización, pero está interesado en herramientas que ofrezcan recordatorios, monitoreo con sensores y consejos prácticos. Valora especialmente que la aplicación sea fácil de usar, esté en español y cuente con una comunidad de apoyo para resolver dudas y compartir experiencias.</p>
+<div align="justify">
+<p>Jorge Rivas, agricultor de 42 años, se considera práctico y racional. comenzó a cuidar plantas por necesidad económica, pero desarrolló un cariño genuino al verlas crecer. Enfrenta desafíos como el cambio de clima, enfermedades de las plantas, y la dificultad para determinar la cantidad adecuada de agua y luz que puedan necesitar sus plantas, especialmente para las más delicadas. Ha probado aplicaciones para el cuidado de plantas, pero las encontró inadecuadas por estar en inglés o no ajustarse a sus necesidades. Necesita información clara sobre la cantidad de agua, tipo de tierra y cómo identificar enfermedades y plagas. Le gustaría una aplicación con notificaciones, monitoreo del estado de las plantas, consejos prácticos, calendario de tareas, avisos de riego, espacio para preguntas a otros agricultores y una comunidad para compartir experiencias. También esta abierto a la idea del uso de sensores solo si son fáciles y asequibles de usar.</p>
+</div>
 
 <div id='2.2.3.'><h3> 2.2.3. Análisis de entrevistas</h3>
 <div id='2.3.'><h2> 2.3. Needfinding</h2>
