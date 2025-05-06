@@ -99,85 +99,98 @@
    3.2. [User Stories.](#3.2.)<br>
    3.3. [Impact Mapping.](#3.3.)<br>
    3.4. [Product Backlog.](#3.4.)<br>
-4. [**Capítulo IV: Product Design.**](#4.)<br>
-   4.1. [Style Guidelines.](#4.1.)<br>
-   4.1.1. [General Style Guidelines.](#4.1.1.)<br>
-   4.1.2. [Web Style Guidelines.](#4.1.2.)<br>
-   4.2. [Information Architecture.](#4.2.)<br>
-   4.2.1. [Organization Systems.](#4.2.1.)<br>
-   4.2.2. [Labeling Systems.](#4.2.2.)<br>
-   4.2.3. [SEO Tags and Meta Tags](#4.2.3.)<br>
-   4.2.4. [Searching Systems.](#4.2.4.)<br>
-   4.2.5. [Navigation Systems.](#4.2.5.)<br>
-   4.3. [Landing Page UI Design.](#4.3.)<br>
-   4.3.1. [Landing Page Wireframe.](#4.3.1.)<br>
-   4.3.2. [Landing Page Mock-up.](#4.3.2.)<br>
-   4.4. [Web Applications UX/UI Design.](#4.4.)<br>
-   4.4.1. [Web Applications Wireframes.](#4.4.1.)<br>
-   4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.)<br>
-   4.4.3. [Web Applications Mock-ups.](#4.4.3.)<br>
-   4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br>
-   4.5. [Web Applications Prototyping.](#4.5.)<br>
-   4.6. [Domain-Driven Software Architecture.](#4.6.)<br>
-   4.6.1. [Software Architecture Context Diagram.](#4.6.1.)<br>
-   4.6.2. [Software Architecture Container Diagrams.](#4.6.2.)<br>
-   4.6.3. [Software Architecture Components Diagrams.](#4.6.3.)<br>
-   4.7. [Software Object-Oriented Design.](#4.7.)<br>
-   4.7.1. [Class Diagrams.](#4.7.1.)<br>
-   4.7.2. [Class Dictionary.](#4.7.2.)<br>
-   4.8. [Database Design.](#4.8.)<br>
-   4.8.1. [Database Diagram.](#4.8.1.)<br>
-5. [**Capítulo V: Product Implementation, Validation & Deployment.**](#5.)<br>
-   5.1. [Software Configuration Management.](#5.1.)<br>
-   5.1.1. [Software Development Environment Configuration.](#5.1.1.)<br>
-   5.1.2. [Source Code Management.](#5.1.2.)<br>
-   5.1.3. [Source Code Style Guide & Conventions.](#5.1.3.)<br>
-   5.1.4. [Software Deployment Configuration.](#5.1.4.)<br>
-   5.2. [Landing Page, Services & Applications Implementation.](#5.2.)<br>
-   5.2.1. [Sprint 1.](#5.2.1.)<br>
-   5.2.1.1. [Sprint Planning 1.](#5.2.1.1.)<br>
-   5.2.1.2. [Sprint Backlog 1.](#5.2.1.2.)<br>
-   5.2.1.3. [Development Evidence for Sprint Review.](#5.2.1.3.)<br>
-   5.2.1.4. [Testing Suite Evidence for Sprint Review.](#5.2.1.4.)<br>
-   5.2.1.5. [Execution Evidence for Sprint Review.](#5.2.1.5.)<br>
-   5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
-   5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
-   5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
-   5.2.2. [Sprint 2.](#5.2.2)<br>
-   5.2.2.1. [Sprint Planning 2.](#5.2.2.1.)<br>
-   5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.)<br>
-   5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.)<br>
-   5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.)<br>
-   5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.)<br>
-   5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
-   5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
-   5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
-   5.2.3. [Sprint 3.](#5.2.3)<br>
-   5.2.3.1. [Sprint Planning 3.](#5.2.3.1.)<br>
-   5.2.3.2. [Sprint Backlog 3.](#5.2.3.2.)<br>
-   5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.)<br>
-   5.2.3.4. [Testing Suite Evidence for Sprint Review.](#5.2.3.4.)<br>
-   5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.)<br>
-   5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
-   5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
-   5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
-   5.2.4. [Sprint 4.](#5.2.4)<br>
-   5.2.4.1. [Sprint Planning 4.](#5.2.4.1.)<br>
-   5.2.4.2. [Sprint Backlog 4.](#5.2.4.2.)<br>
-   5.2.4.3. [Development Evidence for Sprint Review.](#5.2.4.3.)<br>
-   5.2.4.4. [Testing Suite Evidence for Sprint Review.](#5.2.4.4.)<br>
-   5.2.4.5. [Execution Evidence for Sprint Review.](#5.2.4.5.)<br>
-   5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.)<br>
-   5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.)<br>
-   5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.)<br>
-   5.3. [Validation Interviews.](#5.3.)<br>
-   5.3.1. [Diseño de Entrevistas.](#5.3.1)<br>
-   5.3.2. [Registro de Entrevistas.](#5.3.2)<br>
-   5.3.3. [Evaluaciones según heurísticas.](#5.3.3)<br>
-   5.4. [Video About-the-Product.](#5.4.)<br>
-6. [**Conclusiones.**](#6.)<br>
-7. [**Bibliografía.**](#7.)<br>
-8. [**Anexos.**](#8.)<br>
+4. [**Capítulo IV: Solution Software Design.**](#4.)<br>
+   4.1. [Strategic-Level Domain-Driven Design.](#4.1.)<br>
+   4.1.1. [EventStorming.](#4.1.1.)<br>
+   4.1.1.1. [Candidate Context Discovery.](#4.1.1.1.)<br>
+   4.1.1.2. [Domain Message Flows Modeling.](#4.1.1.2.)<br>
+   4.1.1.3. [Bounded Context Canvases.](#4.1.1.3.)<br>
+   4.1.2. [Context Mapping.](#4.1.2.)<br>
+   4.1.3. [Software Architecture.](#4.1.3.)<br>
+   4.1.3.1. [Software Architecture System Landscape Diagram.](#4.1.3.1.)<br>
+   4.1.3.2. [Software Architecture Context Level Diagrams.](#4.1.3.2.)<br>
+   4.1.3.3. [Software Architecture Container Level Diagrams.](#4.1.3.3.)<br>
+   4.1.3.4. [Software Architecture Deployment Diagrams.](#4.1.3.4.)<br>
+   4.2. [Tactical-Level Domain-Driven Design](#4.2.)<br>
+   4.2.1. [Bounded Context: "PlantCare".](#4.2.1.)<br>
+   4.2.1.1. [Domain Layer.](#4.2.1.1.)<br>
+   4.2.1.2. [Interface Layer.](#4.2.1.2.)<br>
+   4.2.1.3. [Application Layer.](#4.2.1.3.)<br>
+   4.2.1.4. [Infrastructure Layer.](#4.2.1.4.)<br>
+   4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams.](#4.2.1.5.)<br>
+   4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams.](#4.2.1.6.)<br>
+   4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams.](#4.2.1.6.1.)<br>
+   4.2.1.6.2. [Bounded Context Database Design Diagram.](#4.2.1.6.2.)<br>
+5. [**Capítulo V: Solution UI/UX Design**](#5.)<br>
+   5.1. [Style Guidelines.](#5.1.)<br>
+   5.1.1. [General Style Guidelines.](#5.1.1.)<br>
+   5.1.2. [Web Style Guidelines.](#5.1.2.)<br>
+   5.2. [Information Architecture.](#5.2.)<br>
+   5.2.1. [Organization Systems.](#5.2.1.)<br>
+   5.2.2. [Labeling Systems.](#5.2.2.)<br>
+   5.2.3. [SEO Tags and Meta Tags](#5.2.3.)<br>
+   5.2.4. [Searching Systems.](#5.2.4.)<br>
+   5.2.5. [Navigation Systems.](#5.2.5.)<br>
+   5.3. [Landing Page UI Design.](#5.3.)<br>
+   5.3.1. [Landing Page Wireframe.](#5.3.1.)<br>
+   5.3.2. [Landing Page Mock-up.](#5.3.2.)<br>  
+   5.4. [Applications UX/UI Design.](#5.4.)<br>
+   5.4.1. [Applications Wireframes.](#5.4.1.)<br>
+   5.4.2. [Applications Wireflow Diagrams.](#5.4.2.)<br>
+   5.4.3. [Applications Mock-ups.](#5.4.3.)<br>
+   5.4.4. [Applications User Flow Diagrams.](#5.4.4.)<br>
+   5.5. [Applications Prototyping.](#5.5.)<br>
+6. [**Capítulo VI: Product Implementation, Validation & Deployment**](#6.)<br>
+   6.1. [Software Configuration Management.](#6.1.)<br>
+   6.1.1. [Software Development Environment Configuration.](#6.1.1.)<br>
+   6.1.2. [Source Code Management.](#6.1.2.)<br>
+   6.1.3. [Source Code Style Guide & Conventions.](#6.1.3.)<br>
+   6.1.4. [Software Deployment Configuration.](#6.1.4.)<br>
+   6.2. [Landing Page, Services & Applications Implementation.](#6.2.)<br>
+   6.2.1. [Sprint 1.](#6.2.1.)<br>
+   6.2.1.1. [Sprint Planning 1.](#6.2.1.1.)<br>
+   6.2.1.2. [Sprint Backlog 1.](#6.2.1.2.)<br>
+   6.2.1.3. [Development Evidence for Sprint Review.](#6.2.1.3.)<br>
+   6.2.1.4. [Testing Suite Evidence for Sprint Review.](#6.2.1.4.)<br>
+   6.2.1.5. [Execution Evidence for Sprint Review.](#6.2.1.5.)<br>
+   6.2.1.6. [Services Documentation Evidence for Sprint Review.](#6.2.1.6.)<br>
+   6.2.1.7. [Software Deployment Evidence for Sprint Review.](#6.2.1.7.)<br>
+   6.2.1.8. [Team Collaboration Insights during Sprint.](#6.2.1.8.)<br>
+   6.2.2. [Sprint 2.](#6.2.2)<br>
+   6.2.2.1. [Sprint Planning 2.](#6.2.2.1.)<br>
+   6.2.2.2. [Sprint Backlog 2.](#6.2.2.2.)<br>
+   6.2.2.3. [Development Evidence for Sprint Review.](#6.2.2.3.)<br>
+   6.2.2.4. [Testing Suite Evidence for Sprint Review.](#6.2.2.4.)<br>
+   6.2.2.5. [Execution Evidence for Sprint Review.](#6.2.2.5.)<br>
+   6.2.2.6. [Services Documentation Evidence for Sprint Review.](#6.2.2.6.)<br>
+   6.2.2.7. [Software Deployment Evidence for Sprint Review.](#6.2.2.7.)<br>
+   6.2.2.8. [Team Collaboration Insights during Sprint.](#6.2.2.8.)<br>
+   6.2.3. [Sprint 3.](#6.2.3)<br>
+   6.2.3.1. [Sprint Planning 3.](#6.2.3.1.)<br>
+   6.2.3.2. [Sprint Backlog 3.](#6.2.3.2.)<br>
+   6.2.3.3. [Development Evidence for Sprint Review.](#6.2.3.3.)<br>
+   6.2.3.4. [Testing Suite Evidence for Sprint Review.](#6.2.3.4.)<br>
+   6.2.3.5. [Execution Evidence for Sprint Review.](#6.2.3.5.)<br>
+   6.2.3.6. [Services Documentation Evidence for Sprint Review.](#6.2.3.6.)<br>
+   6.2.3.7. [Software Deployment Evidence for Sprint Review.](#6.2.3.7.)<br>
+   6.2.3.8. [Team Collaboration Insights during Sprint.](#6.2.3.8.)<br>
+   6.2.4. [Sprint 4.](#6.2.4)<br>
+   6.2.4.1. [Sprint Planning 4.](#6.2.4.1.)<br>
+   6.2.4.2. [Sprint Backlog 4.](#6.2.4.2.)<br>
+   6.2.4.3. [Development Evidence for Sprint Review.](#6.2.4.3.)<br>
+   6.2.4.4. [Testing Suite Evidence for Sprint Review.](#6.2.4.4.)<br>
+   6.2.4.5. [Execution Evidence for Sprint Review.](#6.2.4.5.)<br>
+   6.2.4.6. [Services Documentation Evidence for Sprint Review.](#6.2.4.6.)<br>
+   6.2.4.7. [Software Deployment Evidence for Sprint Review.](#6.2.4.7.)<br>
+   6.2.4.8. [Team Collaboration Insights during Sprint.](#6.2.4.8.)<br>
+   6.3. [Validation Interviews.](#6.3.)<br>
+   6.3.1. [Diseño de Entrevistas.](#6.3.1)<br>
+   6.3.2. [Registro de Entrevistas.](#6.3.2)<br>
+   6.3.3. [Evaluaciones según heurísticas.](#6.3.3)<br>
+   6.4. [Video About-the-Product.](#6.4.)<br>
+7. [**Conclusiones.**](#7.)<br>
+8. [**Bibliografía.**](#8.)<br>
+9. [**Anexos.**](#9.)<br>
 
 
 ## Student Outcome
@@ -188,7 +201,7 @@
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <p><strong>Astrid Boronda:</strong></p><p><strong>TB1</strong><br>Para el TB1 de este proyecto, me propuse comprender en profundidad la problemática central del cuidado de plantas y los diferentes segmentos de usuarios a los que nos dirigimos. Realicé una investigación exhaustiva para identificar las necesidades y desafíos de los aficionados a la jardinería. Como resultado de este proceso, pude conocer mejor al segmento objetivo y sus necesidades, lo que me permitió colaborar en la definición inicial de la aplicación 'Plantita' y sus funcionalidades, tales como el monitoreo de condiciones ambientales y la identificación de problemas en las plantas.</p><p><strong>Franky Mallma:</strong></p><p>Trabajé en promover un entorno de respeto y escucha activa en las reuniones de equipo. Propuse y ayudé a construir el capítulo 4 utilizando el contenido de capítulos anteriores definidos. Coordiné la planificación de pequeñas entregas semanales para alcanzar las metas establecidas, revisando los avances y adaptando las tareas cuando fue necesario.</p><p><strong>Juan Montes:</strong></p><p>Promoví la participación activa de todos los integrantes en las reuniones de trabajo, fomentando un ambiente de respeto y apertura para compartir ideas. Propuse un esquema de tareas semanales para asegurar el avance del proyecto, y ayudé a establecer las metas para la definición de las funcionalidades prioritarias de la aplicación.</p><p><strong>Andrea Cabanillas:</strong></p><p>Trabajé en la identificación de los Domain Message Flows y la elaboración de los Bounded Context Canvases, estableciendo metas claras para cada etapa del modelado. Además, organicé la planificación de tareas para construir los Context Maps y asegurar que se cumpliera con los objetivos de diseñar una arquitectura de software coherente y alineada al proyecto 'Plantita'.</p><p><strong>Erick Palomino:</strong></p><p>Contribuí activamente a la planificación estratégica del proyecto 'Plantita' mediante la organización del backlog priorizado y la definición visual de funcionalidades clave. Propuse un enfoque centrado en el valor para el usuario, estructurando los entregables en función de los objetivos del negocio. Además, presenté los mapas y artefactos de forma clara para facilitar la comprensión y toma de decisiones en equipo, promoviendo la integración entre diseño, desarrollo y objetivos de producto.</p> | Se demostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, tal como se evidencia en la organización de sus roles, la definición de objetivos claros y la planificación detallada de tareas. Esta estructura ha permitido cumplir con los objetivos propuestos en el desarrollo del proyecto. La colaboración, el respeto a las ideas de cada miembro y la eficiencia en la ejecución de tareas han sido pilares fundamentales para alcanzar el éxito. Este enfoque de trabajo en equipo no solo ha facilitado el desarrollo técnico del proyecto, sino que también ha fomentado un ambiente positivo y productivo, esencial para la innovación y la resolución de problemas.|
 
 
-<div id='1.'><h1>CAPÍTULO I: INTRODUCCIÓN</h1></div>
+<div id='1.'><h1>1. Capítulo I: Introducción.</h1></div>
 
 <div id='1.1.'><h2> 1.1 Startup Profile.</h2></div>
 
@@ -813,8 +826,88 @@ Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
 
 ![](assets/plant%20db%20diagram.png)
 
---------------------------------------------------------------------------------
 
+<div id='5.'><h1><b>5. Capítulo V: Solution UI/UX Design</b></h1>
+
+<div id='5.1.'><h2><b>5.1. Style Guidelines</b></h2>
+
+<div id='5.1.1.'><h3><b>5.1.1. General Style Guidelines</b></h3>
+
+<div id='5.1.2.'><h3><b>5.1.2. Web, Mobile and IoT Style Guidelines</b></h3>
+
+<div id='5.2.'><h2><b>5.2. Information Architecture</b></h2>
+
+<div id='5.2.1.'><h3><b>5.2.1. Organization Systems</b></h3>
+
+<div id='5.2.2.'><h3><b>5.2.2. Labeling Systems</b></h3>
+
+<div id='5.2.3.'><h3><b>5.2.3. SEO Tags and Meta Tags</b></h3>
+
+<div id='5.2.4.'><h3><b>5.2.4. Searching Systems</b></h3>
+
+<div id='5.2.5.'><h3><b>5.2.5. Navigation Systems</b></h3>
+
+<div id='5.3.'><h2><b>5.3. Landing Page UI Design</b></h2>
+
+<div id='5.3.1.'><h3><b>5.3.1. Landing Page Wireframe</b></h3>
+
+<div id='5.3.2.'><h3><b>5.3.2. Landing Page Mock-up</b></h3>
+
+<div id='5.4.'><h2><b>5.4. Applications UX/UI Design</b></h2>
+
+<div id='5.4.1.'><h3><b>5.4.1. Applications Wireframes</b></h3>
+
+<div id='5.4.2.'><h3><b>5.4.2. Applications Wireflow Diagrams</b></h3>
+  
+<div id='5.4.3.'><h3><b>5.4.3. Applications Mock-ups</b></h3>
+
+<div id='5.4.4.'><h3><b>5.4.4. Applications User Flow Diagrams</b></h3>
+
+<div id='5.5.'><h2><b>5.5. Applications Prototyping</b></h2>
+
+<div id='6.'><h1><b>6. Capítulo VI: Product Implementation, Validation & Deployment</b></h1>
+
+<div id='6.1.'><h2><b>6.1. Software Configuration Management</b></h2>
+
+<div id='6.1.1.'><h3><b>6.1.1. Software Development Environment Configuration</b></h3>
+
+<div id='6.1.2.'><h3><b>6.1.2. Source Code Management</b></h3>
+
+<div id='6.1.3.'><h3><b>6.1.3. Source Code Style Guide & Conventions</b></h3>
+
+<div id='6.1.4.'><h3><b>6.1.4. Software Deployment Configuration</b></h3>
+
+<div id='6.2.'><h2><b>6.2. Landing Page, Services & Applications Implementation</b></h2>
+
+<div id='6.2.1.'><h3><b>6.2.1. Sprint 1</b></h3>
+
+<div id='6.2.1.1.'><h4><b>6.2.1.1. Sprint Planning 1</b></h4>
+
+<div id='6.2.1.2.'><h4><b>6.2.1.2. Aspect Leaders and Collaborators</b></h4>
+
+<div id='6.2.1.3.'><h4><b>6.2.1.3. Sprint Backlog 1</b></h4>
+
+<div id='6.2.1.4.'><h4><b>6.2.1.4. Development Evidence for Sprint Review</b></h4>
+
+<div id='6.2.1.5.'><h4><b>6.2.1.5. Testing Suite Evidence for Sprint Review</b></h4>
+
+<div id='6.2.1.6.'><h4><b>6.2.1.6. Execution Evidence for Sprint Review</b></h4>
+
+<div id='6.2.1.7.'><h4><b>6.2.1.7. Services Documentation Evidence for Sprint Review</b></h4>
+
+<div id='6.2.1.8.'><h4><b>6.2.1.8. Software Deployment Evidence for Sprint</b></h4>
+
+<div id='6.2.1.9.'><h4><b>6.2.1.9. Team Collaboration Insights during Sprint</b></h4>
+
+<div id='6.3.'><h2><b>6.3. Validation Interviews</b></h2>
+
+<div id='6.3.1.'><h3><b>6.3.1. Diseño de Entrevistas</b></h3>
+
+<div id='6.3.2.'><h3><b>6.3.3. Registro de Entrevistas</b></h3>
+
+<div id='6.3.3.'><h3><b>6.3.3. Evaluaciones según heurísticas</b></h3>
+
+<div id='6.4.'><h2><b>6.4. Video About-the-Product</b></h2>
 
 <h1> 4.4. Web Applications UX/UI Design </h1>
 
