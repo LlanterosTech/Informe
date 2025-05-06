@@ -539,7 +539,7 @@ Resumen de la entrevista:
 
 **1. Uso de tecnología**
 
-- Norma enfatiza que la aplicación sea fácil de usar para las personas mayores, con el fin de que puedan entenderla sin problemas.
+- Norma enfatiza que no ha usaso alguna aplicación que la ayude con sus plantas, pero estaría dispuesta a probar alguna.
 - Jorge señala que muchas aplicaciones actuales no están adaptadas para todo el público por la barrera del idioma y lo poco prácticos que son.
 - Están dispuestos a usar sensores o aplicaciones que los ayuden al cuidado de plantas, pero con la condición de que sean accesibles, simples y funcionales.
 
