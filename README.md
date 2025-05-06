@@ -530,6 +530,42 @@ Resumen de la entrevista:
 </div>
 
 <div id='2.2.3.'><h3> 2.2.3. Análisis de entrevistas</h3>
+
+**Segmento Objetivo:** Aficionados al jardín
+
+**Características del segmento:**
+
+* **Objetivas**
+
+**1. Uso de tecnología**
+
+- Norma enfatiza la facilidad de uso para personas mayores.
+- Jorge señala que muchas apps actuales no están adaptadas (idioma, necesidades prácticas).
+
+**2. Necesidad de asistencia**
+
+- Norma menciona que su inexperiencia con el cuidado de plantas ha afecta mucho al crecimiento de las mismas.
+- Jorge enfrentan dificultades para cuidar adecuadamente sus plantas, especialmente en lo relacionado con el riego, enfermedades y condiciones del suelo o luz.
+
+**3. Interés en aprender**
+
+- Jorge menciona la utilidad de una sección para hacer preguntas y compartir experiencias.
+- Norma valoran el aprendizaje continuo, desea el acompañamiento de un experto (como lo es su circulo cercano) o una comunidad.
+
+* **Subjetivas**
+
+**1. Experiencias**
+
+- 
+
+**2. Consideraciones**
+
+- 
+
+**3. Motivaciones**
+
+- 
+
 <div id='2.3.'><h2> 2.3. Needfinding</h2>
 <div id='2.3.1.'><h3> 2.3.1. User Personas</h3>
 
