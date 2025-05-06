@@ -521,7 +521,7 @@ Link de la Entrevista: [https://drive.google.com/file/d/1coUjDZoDrMYm9dg1AQ2Ctp4
 - Minuto de Inicio: 0:00 
 - Minuto de Fin: 5:35
 
-<img alt = "Entrevista1.2" src="assets/images/Entrevista2.png">
+<img alt = "Entrevista1.2" src="assets/Entrevista2.png">
 
 Resumen de la entrevista:
 
