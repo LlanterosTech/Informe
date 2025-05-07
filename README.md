@@ -906,7 +906,12 @@ Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil d
 
 <div id='5.2.1.'><h3><b>5.2.1. Organization Systems</b></h3>
 
+En lo referente a la disposición visual del contenido dentro de nuestro proyecto, se implementará el principio de jerarquía visual para estructurar la información en las diferentes secciones de la aplicación. Esto implica que la importancia de cada enunciado se reflejará mediante el tamaño de la fuente: los elementos más relevantes se destacarán con un tamaño de 32px (equivalente a 2rem), mientras que los de menor importancia utilizarán tamaños más reducidos. Asimismo, se adoptará un esquema de organización en forma de matriz ordenada para mostrar las características del producto, lo que permitirá una presentación clara y bien estructurada.
+
+Respecto a la clasificación del contenido, se aplicará una categorización orientada a la audiencia, ya que el proyecto está dirigido a dos tipos de usuarios: clientes y administradores. Cada grupo tendrá acceso a secciones y funcionalidades diseñadas específicamente para sus necesidades. Además, se incorporará una organización cronológica para el manejo de registros, especialmente cuando los usuarios consulten bases de datos con información temporal. En estos casos, se dará prioridad a las entradas más recientes, mostrándolas primero para facilitar su consulta en orden temporal.
+
 <div id='5.2.2.'><h3><b>5.2.2. Labeling Systems</b></h3>
+
 
 <div id='5.2.3.'><h3><b>5.2.3. SEO Tags and Meta Tags</b></h3>
 
@@ -940,7 +945,76 @@ Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil d
 
 <div id='6.1.2.'><h3><b>6.1.2. Source Code Management</b></h3>
 
+La gestión y organización de las diversas modificaciones del proyecto se llevaron a cabo mediante la creación de un repositorio en GitHub. La estructura adoptada para este propósito fue la siguiente:
+#### Organización:
+https://github.com/LlanterosTech
+
+#### Repositorio del Backend::
+
+https://github.com/LlanterosTech/Backend
+
+Con el fin de optimizar el control sobre la creación de ramas y la incorporación de cambios al código fuente, se optó por emplear la metodología Gitflow.
+
+Este enfoque estableció dos ramas principales: main y develop.
+
+#### Ramas principales:
+
+#### Rama main:
+Contiene las versiones oficiales del proyecto, destinadas a ser desplegadas en producción.
+
+#### Rama develop: 
+Actúa como el entorno de integración de las distintas ramas de tipo feature. Una vez que su contenido esté estabilizado y validado por el equipo, se procederá a su fusión con la rama release.
+
 <div id='6.1.3.'><h3><b>6.1.3. Source Code Style Guide & Conventions</b></h3>
+
+Con el objetivo de asegurar la coherencia, claridad y facilidad de mantenimiento del código en nuestro backend desarrollado con Spring Boot y Java, y documentado mediante Swagger, se aplicarán las siguientes normas de estilo y convenciones:
+
+#### Convenciones de Codificación en Java:
+
+Nombres de clases e interfaces: Se utilizará el formato UpperCamelCase. Ejemplos: UserService, OrderController.
+
+Nombres de métodos y variables: Se adoptará el estilo lowerCamelCase. Ejemplos: getUserById(), totalAmount.
+
+Comentarios: Se empleará Javadoc para documentar clases, métodos y atributos públicos.
+
+#### Estructura del Proyecto:
+
+Separación por capas: Se mantendrá una arquitectura organizada en capas (controladores, servicios y repositorios) para promover la modularidad y facilitar el mantenimiento.
+
+#### Buenas Prácticas de Desarrollo:
+
+Inyección de dependencias: Se utilizará el sistema de inyección de dependencias de Spring para manejar componentes de forma eficiente y minimizar el acoplamiento entre ellos.
+
+#### Diseño de pruebas con Gherkin:
+
+Uso del lenguaje Gherkin: Las pruebas se redactarán siguiendo el formato Given, When, Then para cada historia de usuario.
+
+Organización de pruebas: Se estructurarán en archivos .feature con escenarios que representen situaciones de uso reales.
+
+#### Convenciones para los Commits:
+El equipo aplicará el estándar de Conventional Commits versión 1.0.0 para asegurar una trazabilidad clara de los cambios realizados. La estructura del mensaje de commit será:
+
+
+```php
+<tipo>[alcance opcional]: <descripción breve>
+```
+
+tipo: Describe la naturaleza del cambio (por ejemplo: feat, fix, docs, etc.).
+
+alcance: Especifica la parte del código afectada.
+
+descripción: Resume de forma concisa el cambio realizado.
+
+#### Convenciones de Versionado:
+Para el control de versiones, se adoptará el esquema Semantic Versioning 2.0.0, representado como X.Y.Z:
+
+X (versión mayor): Introduce cambios incompatibles con versiones previas. Comienza en 0 durante la fase inicial de desarrollo y cambia a 1 en el lanzamiento oficial. Al incrementarse, los valores de Y y Z se reinician a 0.
+
+Y (versión menor): Incorpora nuevas funcionalidades compatibles con versiones anteriores, generalmente desde ramas de release. Al incrementarse, Z vuelve a 0.
+
+Z (versión de parche): Incluye correcciones menores y se actualiza a partir de ramas de hotfix fusionadas con la rama principal.
+
+
 
 <div id='6.1.4.'><h3><b>6.1.4. Software Deployment Configuration</b></h3>
 
