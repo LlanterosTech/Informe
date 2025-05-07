@@ -881,8 +881,25 @@ Este diagrama ilustra la arquitectura de componentes del contexto "PlantCare".
 
 <div id='5.1.'><h2><b>5.1. Style Guidelines</b></h2>
 
+El branding de Llanteros refleja el espíritu innovador y comprometido de una startup tecnológica enfocada en el sector agrícola. Nuestra identidad visual y comunicacional está diseñada para transmitir confianza, eficiencia y conexión con las plantas.
+
 <div id='5.1.1.'><h3><b>5.1.1. General Style Guidelines</b></h3>
 
+A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo y tipografía que hemos escogido para nuestra aplicación web.
+
+### Logo:
+![](assets/logo.png)
+
+### Paleta de colores:
+![](assets/paleta%20color.png)
+
+### Tipografía:
+![](assets/fuente.png)
+
+### Tamaño de fuente:
+![](assets/tamanofuente.png)
+
+Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil de entender con colores vivos que capten la atención del usuario.
 <div id='5.1.2.'><h3><b>5.1.2. Web, Mobile and IoT Style Guidelines</b></h3>
 
 <div id='5.2.'><h2><b>5.2. Information Architecture</b></h2>
