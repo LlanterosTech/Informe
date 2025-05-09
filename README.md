@@ -1018,9 +1018,28 @@ La plataforma “Plantita” incluye un sistema de búsqueda para facilitar el a
 
 <div id='5.3.'><h2><b>5.3. Landing Page UI Design</b></h2>
 
+En esta parte, damos a conocer nuestra propuesta de diseño para la interfaz de usuario (UI) de la página de inicio. Detallamos cómo nuestras elecciones en cuanto al diseño y la estructura de la información se transforman en una experiencia visual atractiva y funcional. La página de inicio representa la primera impresión de nuestro sitio web, por lo que es fundamental que proyecte nuestra identidad de marca, comunique de manera clara los mensajes principales y oriente a los usuarios hacia las acciones que buscamos. Asimismo, resaltaremos los principios de diseño y los enfoques estratégicos que guiaron la creación de una experiencia de usuario eficaz y memorable.
+
 <div id='5.3.1.'><h3><b>5.3.1. Landing Page Wireframe</b></h3>
 
+https://www.figma.com/design/43rOS1ADEUThlJXkrNxqQQ/Wireframe-landing-IOT?node-id=0-1&t=YtFMl95aoZ6wJgbk-1
+
+A continuación, elaboramos el diseño del wireframe de nuestra página de inicio utilizando la herramienta Figma.
+
+![](assets/wireframe.png)
+
+![](assets/wireframe2.png)
+
+
 <div id='5.3.2.'><h3><b>5.3.2. Landing Page Mock-up</b></h3>
+
+https://www.figma.com/design/43rOS1ADEUThlJXkrNxqQQ/Wireframe-landing-IOT?node-id=0-1&t=YtFMl95aoZ6wJgbk-1
+
+![](assets/mockuplanding.png)
+
+![](assets/mockuplanding2.png)
+
+![](assets/mockuplanding3.png)
 
 <div id='5.4.'><h2><b>5.4. Applications UX/UI Design</b></h2>
 
@@ -1039,7 +1058,11 @@ Navegación por tarjetas: Cada planta registrada se muestra como una tarjeta con
   width=50%"/>
 
 <div id='5.4.2.'><h3><b>5.4.2. Applications Wireflow Diagrams</b></h3>
+El wireflow muestra el recorrido completo del usuario dentro de la app, incluyendo pantallas de registro, inicio de sesión, recuperación de contraseña, bienvenida, selección y registro de plantas, escaneo y reconocimiento de plantas, cronogramas de cuidado, seguimiento del progreso con fotos, monitoreo de condiciones ambientales, integración de sensores, edición de datos y perfil de usuario. Presenta una estructura clara de navegación que abarca tanto funciones básicas como avanzadas.
+
+https://www.figma.com/design/9P1UhGBP4ANiAl7ScpFSNj/wireflow?node-id=0-1&t=8fEeshhCXpyFgKIP-1
   
+![](assets/Frame%201.png)
 <div id='5.4.3.'><h3><b>5.4.3. Applications Mock-ups</b></h3>
 
 <img src= "./assets/mock.png" 
