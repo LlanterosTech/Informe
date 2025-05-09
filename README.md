@@ -1000,15 +1000,21 @@ Para mejorar la visibilidad de la plataforma “Plantita” en motores de búsqu
 
 La plataforma “Plantita” incluye un sistema de búsqueda para facilitar el acceso rápido a información relevante.
 
-Botones de búsqueda: Disponible en la parte superior del menu .
+- Botones de búsqueda: Disponible en la parte superior del menu .
 
-Búsqueda por palabras clave: Permite buscar plantas, guías, problemas comunes, y funciones de la app.
+- Búsqueda por palabras clave: Permite buscar plantas, guías, problemas comunes, y funciones de la app.
 
-Filtros: Se pueden aplicar filtros por tipo de planta (interior, exterior), nivel de cuidado, o categoría (riego, plagas, luz).
+- Filtros: Se pueden aplicar filtros por tipo de planta (interior, exterior), nivel de cuidado, o categoría (riego, plagas, luz).
 
-Sugerencias automáticas: A medida que el usuario escribe, se muestran resultados sugeridos.
+- Sugerencias automáticas: A medida que el usuario escribe, se muestran resultados sugeridos.
 
 <div id='5.2.5.'><h3><b>5.2.5. Navigation Systems</b></h3>
+
+- Menú principal: Incluye secciones como funciones, Registro de plantas, Diagnóstico, Guías, Calendario y Ajustes.
+
+- Botones de acción rápida: Como “Agregar planta” o “Escanear hoja”, siempre visibles.
+
+- Navegación por tarjetas: Cada planta registrada se muestra como una tarjeta con acceso a detalles y acciones.
 
 <div id='5.3.'><h2><b>5.3. Landing Page UI Design</b></h2>
 
