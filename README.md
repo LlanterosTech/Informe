@@ -903,7 +903,7 @@ Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil d
 
 <div id='5.1.2.'><h3><b>5.1.2. Web, Mobile and IoT Style Guidelines</b></h3>
 
-<b> 1. Principios generales de diseño </b> 
+<b> Principios generales de diseño </b> 
 
 Coherencia visual: Se mantiene una identidad visual homogénea en todos los dispositivos mediante el uso de una paleta de colores, tipografía y componentes UI comunes.
 
@@ -986,6 +986,15 @@ Se realizaron entrevistas para determinar qué términos son más intuitivos (po
 
 
 <div id='5.2.3.'><h3><b>5.2.3. SEO Tags and Meta Tags</b></h3>
+
+Para mejorar la visibilidad de la plataforma “Plantita” en motores de búsqueda, se implementaron etiquetas SEO y meta tags clave:
+
+- Título (Meta Title): Plantita 
+
+- Descripción (Meta Description): App para cuidar plantas con sensores, recordatorios y guías personalizadas.
+
+- Palabras clave (Meta Keywords): jardinería, plantas, sensores, app de plantas, cuidado de plantas
+
 
 <div id='5.2.4.'><h3><b>5.2.4. Searching Systems</b></h3>
 
