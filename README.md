@@ -1060,6 +1060,22 @@ https://www.figma.com/design/h4H5bIZ22u1xrqhN0pGTsY/Untitled?node-id=0-1&p=f&t=T
 
 <div id='6.1.1.'><h3><b>6.1.1. Software Development Environment Configuration</b></h3>
 
+- Lenguajes: JavaScript (frontend), Dart (Flutter - mobile), Python (backend e IA), SQL (base de datos).
+
+- Frameworks: React para web, Flutter para móvil, Node.js/Nest.js para el backend.
+
+- IDE y editores: Visual Studio Code como principal entorno de codificación.
+
+- Control de versiones: Git con GitHub, para colaboración y gestión de código fuente.
+
+- Gestión de paquetes: npm (web), pub (Flutter), pip (Python).
+
+- Entorno local: Docker para simular el backend y base de datos en contenedores.
+
+- Base de datos: PostgreSQL en entorno local y en la nube.
+
+- Integración con sensores IoT: Uso de Arduino IDE y plataformas como Blynk o MQTT para pruebas con hardware.
+
 <div id='6.1.2.'><h3><b>6.1.2. Source Code Management</b></h3>
 
 La gestión y organización de las diversas modificaciones del proyecto se llevaron a cabo mediante la creación de un repositorio en GitHub. La estructura adoptada para este propósito fue la siguiente:
@@ -1134,6 +1150,18 @@ Z (versión de parche): Incluye correcciones menores y se actualiza a partir de 
 
 
 <div id='6.1.4.'><h3><b>6.1.4. Software Deployment Configuration</b></h3>
+
+- Servidor de backend: Desplegado en Render, con soporte para Node.js/Nest.js.
+
+- Base de datos: PostgreSQL alojada en la nube.
+
+- Frontend web: Desplegado, con integración continua desde GitHub.
+
+- Aplicación móvil: Compilada con Java y distribuida en fase de pruebas.
+
+- IoT (sensores): Comunicación usando servidores y con conexión a la nube 
+
+- Variables de entorno: Configuradas en archivos .env para cada entorno (desarrollo y producción), sin exponer credenciales.
 
 <div id='6.2.'><h2><b>6.2. Landing Page, Services & Applications Implementation</b></h2>
 
