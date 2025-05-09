@@ -900,7 +900,45 @@ A continuación, se mostrará la paleta general de colores para la aplicación, 
 ![](assets/tamanofuente.png)
 
 Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil de entender con colores vivos que capten la atención del usuario.
+
 <div id='5.1.2.'><h3><b>5.1.2. Web, Mobile and IoT Style Guidelines</b></h3>
+
+<b> 1. Principios generales de diseño </b> 
+
+Coherencia visual: Se mantiene una identidad visual homogénea en todos los dispositivos mediante el uso de una paleta de colores, tipografía y componentes UI comunes.
+
+Accesibilidad: Se consideran principios de accesibilidad como contraste suficiente, uso de íconos descriptivos, etiquetas claras y compatibilidad con tecnologías de asistencia.
+
+Simplicidad y claridad: La interfaz evita la sobrecarga cognitiva, mostrando información clave de forma clara y evitando elementos decorativos innecesarios
+
+
+<b> Estilo Web </b> 
+
+Diseño responsivo: Compatible con múltiples tamaños de pantalla
+
+Menú de navegación horizontal: Incluye secciones como “Inicio”, “Mis Plantas”, “Diagnóstico”, “Calendario” y “Ajustes”.
+
+Componentes interactivos: Botones grandes, con íconos acompañantes.
+
+Tipografía: Se usa una fuente legible y con buen tamaño 
+
+Colores principales: Verde (para acciones positivas), blanco y gris claro (fondos neutros).
+
+
+<b>  Estilo Mobile </b> 
+
+Navegación inferior: Menú fijo con iconos para acceso rápido a funciones principales.
+
+Notificaciones: Sistema de alertas push para recordatorios de riego, fertilización y monitoreo ambiental.
+
+Modo oscuro: Opcional, con inversión de colores conservando la legibilidad.
+
+
+<b> Estilo IoT </b> 
+
+Paneles visuales simplificados: Pantallas minimalistas en dispositivos físicos (como medidores o pantallas táctiles) con íconos grandes y datos clave como humedad, temperatura y luz.
+
+Interacción limitada: En dispositivos IoT se prioriza la visualización pasiva de datos; las acciones avanzadas se realizan desde la app móvil.
 
 <div id='5.2.'><h2><b>5.2. Information Architecture</b></h2>
 
@@ -911,6 +949,40 @@ En lo referente a la disposición visual del contenido dentro de nuestro proyect
 Respecto a la clasificación del contenido, se aplicará una categorización orientada a la audiencia, ya que el proyecto está dirigido a dos tipos de usuarios: clientes y administradores. Cada grupo tendrá acceso a secciones y funcionalidades diseñadas específicamente para sus necesidades. Además, se incorporará una organización cronológica para el manejo de registros, especialmente cuando los usuarios consulten bases de datos con información temporal. En estos casos, se dará prioridad a las entradas más recientes, mostrándolas primero para facilitar su consulta en orden temporal.
 
 <div id='5.2.2.'><h3><b>5.2.2. Labeling Systems</b></h3>
+
+<b> 1. Principios de etiquetado </b>
+
+Claridad: Evitar tecnicismos; usar términos comprensibles para el usuario promedio (ej. “Regar” en vez de “Humedad de sustrato”).
+
+Consistencia: Usar el mismo término para la misma función en toda la aplicación (por ejemplo, si se usa “Mi planta” no alternar con “Planta registrada”).
+
+<b> 2. Tipos de etiquetas utilizadas </b>
+
+Etiquetas de navegación: “Inicio”, “Mis plantas”, “Diagnóstico”, “Guías”, “Configuración”.
+
+Etiquetas de funciones: “Agregar planta”, “Escanear hoja”, “Ver historial”, “Programar riego”.
+
+Etiquetas informativas: “Humedad actual”, “Nivel de luz”, “Último riego”.
+
+<b> 3. Convenciones lingüísticas </b>
+
+Idioma base: Español neutro.
+
+Tono: Amigable y orientado a principiantes.
+
+Verbos en infinitivo o sustantivos simples: “Agregar”, “Escanear”, “Diagnóstico”.
+
+<b> 4. Adaptabilidad </b>
+
+Compatibilidad multilingüe (ej. posibilidad de cambiar el idioma de las etiquetas).
+
+Inclusión de íconos junto con etiquetas para facilitar el reconocimiento visual.
+
+<b> 5. Justificación de diseño </b>
+
+Las etiquetas están pensadas para usuarios sin conocimientos técnicos de jardinería.
+
+Se realizaron entrevistas para determinar qué términos son más intuitivos (por ejemplo, “hojas dañadas” en vez de “signos de clorosis”).
 
 
 <div id='5.2.3.'><h3><b>5.2.3. SEO Tags and Meta Tags</b></h3>
