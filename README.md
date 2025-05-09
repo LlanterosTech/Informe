@@ -929,9 +929,23 @@ Respecto a la clasificación del contenido, se aplicará una categorización ori
 
 <div id='5.4.1.'><h3><b>5.4.1. Applications Wireframes</b></h3>
 
+<img src= "./assets/wire.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
 <div id='5.4.2.'><h3><b>5.4.2. Applications Wireflow Diagrams</b></h3>
   
 <div id='5.4.3.'><h3><b>5.4.3. Applications Mock-ups</b></h3>
+
+<img src= "./assets/mock.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+https://www.figma.com/design/h4H5bIZ22u1xrqhN0pGTsY/Untitled?node-id=0-1&p=f&t=TkmWs9iKVckTPA0v-0
 
 <div id='5.4.4.'><h3><b>5.4.4. Applications User Flow Diagrams</b></h3>
 
@@ -1049,27 +1063,6 @@ Z (versión de parche): Incluye correcciones menores y se actualiza a partir de 
 <div id='6.3.3.'><h3><b>6.3.3. Evaluaciones según heurísticas</b></h3>
 
 <div id='6.4.'><h2><b>6.4. Video About-the-Product</b></h2>
-
-<h1> 4.4. Web Applications UX/UI Design </h1>
-
-<br> 4.4.1. Web Applications Wireframes </br>
-
-<img src= "./assets/po.png" 
-  style="display: block; 
-  margin-left:auto; 
-  margin-right: auto; 
-  width=50%"/>
-
-<br> 4.4.3. Web Applications Mock-ups </br>
-
-<img src= "./assets/ru.png" 
-  style="display: block; 
-  margin-left:auto; 
-  margin-right: auto; 
-  width=50%"/>
-
-
-
 
 
 **Conclusiones**
