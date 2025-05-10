@@ -1075,6 +1075,11 @@ https://www.figma.com/design/h4H5bIZ22u1xrqhN0pGTsY/Untitled?node-id=0-1&p=f&t=T
 
 <div id='5.4.4.'><h3><b>5.4.4. Applications User Flow Diagrams</b></h3>
 
+Este userflow diagram muestra una vista detallada del recorrido del usuario en una aplicación de gestión y monitoreo de plantas. Incluye pantallas para el registro e inicio de sesión, escaneo de hojas y fotos, reconocimiento automático de plantas, monitoreo de condiciones ambientales, sugerencias de nuevas plantas, comparación entre especies, y gestión de una lista de favoritos. También incorpora funciones adicionales como la integración de sensores de humedad, edición de datos de plantas, y recomendaciones personalizadas. El flujo está diseñado para ofrecer una experiencia interactiva, personalizada y completa en el cuidado de plantas.
+https://www.figma.com/design/9P1UhGBP4ANiAl7ScpFSNj/wireflow?node-id=0-1&t=8fEeshhCXpyFgKIP-1
+
+![](assets/Frame%202.png)
+
 <div id='5.5.'><h2><b>5.5. Applications Prototyping</b></h2>
 
 <div id='6.'><h1><b>6. Capítulo VI: Product Implementation, Validation & Deployment</b></h1>
