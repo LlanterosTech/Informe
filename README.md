@@ -1193,6 +1193,21 @@ Z (versión de parche): Incluye correcciones menores y se actualiza a partir de 
 
 <div id='6.2.'><h2><b>6.2. Landing Page, Services & Applications Implementation</b></h2>
 
+Convenciones para los Commits:
+
+El equipo aplicará el estándar de Conventional Commits versión 1.0.0 para asegurar una trazabilidad clara de los cambios realizados. La estructura del mensaje de commit será:
+<tipo>[alcance opcional]: <descripción breve>
+tipo: Describe la naturaleza del cambio (por ejemplo: feat, fix, docs, etc.).
+alcance: Especifica la parte del código afectada.
+descripción: Resume de forma concisa el cambio realizado.
+
+Convenciones de Versionado:
+Para el control de versiones, se adoptará el esquema Semantic Versioning 2.0.0, representado como X.Y.Z:
+X (versión mayor): Introduce cambios incompatibles con versiones previas. Comienza en 0 durante la fase inicial de desarrollo y cambia a 1 en el lanzamiento oficial. Al incrementarse, los valores de Y y Z se reinician a 0.
+Y (versión menor): Incorpora nuevas funcionalidades compatibles con versiones anteriores, generalmente desde ramas de release. Al incrementarse, Z vuelve a 0.
+Z (versión de parche): Incluye correcciones menores y se actualiza a partir de ramas de hotfix fusionadas con la rama principal.
+
+
 <div id='6.2.1.'><h3><b>6.2.1. Sprint 1</b></h3>
 
 <div id='6.2.1.1.'><h4><b>6.2.1.1. Sprint Planning 1</b></h4>
