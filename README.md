@@ -1088,7 +1088,7 @@ https://www.figma.com/design/9P1UhGBP4ANiAl7ScpFSNj/wireflow?node-id=0-1&t=8fEes
   margin-right: auto; 
   width=50%"/>
 
-<img src= "./assets/wi.png" 
+<img src= "./assets/captura.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
