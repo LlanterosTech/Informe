@@ -1095,7 +1095,7 @@ https://www.figma.com/design/9P1UhGBP4ANiAl7ScpFSNj/wireflow?node-id=0-1&t=8fEes
   width=50%"/>
 
 
-<img src= "./assets/cap3.png" 
+<img src= "./assets/tercera.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
