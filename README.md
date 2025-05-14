@@ -1082,24 +1082,31 @@ https://www.figma.com/design/9P1UhGBP4ANiAl7ScpFSNj/wireflow?node-id=0-1&t=8fEes
 
 <div id='5.5.'><h2><b>5.5. Applications Prototyping</b></h2>
 
-<img src= "./assets/cap1.png" 
+<img src= "./assets/proto.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
-<img src= "./assets/captura.png" 
+<img src= "./assets/tipo.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
 
-<img src= "./assets/tercera.png" 
+<img src= "./assets/pro.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
+
+<img src= "./assets/pt.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+  
 
 
   Prototipo completo: 
