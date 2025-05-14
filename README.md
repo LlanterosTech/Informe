@@ -1101,6 +1101,16 @@ https://www.figma.com/design/9P1UhGBP4ANiAl7ScpFSNj/wireflow?node-id=0-1&t=8fEes
   margin-right: auto; 
   width=50%"/>
 
+<img src= "./assets/cuarta.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+
+
+
 <div id='6.'><h1><b>6. Capítulo VI: Product Implementation, Validation & Deployment</b></h1>
 
 <div id='6.1.'><h2><b>6.1. Software Configuration Management</b></h2>
