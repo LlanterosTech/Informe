@@ -1281,7 +1281,7 @@ Para garantizar una experiencia de usuario satisfactoria y una interfaz coherent
 
 Para garantizar una experiencia de usuario satisfactoria y una interfaz coherente, se aplicaron las **10 heurísticas de usabilidad de Nielsen** durante el desarrollo de las aplicaciones web, móvil y el sistema de gestión IoT. A continuación, se presenta una evaluación basada en dichas heurísticas:
 
----
+
 
 **1. Visibilidad del estado del sistema**  
 Se implementaron indicadores de carga, mensajes de estado y notificaciones (por ejemplo, "guardado exitosamente" o "conexión con el sensor establecida") tanto en la app móvil como en la interfaz web, permitiendo a los usuarios comprender en todo momento lo que está ocurriendo.
@@ -1312,10 +1312,6 @@ Los mensajes de error fueron diseñados en lenguaje claro, explicando la causa y
 
 **10. Ayuda y documentación**  
 Se desarrolló una sección de ayuda accesible desde la app y la web, junto con documentación para el usuario en los archivos del sistema. Además, se documentaron los endpoints del backend con Swagger para facilitar la comprensión técnica.
-
----
-
-Estas evaluaciones se realizaron en conjunto con usuarios y desarrolladores mediante pruebas de usabilidad y revisión de interfaces. Como resultado, se identificaron y corrigieron varios aspectos que mejoraron significativamente la accesibilidad, eficiencia y satisfacción del usuario final.
 
 
 
