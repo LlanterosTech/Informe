@@ -1275,6 +1275,50 @@ Z (versión de parche): Incluye correcciones menores y se actualiza a partir de 
 
 <div id='6.3.3.'><h3><b>6.3.3. Evaluaciones según heurísticas</b></h3>
 
+Para garantizar una experiencia de usuario satisfactoria y una interfaz coherente, se aplicaron las 10 heurísticas de usabilidad de Nielsen durante el desarrollo de las aplicaciones web, móvil y el sistema de gestión IoT. A continuación, se presenta una evaluación basada en dichas heurísticas
+
+### 6.3.3. Evaluaciones según heurísticas
+
+Para garantizar una experiencia de usuario satisfactoria y una interfaz coherente, se aplicaron las **10 heurísticas de usabilidad de Nielsen** durante el desarrollo de las aplicaciones web, móvil y el sistema de gestión IoT. A continuación, se presenta una evaluación basada en dichas heurísticas:
+
+---
+
+**1. Visibilidad del estado del sistema**  
+Se implementaron indicadores de carga, mensajes de estado y notificaciones (por ejemplo, "guardado exitosamente" o "conexión con el sensor establecida") tanto en la app móvil como en la interfaz web, permitiendo a los usuarios comprender en todo momento lo que está ocurriendo.
+
+**2. Concordancia entre el sistema y el mundo real**  
+Los términos utilizados en la interfaz se adaptaron al lenguaje cotidiano del usuario (ej. “Planta”, “Riego”, “Diagnóstico”) y se emplearon íconos familiares que refuerzan la comprensión, especialmente en los módulos de sensores y cuidados.
+
+**3. Control y libertad del usuario**  
+Se brindó la posibilidad de deshacer acciones (como cancelar un registro de planta o modificar un horario de riego) y se añadieron confirmaciones antes de realizar tareas destructivas (ej. eliminar registros).
+
+**4. Consistencia y estándares**  
+Se mantuvo una estructura uniforme de botones, estilos y navegación entre el frontend web (React) y móvil (Flutter). Se aplicaron también convenciones estándar de diseño y desarrollo como las de Material Design.
+
+**5. Prevención de errores**  
+Se aplicaron validaciones en formularios para evitar datos incompletos o erróneos, y se incluyeron sugerencias automatizadas en el diagnóstico de plantas (IA) para asistir al usuario y evitar malas prácticas.
+
+**6. Reconocimiento antes que recuerdo**  
+Las interfaces muestran acciones disponibles en lugar de exigir que el usuario las recuerde. Menús, iconos contextuales y nombres claros ayudan a que el usuario interactúe sin esfuerzo.
+
+**7. Flexibilidad y eficiencia de uso**  
+La interfaz incluye atajos, acciones rápidas y autocompletado para usuarios avanzados, mientras que se mantiene simple para los principiantes, garantizando accesibilidad para todos los niveles.
+
+**8. Estética y diseño minimalista**  
+Se priorizó un diseño limpio, con uso efectivo del espacio y énfasis visual en las funciones principales como el monitoreo ambiental, diagnóstico de plantas y programación de cuidados.
+
+**9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores**  
+Los mensajes de error fueron diseñados en lenguaje claro, explicando la causa y posible solución (ej. “No se detectó conexión con el sensor. Verifica tu red o reinicia el dispositivo”).
+
+**10. Ayuda y documentación**  
+Se desarrolló una sección de ayuda accesible desde la app y la web, junto con documentación para el usuario en los archivos del sistema. Además, se documentaron los endpoints del backend con Swagger para facilitar la comprensión técnica.
+
+---
+
+Estas evaluaciones se realizaron en conjunto con usuarios y desarrolladores mediante pruebas de usabilidad y revisión de interfaces. Como resultado, se identificaron y corrigieron varios aspectos que mejoraron significativamente la accesibilidad, eficiencia y satisfacción del usuario final.
+
+
+
 <div id='6.4.'><h2><b>6.4. Video About-the-Product</b></h2>
 
 
