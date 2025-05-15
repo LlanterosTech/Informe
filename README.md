@@ -1251,9 +1251,58 @@ Z (versión de parche): Incluye correcciones menores y se actualiza a partir de 
 
 <div id='6.2.1.1.'><h4><b>6.2.1.1. Sprint Planning 1</b></h4>
 
+En este sprint planning 1 se presenta la evidencia de la planificación y desarrollo de la RESTful Web Services (backend), landing page y versión web y móvil de la aplicacion. Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de GitHub.
+
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|**Date**|10 de mayo de 2025|
+|**Time**|22:00 horas (GMT-5)|
+|**Location**|Modalidad remota|
+|**Prepared By**|LlantaTech|
+|**Attendees (to planning meeting)**|Todos los miembros de LlantaTech|
+|**Sprint 0 Review Summary**|Debido a que es el primer sprint, no hay review summary de un sprint anterior|
+|**Sprint 1 Retrospective Summary**|En este Sprint 1, se iniciará el desarrollo de la mayor parte del backend de la aplicación, una primera versión de la landing page y la aplicación web y  movil. Las actividades planificadas incluyen comenzar con la construcción de la API utilizando C# con .NET, implementar un CRUD básico por cada entidad para gestionar los datos de la aplicación y mejorar algunas características mediante el uso de parámetros y consultas. Asimismo se continuo con el desarrollo frontend con Vue.js y javascript y el desarrollo de la aplicación móvil con flutter y dart.|
+|**Sprint Goal & User Stories**||
+|**Sprint Goal 1**|El goal de este sprint se basa  en el desarrollo backend, primera versión de landing page, desarrollo aplicación web y movil.|
+|**Sprint Velocity 1**|8|
+|**Sum of Story Points**|35|
+
 <div id='6.2.1.2.'><h4><b>6.2.1.2. Aspect Leaders and Collaborators</b></h4>
 
+La colaboración del equipo en este sprint se estructuró de la siguiente manera:
+
+| Aspecto                   | Líder del Aspecto | Colaboradores                |
+|---------------------------|-------------------|------------------------------|
+| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea  |
+| Desarrollo del Backend    | Erick             | Andrea, Franky               |
+| Desarrollo del Frontend   | Luis              | Astrid, Erick                |
+| Desarrollo de App         | Astrid            | Luis, Erick                  |
+| Documentación             | Andrea            | Franky, Erick, Luis, Astrid  |
+
 <div id='6.2.1.3.'><h4><b>6.2.1.3. Sprint Backlog 1</b></h4>
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+Link del Trello: https://trello.com/b/4BqoJyJj  
+Vista del Sprint Backlog en Trello:
+
+![](assets/trello%20sprint%201.png)
+
+Sprint #1
+
+| User Story ID | Work-item / Task ID | Título                               | Descripción                                                                                                                                     | Estimado horas | Asignado a              | Estado     |
+|---------------|---------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------|------------|
+| EP01          | T1                  | Registro y Configuración de Plantas | Como usuario, quiero un sistema que registre y configure las plantas iniciales para comenzar a gestionar su cuidado y estado.                  | 8              | Erick, Andrea            | Terminado  |
+| US01          | T2                  | Registro de Planta                   | Como usuario, quiero poder registrar nuevas plantas en el sistema para realizar un seguimiento adecuado de su cuidado.                         | 5              | Erick                   | Terminado  |
+| US02          | T3                  | Edición de Datos de Planta           | Como usuario, quiero editar los datos de las plantas registradas para mantener la información actualizada.                                     | 3              | Erick                   | Terminado  |
+| US25          | T4                  | Añadir Comentarios por Planta        | Como usuario, quiero agregar comentarios y notas personales en cada planta para hacer un seguimiento detallado de su cuidado.                  | 2              | Astrid                  | Terminado  |
+| US11          | T5                  | Sugerencias ante Problemas Comunes  | Como usuario, quiero recibir sugerencias sobre cómo tratar problemas comunes como plagas o enfermedades en las plantas.                        | 5              | Andrea, Franky           | Terminado  |
+| US06          | T6                  | Historial de Salud de Planta         | Como usuario, quiero tener un historial de salud para cada planta, con información sobre su evolución, tratamientos y problemas previos.       | 5              | Erick, Andrea            | Terminado  |
+| US24          | T7                  | Progreso con Fotos                   | Como usuario, quiero seguir el progreso de mis plantas mediante fotos para ver su evolución a lo largo del tiempo.                             | 5              | Luis, Astrid            | Terminado  |
+| EP04          | T8                  | Guías y Recomendaciones de Cuidado  | Como usuario, quiero acceder a contenido educativo sobre el cuidado de las plantas, adaptado a cada especie, para mejorar su bienestar.        | 8              | Andrea, Franky           | Terminado  |
+| US13          | T9                  | Guardar Plantas Favoritas            | Como usuario, quiero guardar mis plantas favoritas en una lista para poder acceder a ellas fácilmente cuando las necesite.                     | 2              | Luis                    | Terminado  |
+| US09          | T10                 | Recordatorios de Riego               | Como usuario, quiero recibir recordatorios automáticos de riego para asegurarme de que mis plantas siempre reciban la cantidad de agua adecuada.| 3              | Franky, Luis             | Terminado  |
+
 
 <div id='6.2.1.4.'><h4><b>6.2.1.4. Development Evidence for Sprint Review</b></h4>
 
