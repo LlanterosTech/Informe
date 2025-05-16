@@ -1347,6 +1347,19 @@ Durante este sprint, completamos la primera fase de nuestro producto final, desa
 
 <div id='6.2.1.8.'><h4><b>6.2.1.8. Software Deployment Evidence for Sprint</b></h4>
 
+Para este proyecto, se utilizo Netlify para subir el proyecto, donde fue necesario el registro a una cuenta github para el acceso al repositorio donde se encuentra el proyecto. Luego de elegirlo, fue necesario rellenar las especificaciones como la ruta del archivo, las dependencias y el nombre que se le asignaría. Después de seleccionarlo se espero a que todo los archivos correspondientes carguen por completo. Finalmente, se genera la url de la aplicación.
+
+![](assets/Deploy1.png)
+
+![](assets/Deploy2.png)
+
+![](assets/Deploy3.png)
+
+![](assets/Deploy4.png)
+
+![](assets/Deploy5.png)
+
+
 <div id='6.2.1.9.'><h4><b>6.2.1.9. Team Collaboration Insights during Sprint</b></h4>
 
 
