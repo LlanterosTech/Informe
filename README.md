@@ -1305,10 +1305,36 @@ Sprint #1
 
 
 <div id='6.2.1.4.'><h4><b>6.2.1.4. Development Evidence for Sprint Review</b></h4>
+En esta parte, se muestran los commits efectuados en el repositorio de GitHub correspondientes a la landing page y la aplicación móvil. Estos registros evidencian el avance y las mejoras incorporadas a lo largo del sprint, ofreciendo una visión clara del trabajo realizado y las aportaciones del equipo de desarrollo.
+
+Nuestro repositorio:
+-https://github.com/LlanterosTech/Frontend
+-https://github.com/LlanterosTech/BackendC-
+-https://github.com/LlanterosTech/Landing-Page
+-https://github.com/LlanterosTech/Fronted-MobileApp
+
+
+| Repository     | Branch | Commit ID                                | Commit Message                                    | Commit Message Body | Committed on    |
+|----------------|--------|------------------------------------------|--------------------------------------------------|---------------------|-----------------|
+| **Frontend**   | main   | b9b7985e950ecbdbc2ddcc4f11bc389a7f895203 | First commit                                     | -                   | 15 may, 2025    |
+|                | main   | ac4f74da7a77e95225b1f871af34452d0b0754cb | fix: improvement of the pages login and register | -                   | 15 may, 2025    |
+|                | main   | c21944807bf78d40762639d2c32ba1cc355d48b9 | feat: improvement of the initPage                | -                   | 15 may, 2025    |
+|                | main   | 50180519011f0b3aaf8011b0c7aab877f51bb245 | Update BuscarEstimacion.vue                      | -                   | 09 mar, 2025    |
+| **Backend**    | main   | f129235c32fccf3d7f81c6a2bffc8dcbdfd71475 | feat: File order                                 | -                   | 11 may, 2025    |
+|                | main   | c28dfba268775e9df1d2bcbce01fb775df3827c3 | feat: edit                                       | -                   | 13 may, 2025    |
+|                | main   | 387aabd07d5c2e37c0b52ba35a711e0ebe16b794 | feat: Implement post of Myplant                  | -                   | 15 may, 2025    |
+| **Landing Page** | main | f129235c32fccf3d7f81c6a2bffc8dcbdfd71475 | feat: Add header, body and footer content by landing page | -           | 14 may, 2025    |
+| **Mobile**     | main   | 462cb88809fa4e65ff84bec6a606d4bbc76be241 | feat: Add functionality by plantita              | -                   | 10 may, 2025    |
+
 
 <div id='6.2.1.5.'><h4><b>6.2.1.5. Testing Suite Evidence for Sprint Review</b></h4>
 
+
 <div id='6.2.1.6.'><h4><b>6.2.1.6. Execution Evidence for Sprint Review</b></h4>
+
+Durante este sprint, completamos la primera fase de nuestro producto final, desarrollando la landing page con HTML y CSS. También se consideró el diseño responsive para garantizar su correcta visualización en dispositivos Android, y se realizó el despliegue correspondiente en Netlify.
+
+![](assets/despliegue.png)
 
 <div id='6.2.1.7.'><h4><b>6.2.1.7. Services Documentation Evidence for Sprint Review</b></h4>
 
