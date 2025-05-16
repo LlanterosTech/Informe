@@ -1341,9 +1341,11 @@ Durante este sprint, completamos la primera fase de nuestro producto final, desa
 
 <div id='6.2.1.7.'><h4><b>6.2.1.7. Services Documentation Evidence for Sprint Review</b></h4>
 
-![](assets/test1.png)
+![](assets/des1.jpg)
 
-![](assets/test2.png)
+![](assets/des2.jpg)
+
+![](assets/des3.jpg)
 
 <div id='6.2.1.8.'><h4><b>6.2.1.8. Software Deployment Evidence for Sprint</b></h4>
 
@@ -1359,10 +1361,13 @@ Para este proyecto, se utilizo Netlify para subir el proyecto, donde fue necesar
 
 ![](assets/Deploy5.png)
 
-**Enlace del Deploy:** [https://app.netlify.com/projects/plantita-web/configuration/general](https://app.netlify.com/projects/plantita-web/configuration/general)
+**Enlace del Deploy:** [ https://plantita-web.netlify.app](https://app.netlify.com/projects/plantita-web/configuration/general)
 
 <div id='6.2.1.9.'><h4><b>6.2.1.9. Team Collaboration Insights during Sprint</b></h4>
 
+![](assets/te1.jpg)
+
+![](assets/te2.jpg)
 
 **Conclusiones**
 
