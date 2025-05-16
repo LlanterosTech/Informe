@@ -1359,6 +1359,7 @@ Para este proyecto, se utilizo Netlify para subir el proyecto, donde fue necesar
 
 ![](assets/Deploy5.png)
 
+**Enlace del Deploy:** [https://app.netlify.com/projects/plantita-web/configuration/general](https://app.netlify.com/projects/plantita-web/configuration/general)
 
 <div id='6.2.1.9.'><h4><b>6.2.1.9. Team Collaboration Insights during Sprint</b></h4>
 
