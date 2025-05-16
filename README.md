@@ -1329,6 +1329,9 @@ Nuestro repositorio:
 
 <div id='6.2.1.5.'><h4><b>6.2.1.5. Testing Suite Evidence for Sprint Review</b></h4>
 
+![](assets/test1.png)
+
+![](assets/test2.png)
 
 <div id='6.2.1.6.'><h4><b>6.2.1.6. Execution Evidence for Sprint Review</b></h4>
 
@@ -1337,6 +1340,10 @@ Durante este sprint, completamos la primera fase de nuestro producto final, desa
 ![](assets/despliegue.png)
 
 <div id='6.2.1.7.'><h4><b>6.2.1.7. Services Documentation Evidence for Sprint Review</b></h4>
+
+![](assets/test1.png)
+
+![](assets/test2.png)
 
 <div id='6.2.1.8.'><h4><b>6.2.1.8. Software Deployment Evidence for Sprint</b></h4>
 
