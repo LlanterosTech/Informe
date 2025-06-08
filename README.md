@@ -733,35 +733,20 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
 
 <div id='4.1.3.1.'><h4><b>4.1.3.1. Software Architecture System Landscape Diagram</b></h4>
 
-<img src= "./assets/ee.png" 
-  style="display: block; 
-  margin-left:auto; 
-  margin-right: auto; 
-  width=50%"/>
+![](assets/tb2%20IOT-Page-1.png)
 
 <div id='4.1.3.2.'><h4><b>4.1.3.2. Software Architecture Context Level Diagrams</b></h4>
 
-<img src= "./assets/diagram.png" 
-  style="display: block; 
-  margin-left:auto; 
-  margin-right: auto; 
-  width=50%"/>
+![](assets/context%20iot.png)
+
 
 <div id='4.1.3.3.'><h4><b>4.1.3.3. Software Architecture Container Level Diagrams</b></h4>
 
-<img src= "./assets/aa.png" 
-  style="display: block; 
-  margin-left:auto; 
-  margin-right: auto; 
-  width=50%"/>
+![](assets/container%20iot.png)
 
 <div id='4.1.3.4.'><h4><b>4.1.3.4. Software Architecture Deployment Diagrams</b></h4>
 
-<img src= "./assets/uu.png" 
-  style="display: block; 
-  margin-left:auto; 
-  margin-right: auto; 
-  width=50%"/>
+![](assets/deployment%20iot.png)
 
 
 <div id='4.2.'><h2><b>4.2. Tactical-Level Domain-Driven Design</b></h2>
