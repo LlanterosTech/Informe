@@ -1348,8 +1348,51 @@ Para este proyecto, se utilizo Netlify para subir el proyecto, donde fue necesar
 
 **Enlace del Deploy:** [ https://plantita-web.netlify.app](https://app.netlify.com/projects/plantita-web/configuration/general)
 
-<div id='6.2.1.9.'><h4><b>6.2.1.9. Team Collaboration Insights during Sprint</b></h4>
+<div id='6.2.1.9'><h4><b>6.2.1.9. Team Collaboration Insights during Sprint</b></h4>
 
+
+
+<div id='6.3'><h4><b>6.3 Validation Interviews </b></h4>
+
+<div id='6.3.1'><h4><b>6.3.1 Diseño de Entrevistas </b></h4>
+
+1.¿Qué fue lo primero que pensaste al ver la app?
+
+2.¿Qué parte te pareció más útil o interesante? ¿Por qué?
+
+3.¿Qué parte te pareció confusa o poco útil?
+
+4.¿Crees que esta app te ayudaría a cuidar mejor tus plantas? ¿En qué sentido?
+
+5.¿Hay alguna funcionalidad que crees que falta o mejorarías?
+
+6.¿Qué fue lo primero que pensaste al ver la app?
+
+7.¿Qué parte te pareció más útil o interesante? ¿Por qué?
+
+8.¿Qué parte te pareció confusa o poco útil?
+
+9.¿Crees que esta app te ayudaría a cuidar mejor tus plantas? ¿En qué sentido?
+
+10.¿Hay alguna funcionalidad que crees que falta o mejorarías?
+
+11.¿Usarías esta app con frecuencia? ¿En qué momentos del día o de la semana?
+
+12.¿Te resultaría útil recibir notificaciones o recordatorios de riego, fertilización, etc.?
+
+
+<div id='6.3.2'><h4><b>6.3.2 Registro  de Entrevistas </b></h4>
+
+
+
+
+<div id='6.3.3'><h4><b>6.3.3 Evaluaciones según heurísticas </b></h4>
+
+
+  
+<div id='6.4'><h4><b>6.4 Video About-the-Product </b></h4>
+
+  
 ![](assets/te1.jpg)
 
 ![](assets/te2.jpg)
