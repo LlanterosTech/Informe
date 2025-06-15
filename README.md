@@ -1336,6 +1336,8 @@ Durante este sprint, completamos la primera fase de nuestro producto final, desa
 
 Para este proyecto, se utilizo Netlify para subir el proyecto, donde fue necesario el registro a una cuenta github para el acceso al repositorio donde se encuentra el proyecto. Luego de elegirlo, fue necesario rellenar las especificaciones como la ruta del archivo, las dependencias y el nombre que se le asignaría. Después de seleccionarlo se espero a que todo los archivos correspondientes carguen por completo. Finalmente, se genera la url de la aplicación.
 
+**Enlace del Deploy:** [ https://plantita-web.netlify.app](https://plantita-landing.netlify.app/)
+
 ![](assets/Deploy1.png)
 
 ![](assets/Deploy2.png)
