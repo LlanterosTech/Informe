@@ -680,9 +680,38 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
 
 <p>Para elaborar nuestro Product Backlog hemos utilizado la secuencia de Fibonacci (1,2,3,5,8). Aplicamos esto con el objetivo de evaluar la complejidad de las tareas.
 
-<table border="1"> <tr> <th>#Orden</th> <th>User Story ID</th> <th>Título</th> <th>Descripción</th> <th>Story Points (1/2/3/5/8)</th> </tr> <tr> <td>1</td> <td>EP01</td> <td>Registro y Configuración de Plantas</td> <td>Como usuario, quiero un sistema que registre y configure las plantas iniciales para comenzar a gestionar su cuidado y estado.</td> <td>8</td> </tr> <tr> <td>2</td> <td>US01</td> <td>Registro de Planta</td> <td>Como usuario, quiero poder registrar nuevas plantas en el sistema para realizar un seguimiento adecuado de su cuidado.</td> <td>5</td> </tr> <tr> <td>3</td> <td>US23</td> <td>Reconocimiento Automático de Planta</td> <td>Como usuario, quiero que el sistema identifique automáticamente las plantas mediante fotos para agilizar su registro y seguimiento.</td> <td>13</td> </tr> <tr> <td>4</td> <td>US02</td> <td>Edición de Datos de Planta</td> <td>Como usuario, quiero editar los datos de las plantas registradas para mantener la información actualizada.</td> <td>3</td> </tr> <tr> <td>5</td> <td>US25</td> <td>Añadir Comentarios por Planta</td> <td>Como usuario, quiero agregar comentarios y notas personales en cada planta para hacer un seguimiento detallado de su cuidado.</td> <td>2</td> </tr> <tr> <td>6</td> <td>EP02</td> <td>Monitoreo de Condiciones Ambientales</td> <td>Como usuario, quiero monitorear las condiciones ambientales (humedad, luz, temperatura) de las plantas para asegurarme de que se encuentren en condiciones óptimas.</td> <td>8</td> </tr> <tr> <td>7</td> <td>US03</td> <td>Integración de Sensor de Humedad</td> <td>Como usuario, quiero conectar sensores para medir la humedad de las plantas y recibir alertas si se desvían de los valores recomendados.</td> <td>8</td> </tr> <tr> <td>8</td> <td>US04</td> <td>Alertas por Condiciones Críticas</td> <td>Como usuario, quiero recibir alertas cuando las condiciones ambientales sean críticas para poder tomar acción inmediata.</td> <td>5</td> </tr> <tr> <td>9</td> <td>US21</td> <td>Comparar el Estado entre Plantas</td> <td>Como usuario, quiero comparar el estado ambiental entre diferentes plantas para tomar decisiones informadas sobre su cuidado.</td> <td>5</td> </tr> <tr> <td>10</td> <td>EP03</td> <td>Diagnóstico y Prevención de Problemas</td> <td>Como usuario, quiero que el sistema diagnostique problemas tempranos en las plantas y sugiera acciones preventivas para mantener su salud.</td> <td>8</td> </tr> <tr> <td>11</td> <td>US05</td> <td>Escaneo de Hojas</td> <td>Como usuario, quiero escanear las hojas de las plantas para identificar daños o plagas y recibir recomendaciones para su tratamiento.</td> <td>8</td> </tr> <tr> <td>12</td> <td>US11</td> <td>Sugerencias ante Problemas Comunes</td> <td>Como usuario, quiero recibir sugerencias sobre cómo tratar problemas comunes como plagas o enfermedades en las plantas.</td> <td>5</td> </tr> <tr> <td>13</td> <td>US06</td> <td>Historial de Salud de Planta</td> <td>Como usuario, quiero tener un historial de salud para cada planta, con información sobre su evolución, tratamientos y problemas previos.</td> <td>5</td> </tr> <tr> <td>14</td> <td>US24</td> <td>Progreso con Fotos</td> <td>Como usuario, quiero seguir el progreso de mis plantas mediante fotos para ver su evolución a lo largo del tiempo.</td> <td>5</td> </tr> <tr> <td>15</td> <td>EP04</td> <td>Guías y Recomendaciones de Cuidado</td> <td>Como usuario, quiero acceder a contenido educativo sobre el cuidado de las plantas, adaptado a cada especie, para mejorar su bienestar.</td> <td>8</td> </tr> <tr> <td>16</td> <td>US07</td> <td>Recomendaciones Personalizadas</td> <td>Como usuario, quiero recibir recomendaciones personalizadas de cuidado para cada planta según sus necesidades específicas.</td> <td>5</td> </tr> <tr> <td>17</td> <td>US08</td> <td>Biblioteca de Guías</td> <td>Como usuario, quiero una biblioteca con guías categorizadas sobre cuidado de plantas, para acceder fácilmente a la información que necesito.</td> <td>3</td> </tr> <tr> <td>18</td> <td>US12</td> <td>Videos Educativos</td> <td>Como usuario, quiero ver videos educativos sobre jardinería y cuidado de plantas para mejorar mis habilidades.</td> <td>3</td> </tr> <tr> <td>19</td> <td>US13</td> <td>Guardar Plantas Favoritas</td> <td>Como usuario, quiero guardar mis plantas favoritas en una lista para poder acceder a ellas fácilmente cuando las necesite.</td> <td>2</td> </tr> <tr> <td>20</td> <td>US14</td> <td>Buscar por Tipos de Planta</td> <td>Como usuario, quiero buscar plantas por tipos para encontrar fácilmente las que mejor se adapten a mi espacio o necesidades.</td> <td>3</td> </tr> <tr> <td>21</td> <td>US28</td> <td>Compatibilidad de Plantas</td> <td>Como usuario, quiero recibir recomendaciones de plantas compatibles para poder crear un entorno armonioso.</td> <td>5</td> </tr> <tr> <td>22</td> <td>US30</td> <td>Sugerencias de Nuevas Plantas</td> <td>Como usuario, quiero que el sistema me sugiera nuevas plantas basadas en mis preferencias y el historial de plantas que he registrado.</td> <td>5</td> </tr> <tr> <td>23</td> <td>EP05</td> <td>Recordatorios y Notificaciones</td> <td>Como usuario, quiero recibir recordatorios y notificaciones para cuidar mis plantas de acuerdo a sus necesidades.</td> <td>8</td> </tr> <tr> <td>24</td> <td>US09</td> <td>Recordatorios de Riego</td> <td>Como usuario, quiero recibir recordatorios automáticos de riego para asegurarme de que mis plantas siempre reciban la cantidad de agua adecuada.</td> <td>3</td> </tr> <tr> <td>25</td> <td>US10</td> <td>Notificaciones de Fertilización</td> <td>Como usuario, quiero recibir alertas cuando sea el momento adecuado para fertilizar mis plantas.</td> <td>3</td> </tr> <tr> <td>26</td> <td>US26</td> <td>Recordatorio de Poda</td> <td>Como usuario, quiero recibir recordatorios para realizar tareas de poda a tiempo y mantener mis plantas saludables.</td> <td>3</td> </tr> </table>
+# Product Backlog
 
----
+| #Orden | User Story ID | Título                                | Descripción                                                                                                                                                      | Story Points |
+|--------|----------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| 1      | EP01           | Registro y Configuración de Plantas   | Como usuario, quiero un sistema que registre y configure las plantas iniciales para comenzar a gestionar su cuidado y estado.                                  | 8             |
+| 2      | US01           | Registro de Planta                    | Como usuario, quiero poder registrar nuevas plantas en el sistema para realizar un seguimiento adecuado de su cuidado.                                         | 5             |
+| 3      | US23           | Reconocimiento Automático de Planta  | Como usuario, quiero que el sistema identifique automáticamente las plantas mediante fotos para agilizar su registro y seguimiento.                           | 13            |
+| 4      | US02           | Edición de Datos de Planta            | Como usuario, quiero editar los datos de las plantas registradas para mantener la información actualizada.                                                     | 3             |
+| 5      | US25           | Añadir Comentarios por Planta         | Como usuario, quiero agregar comentarios y notas personales en cada planta para hacer un seguimiento detallado de su cuidado.                                 | 2             |
+| 6      | EP02           | Monitoreo de Condiciones Ambientales  | Como usuario, quiero monitorear las condiciones ambientales (humedad, luz, temperatura) de las plantas para asegurarme de que se encuentren en condiciones óptimas. | 8         |
+| 7      | US03           | Integración de Sensor de Humedad      | Como usuario, quiero conectar sensores para medir la humedad de las plantas y recibir alertas si se desvían de los valores recomendados.                      | 8             |
+| 8      | US04           | Alertas por Condiciones Críticas      | Como usuario, quiero recibir alertas cuando las condiciones ambientales sean críticas para poder tomar acción inmediata.                                       | 5             |
+| 9      | US21           | Comparar el Estado entre Plantas      | Como usuario, quiero comparar el estado ambiental entre diferentes plantas para tomar decisiones informadas sobre su cuidado.                                 | 5             |
+| 10     | EP03           | Diagnóstico y Prevención de Problemas | Como usuario, quiero que el sistema diagnostique problemas tempranos en las plantas y sugiera acciones preventivas para mantener su salud.                     | 8             |
+| 11     | US05           | Escaneo de Hojas                      | Como usuario, quiero escanear las hojas de las plantas para identificar daños o plagas y recibir recomendaciones para su tratamiento.                         | 8             |
+| 12     | US11           | Sugerencias ante Problemas Comunes    | Como usuario, quiero recibir sugerencias sobre cómo tratar problemas comunes como plagas o enfermedades en las plantas.                                       | 5             |
+| 13     | US06           | Historial de Salud de Planta          | Como usuario, quiero tener un historial de salud para cada planta, con información sobre su evolución, tratamientos y problemas previos.                      | 5             |
+| 14     | US24           | Progreso con Fotos                    | Como usuario, quiero seguir el progreso de mis plantas mediante fotos para ver su evolución a lo largo del tiempo.                                             | 5             |
+| 15     | EP04           | Guías y Recomendaciones de Cuidado    | Como usuario, quiero acceder a contenido educativo sobre el cuidado de las plantas, adaptado a cada especie, para mejorar su bienestar.                       | 8             |
+| 16     | US07           | Recomendaciones Personalizadas        | Como usuario, quiero recibir recomendaciones personalizadas de cuidado para cada planta según sus necesidades específicas.                                    | 5             |
+| 17     | US31           | Desarrollo de Landing Page            | Como visitante o potencial usuario, quiero ver una landing page atractiva y funcional del sistema para conocer sus beneficios y registrarme fácilmente.       | 5             |
+| 18     | US08           | Biblioteca de Guías                   | Como usuario, quiero una biblioteca con guías categorizadas sobre cuidado de plantas, para acceder fácilmente a la información que necesito.                  | 3             |
+| 19     | US12           | Videos Educativos                     | Como usuario, quiero ver videos educativos sobre jardinería y cuidado de plantas para mejorar mis habilidades.                                                 | 3             |
+| 20     | US13           | Guardar Plantas Favoritas             | Como usuario, quiero guardar mis plantas favoritas en una lista para poder acceder a ellas fácilmente cuando las necesite.                                    | 2             |
+| 21     | US14           | Buscar por Tipos de Planta            | Como usuario, quiero buscar plantas por tipos para encontrar fácilmente las que mejor se adapten a mi espacio o necesidades.                                  | 3             |
+| 22     | US28           | Compatibilidad de Plantas             | Como usuario, quiero recibir recomendaciones de plantas compatibles para poder crear un entorno armonioso.                                                    | 5             |
+| 23     | US30           | Sugerencias de Nuevas Plantas         | Como usuario, quiero que el sistema me sugiera nuevas plantas basadas en mis preferencias y el historial de plantas que he registrado.                        | 5             |
+| 24     | EP05           | Recordatorios y Notificaciones        | Como usuario, quiero recibir recordatorios y notificaciones para cuidar mis plantas de acuerdo a sus necesidades.                                              | 8             |
+| 25     | US09           | Recordatorios de Riego                | Como usuario, quiero recibir recordatorios automáticos de riego para asegurarme de que mis plantas siempre reciban la cantidad de agua adecuada.             | 3             |
+| 26     | US10           | Notificaciones de Fertilización       | Como usuario, quiero recibir alertas cuando sea el momento adecuado para fertilizar mis plantas.                                                              | 3             |
+| 27     | US26           | Recordatorio de Poda                  | Como usuario, quiero recibir recordatorios para realizar tareas de poda a tiempo y mantener mis plantas saludables.                                           | 3             |
+
 
 <br>
 <div id='4.'><h1><b>4. Capítulo IV: Solution Software Design</b></h1>
@@ -1287,7 +1316,7 @@ Sprint #1
 | EP04          | T8                  | Guías y Recomendaciones de Cuidado  | Como usuario, quiero acceder a contenido educativo sobre el cuidado de las plantas, adaptado a cada especie, para mejorar su bienestar.        | 8              | Andrea, Franky           | Terminado  |
 | US13          | T9                  | Guardar Plantas Favoritas            | Como usuario, quiero guardar mis plantas favoritas en una lista para poder acceder a ellas fácilmente cuando las necesite.                     | 2              | Luis                    | Terminado  |
 | US09          | T10                 | Recordatorios de Riego               | Como usuario, quiero recibir recordatorios automáticos de riego para asegurarme de que mis plantas siempre reciban la cantidad de agua adecuada.| 3              | Franky, Luis             | Terminado  |
-
+| US31          | T11                 | Desarrollo de Landing Page           | Como visitante o potencial usuario, quiero ver una landing page atractiva y funcional del sistema para conocer sus beneficios y registrarme fácilmente. | 5         | Franky                  | Terminado  |
 
 <div id='6.2.1.4.'><h4><b>6.2.1.4. Development Evidence for Sprint Review</b></h4>
 En esta parte, se muestran los commits efectuados en el repositorio de GitHub correspondientes a la landing page y la aplicación móvil. Estos registros evidencian el avance y las mejoras incorporadas a lo largo del sprint, ofreciendo una visión clara del trabajo realizado y las aportaciones del equipo de desarrollo.
@@ -1398,6 +1427,145 @@ Para este proyecto, se utilizo Netlify para subir el proyecto, donde fue necesar
 ![](assets/te1.jpg)
 
 ![](assets/te2.jpg)
+
+<div id='6.2.1.'><h3><b>6.2.2. Sprint 2</b></h3>
+
+<div id='6.2.1.1.'><h4><b>6.2.2.1. Sprint Planning 2</b></h4>
+
+Este Sprint Planning corresponde al Sprint #2 del proyecto, donde se definen los objetivos, participantes y metas a alcanzar durante el ciclo de trabajo. Se detallan los aprendizajes del Sprint anterior y se establecen las funcionalidades prioritarias que el equipo desarrollará, con el fin de seguir avanzando en la construcción del sistema de monitoreo y cuidado de plantas.
+
+| Elemento                           | Detalle                                                                                                                                                     |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 2                                                                                                                                                    |
+| **Date**                          | 17 de junio de 2025                                                                                                                                         |
+| **Time**                          | 23:00 horas (GMT-5)                                                                                                                                         |
+| **Location**                      | Modalidad remota                                                                                                                                            |
+| **Prepared By**                   | LlantaTech                                                                                                                                                  |
+| **Attendees (to planning meeting)** | Todos los miembros de LlantaTech                                                                                                                             |
+| **Sprint 0 Review Summary**       | Se definieron los lineamientos iniciales del proyecto, así como el Product Backlog general y la arquitectura base del sistema. Se instalaron las herramientas necesarias para el desarrollo colaborativo y la gestión de versiones. |
+| **Sprint 1 Retrospective Summary**| Durante el Sprint 1 se lograron completar exitosamente tareas clave para el registro y seguimiento de plantas. El equipo tuvo buena colaboración, aunque se identificó la necesidad de mejorar la estimación de tiempos. Se propuso reforzar la comunicación diaria para asegurar sincronización entre los desarrolladores. |
+| **Sprint Goal 2**                 | Implementar funcionalidades esenciales de monitoreo ambiental y contenido educativo adicional, que ayuden a los usuarios a tomar decisiones informadas para el cuidado de sus plantas. |
+| **Sprint Velocity 2**             | 13                                                                                                                                                          |
+| **Sum of Story Points**           | 24                                                                                                                                                          |
+
+
+<div id='6.2.1.2.'><h4><b>6.2.1.2. Aspect Leaders and Collaborators</b></h4>
+
+La colaboración del equipo en este sprint se estructuró de la siguiente manera:
+
+| Aspecto                   | Líder del Aspecto | Colaboradores                |
+|---------------------------|-------------------|------------------------------|
+| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea  |
+| Desarrollo del Backend    | Erick             | Andrea, Franky               |
+| Desarrollo del Frontend   | Luis              | Astrid, Erick                |
+| Desarrollo de App         | Astrid            | Luis, Erick                  |
+| Documentación             | Andrea            | Franky, Erick, Luis, Astrid  |
+
+<div id='6.2.1.3.'><h4><b>6.2.2.3. Sprint Backlog 2</b></h4>
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+Link del Trello: https://trello.com/b/EI5qcpdU  
+Vista del Sprint Backlog en Trello:
+
+![](assets/trellotb2.png)
+
+Sprint #2
+
+| User Story ID | Work-item / Task ID | Título                              | Descripción                                                                                                                                  | Estimado horas | Asignado a             | Estado     |
+|---------------|---------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------------|------------|
+| US03          | T12                 | Integración de Sensor de Humedad    | Como usuario, quiero conectar sensores para medir la humedad de las plantas y recibir alertas si se desvían de los valores recomendados.   | 8              | Andrea, Erick           | Terminado  |
+| US04          | T13                 | Alertas por Condiciones Críticas    | Como usuario, quiero recibir alertas cuando las condiciones ambientales sean críticas para poder tomar acción inmediata.                    | 5              | Franky                  | Terminado  |
+| US21          | T14                 | Comparar el Estado entre Plantas    | Como usuario, quiero comparar el estado ambiental entre diferentes plantas para tomar decisiones informadas sobre su cuidado.              | 5              | Astrid, Luis            | Terminado  |
+| US08          | T15                 | Biblioteca de Guías                 | Como usuario, quiero una biblioteca con guías categorizadas sobre cuidado de plantas.                                                       | 3              | Erick                   | Terminado  |
+| US14          | T16                 | Buscar por Tipos de Planta          | Como usuario, quiero buscar plantas por tipos para encontrar fácilmente las que mejor se adapten a mi espacio o necesidades.               | 3              | Andrea                  | Terminado  |
+
+
+
+<div id='6.2.2.4.'><h4><b>6.2.2.4. Development Evidence for Sprint Review</b></h4>
+
+Nuestro repositorio:
+-https://github.com/LlanterosTech/Frontend
+-https://github.com/LlanterosTech/BackendC-
+-https://github.com/LlanterosTech/Landing-Page
+-https://github.com/LlanterosTech/Fronted-MobileApp
+
+
+
+<div id='6.2.2.5.'><h4><b>6.2.2.5. Testing Suite Evidence for Sprint Review</b></h4>
+
+![](assets/tb2test.png)
+
+![](assets/tb2test2.png)
+<div id='6.2.2.6.'><h4><b>6.2.2.6. Execution Evidence for Sprint Review</b></h4>
+
+
+<div id='6.2.1.7.'><h4><b>6.2.2.7. Services Documentation Evidence for Sprint Review</b></h4>
+
+![](assets/des1.jpg)
+
+![](assets/des2.jpg)
+
+![](assets/des3.jpg)
+
+<div id='6.2.1.8.'><h4><b>6.2.2.8. Software Deployment Evidence for Sprint</b></h4>
+
+En este proyecto se utilizó Netlify como plataforma de despliegue. Para ello, fue necesario iniciar sesión con una cuenta de GitHub que tuviera acceso al repositorio del proyecto. Tras seleccionar el repositorio, se completaron las configuraciones requeridas, como la ruta del archivo principal, las dependencias necesarias y el nombre de la aplicación. Una vez realizado esto, se esperó a que todos los archivos se cargaran correctamente. Finalmente, Netlify generó la URL pública de la aplicación.
+![](assets/Deploy1.png)
+
+![](assets/Deploy2.png)
+
+![](assets/Deploy3.png)
+
+![](assets/Deploy4.png)
+
+![](assets/Deploy5.png)
+
+**Enlace del Deploy:** [ https://plantita-web.netlify.app](https://app.netlify.com/projects/plantita-web/configuration/general)
+
+<div id='6.2.1.9.'><h4><b>6.2.2.9. Team Collaboration Insights during Sprint</b></h4>
+
+![](assets/teamcolab.png)
+
+![](assets/teamcol2.png)
+
+
+<div id='6.3'><h4><b>6.3 Validation Interviews</b></h4>
+
+<div id='6.3.1'><h4><b>6.3.1 Diseño de Entrevistas</b></h4>
+
+1.¿Qué fue lo primero que pensaste al ver la app?
+
+2.¿Qué parte te pareció más útil o interesante? ¿Por qué?
+
+3.¿Qué parte te pareció confusa o poco útil?
+
+4.¿Crees que esta app te ayudaría a cuidar mejor tus plantas? ¿En qué sentido?
+
+5.¿Hay alguna funcionalidad que crees que falta o mejorarías?
+
+6.¿Qué fue lo primero que pensaste al ver la app?
+
+7.¿Qué parte te pareció más útil o interesante? ¿Por qué?
+
+8.¿Qué parte te pareció confusa o poco útil?
+
+9.¿Crees que esta app te ayudaría a cuidar mejor tus plantas? ¿En qué sentido?
+
+10.¿Hay alguna funcionalidad que crees que falta o mejorarías?
+
+11.¿Usarías esta app con frecuencia? ¿En qué momentos del día o de la semana?
+
+12.¿Te resultaría útil recibir notificaciones o recordatorios de riego, fertilización, etc.?
+
+
+<div id='6.3.2'><h4><b>6.3.2 Registro de Entrevistas</b></h4> 
+
+
+<div id='6.3.3'><h4><b>6.3.3 Evaluaciones según heurísticas</b></h4>
+
+
+<div id='6.4'><h4><b>6.4 Video About-the-Product</b></h4>
+
 
 **Conclusiones**
 
