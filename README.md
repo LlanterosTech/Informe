@@ -1521,6 +1521,13 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EZK2D8-p
 
 Entrevista 3:
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EZK2D8-pO_NElKor1AWsstEBxWTMXv9_cn2fQ8J4L42WyQ?e=1hUxia&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OC44OX19
+
+Resumen general:
+
+Los entrevistados expresaron una opinión muy positiva sobre la app. Destacaron que es intuitiva, fácil de usar y que los colores y la interfaz están bien diseñados. Consideran que la aplicación cumple efectivamente con su propósito de monitorear y dar seguimiento al cuidado de las plantas, y valoran funciones como las notificaciones sobre riego u olvidos.
+Además, señalaron que usarían la app regularmente para cuidar sus plantas. Como sugerencias de mejora, propusieron identificar el tipo de usuario adecuado para cada planta y agregar una función para ver el historial de crecimiento o evolución de cada planta.
+
 
 <div id='6.3.3'><h4><b>6.3.3 Evaluaciones según heurísticas</b></h4>
 
