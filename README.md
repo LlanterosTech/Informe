@@ -1353,6 +1353,8 @@ Durante este sprint, completamos la primera fase de nuestro producto final, desa
 
 ![](assets/despliegue.png)
 
+link deploy: https://plantita-landing.netlify.app/
+
 <div id='6.2.1.7.'><h4><b>6.2.1.7. Services Documentation Evidence for Sprint Review</b></h4>
 
 ![](assets/des1.jpg)
@@ -1455,6 +1457,37 @@ Nuestro repositorio:
 
 ![](assets/tb2test2.png)
 <div id='6.2.2.6.'><h4><b>6.2.2.6. Execution Evidence for Sprint Review</b></h4>
+
+Durante el sprint 2, empezamos con el avance y desarrollo de la aplicacion web y movil del proyecto, asimismo con una version previa de la capa edge a utilizar en la parte IoT y se realizó el despliegue correspondiente en Netlify.
+
+Aplicacion web: (link deploy)
+
+![](assets/login.jpg)
+
+![](assets/home.jpg)
+
+![](assets/home2.jpg)
+
+![](assets/home3.jpg)
+
+![](assets/home5.jpg)
+
+Aplicacion movil: (link repo)
+
+![](assets/mob1.jpg)
+
+![](assets/mob2.jpg)
+
+![](assets/mob3.jpg)
+
+![](assets/mob4.jpg)
+
+![](assets/mob5.jpg)
+
+Capa Edge: (link repo)
+
+
+
 
 
 <div id='6.2.1.7.'><h4><b>6.2.2.7. Services Documentation Evidence for Sprint Review</b></h4>
