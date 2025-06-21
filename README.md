@@ -1514,6 +1514,7 @@ En este proyecto se utilizó Netlify como plataforma de despliegue. Para ello, f
 
 <div id='6.3.2'><h4><b>6.3.2 Registro de Entrevistas</b></h4> 
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EdCwFJyhcutGoUnepkaMRREB9RvKKsxDJinFbtzFIYXPqg?e=sAWhgo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTEuNDN9fQ%3D%3D
 
 <div id='6.3.3'><h4><b>6.3.3 Evaluaciones según heurísticas</b></h4>
 
