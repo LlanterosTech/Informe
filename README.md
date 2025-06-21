@@ -1501,15 +1501,11 @@ En este proyecto se utilizó Netlify como plataforma de despliegue. Para ello, f
 
 5.¿Hay alguna funcionalidad que crees que falta o mejorarías?
 
-6.¿Qué fue lo primero que pensaste al ver la app?
+6.¿Crees que esta app te ayudaría a cuidar mejor tus plantas? ¿En qué sentido?
 
-7.¿Crees que esta app te ayudaría a cuidar mejor tus plantas? ¿En qué sentido?
+7.¿Usarías esta app con frecuencia? ¿En qué momentos del día o de la semana?
 
-8.¿Hay alguna funcionalidad que crees que falta o mejorarías?
-
-9.¿Usarías esta app con frecuencia? ¿En qué momentos del día o de la semana?
-
-10.¿Te resultaría útil recibir notificaciones o recordatorios de riego, fertilización, etc.?
+8.¿Te resultaría útil recibir notificaciones o recordatorios de riego, fertilización, etc.?
 
 
 <div id='6.3.2'><h4><b>6.3.2 Registro de Entrevistas</b></h4> 
