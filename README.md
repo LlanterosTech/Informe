@@ -1581,7 +1581,6 @@ Además, señalaron que usarían la app regularmente para cuidar sus plantas. Co
 
 <div id='6.3.3'><h4><b>6.3.3 Evaluaciones según heurísticas</b></h4>
 
- 6.3.3 Evaluaciones según heurística
 
 A continuación, se presenta una evaluación heurística de la app , basada en los **10 principios de usabilidad de Jakob Nielsen**. 
 
@@ -1600,9 +1599,6 @@ A continuación, se presenta una evaluación heurística de la app , basada en l
 
 ---
 
-**Resumen de la evaluación:**
-- Las principales debilidades están relacionadas con la prevención de errores, recuperación ante fallos y soporte para el usuario.
-- Se recomienda implementar confirmaciones para acciones destructivas, mensajes de error más informativos y una sección de ayuda interactiva.
 
 
 
