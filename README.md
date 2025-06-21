@@ -1471,6 +1471,12 @@ Nuestro repositorio:
 
 Durante el sprint 2, empezamos con el avance y desarrollo de la aplicacion web y movil del proyecto, asimismo con una version previa de la capa edge a utilizar en la parte IoT y se realizó el despliegue correspondiente en Netlify.
 
+Landing page: 
+
+![](assets/despliegue.png)
+
+link deploy: https://plantita-landing.netlify.app/
+
 Aplicacion web: (link deploy)
 
 ![](assets/login.jpg)
