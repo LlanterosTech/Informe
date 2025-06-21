@@ -1449,6 +1449,17 @@ Nuestro repositorio:
 -https://github.com/LlanterosTech/Landing-Page
 -https://github.com/LlanterosTech/Fronted-MobileApp
 
+| Repository | Branch | Commit ID                                | Commit Message                                                                 | Commit Message Body | Committed on    |
+|------------|--------|-------------------------------------------|--------------------------------------------------------------------------------|----------------------|------------------|
+| Frontend   | main   | a834f46464b95c1853e4cf67bc3bf6e4778a5246  | Edit plants                                                                    | -                    | 19 jun, 2025     |
+|            | main   | fb09df5c0bb3a177379a6e446bc022f416308dc7  | Edits library                                                                  | -                    | 20 jun, 2025     |
+|            | main   | 4d9f6f00e4aec22700ee3f9c2f1c2418a5ebf6d4  | feat: add backend link                                                         | -                    | 20 jun, 2025     |
+| Backend    | main   | 3c0e8674f5e6b648de8507761048269ffc13c623  | Update docker                                                                  | -                    | 20 jun, 2025     |
+|            | main   | d93fdf9aa61d3442ca4a2ed0897790ecfecf70e6  | add comment in program cs                                                      | -                    | 20 jun, 2025     |
+|            | main   | 314b28a0eda37909611636ca3b59ff5815e1c290  | add frontend link                                                              | -                    | 20 jun, 2025     |
+| Mobile     | main   | 462cb88809fa4e65ff84bec6a606d4bbc76be241  | fix: Fixing login and registration by accessing the backend                    | -                    | 20 jun, 2025     |
+|            | main   | 2668371c4d599ec20c31451401ad4fdafe61805e  | feat: Implemented app login and registration access correctly with token       | -                    | 20 jun, 2025     |
+|            | main   | a81c150e8d1e12b64b8a1957e513b846b52ab461  | feat: add plant record                                                         | -                    | 20 jun, 2025     |
 
 
 <div id='6.2.2.5.'><h4><b>6.2.2.5. Testing Suite Evidence for Sprint Review</b></h4>
