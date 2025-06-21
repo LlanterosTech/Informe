@@ -1581,6 +1581,30 @@ Además, señalaron que usarían la app regularmente para cuidar sus plantas. Co
 
 <div id='6.3.3'><h4><b>6.3.3 Evaluaciones según heurísticas</b></h4>
 
+ 6.3.3 Evaluaciones según heurística
+
+A continuación, se presenta una evaluación heurística de la app , basada en los **10 principios de usabilidad de Jakob Nielsen**. 
+
+| #  | Heurística                                           | Observación                                                                 | Cumple     | Problema detectado                                             | Severidad |
+|----|------------------------------------------------------|------------------------------------------------------------------------------|------------|----------------------------------------------------------------|-----------|
+| 1  | Visibilidad del estado del sistema                  | La app muestra indicadores de carga y mensajes de confirmación.             | Sí         | Ninguno                                                        | -         |
+| 2  | Coincidencia entre el sistema y el mundo real       | Se usan iconos comunes (lupa, casa) y lenguaje sencillo.                    | Sí         | Ninguno                                                        | -         |
+| 3  | Control y libertad del usuario                      | No hay botón para deshacer ciertas acciones (ej. eliminación accidental).   | si         | niguno                                                        |           |
+| 4  | Consistencia y estándares                           | Se usa el mismo estilo de botones y colores en toda la app.                | Sí         | Ninguno                                                        | -         |
+| 5  | Prevención de errores                               | Falta confirmación antes de eliminar una planta.                           | No         | El usuario podría borrar información por error.                | Alta      |
+| 6  | Reconocimiento antes que recuerdo                   | Menús con íconos y etiquetas claras; algunos submenús no son intuitivos.   | si    | niguno                                                               |          |
+| 7  | Flexibilidad y eficiencia de uso                    | No existen atajos para usuarios expertos.                                   | No         | Podría ser más eficiente para usuarios frecuentes.             | Media     |
+| 8  | Diseño estético y minimalista                       | El diseño es limpio, con buen uso del espacio y colores suaves.            | Sí         | Ninguno                                                        | -         |
+| 9  | Ayuda para reconocer, diagnosticar y corregir errores | Mensajes de error no explican cómo solucionarlos.                          | No         | Puede frustrar a usuarios sin conocimientos técnicos.          | Alta      |
+| 10 | Ayuda y documentación                               | No hay sección de ayuda ni tutorial de inicio.                             | No         | Usuarios nuevos pueden sentirse perdidos al empezar.           | Alta      |
+
+---
+
+**Resumen de la evaluación:**
+- Las principales debilidades están relacionadas con la prevención de errores, recuperación ante fallos y soporte para el usuario.
+- Se recomienda implementar confirmaciones para acciones destructivas, mensajes de error más informativos y una sección de ayuda interactiva.
+
+
 
 <div id='6.4'><h4><b>6.4 Video About-the-Product</b></h4>
 
