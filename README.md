@@ -1511,6 +1511,8 @@ Capa Edge:
 
 <div id='6.2.1.7.'><h4><b>6.2.2.7. Services Documentation Evidence for Sprint Review</b></h4>
 
+Link deploy: https://plantita-backend.onrender.com/swagger/index.html
+
 ![](assets/des1.jpg)
 
 ![](assets/des2.jpg)
