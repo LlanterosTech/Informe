@@ -195,10 +195,10 @@
 
 ## Student Outcome
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|:--:|:--|:--:|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | <p><strong>Astrid Boronda:</strong></p><p><strong>TB1</strong><br>En el TB1, participé activamente en el análisis profundo de la problemática central del proyecto. Esto implicó, en colaboración con el equipo, la definición clara y concisa del problema principal, la identificación exhaustiva de los diversos segmentos de clientes a los que se dirige la solución, y la formulación de hipótesis y estrategias iniciales para abordar la problemática. Como resultado de este proceso, contribuí a la definición precisa de los segmentos objetivo específicos del proyecto, asegurando que el desarrollo se enfoque en las necesidades reales de los usuarios.</p><p><strong>Franky Mallma:</strong></p><p>Durante el TB1, participé activamente en la organización del equipo para la definición del proyecto 'Plantita'. Apoyé en la estructuración de las tareas técnicas necesarias para el diseño del sistema basado en sensores IoT, asegurando que todos los integrantes comprendieran la importancia de los datos ambientales en nuestra solución.</p><p><strong>Juan Montes:</strong></p><p>Durante el TB1, participé activamente en la organización y análisis de las necesidades del segmento inicial para el proyecto. Colaboré en la definición de los pain points principales y en el planteamiento de las hipótesis de solución, asegurándome de integrar las ideas de todos los miembros para llegar a un enfoque sólido.</p><p><strong>Andrea Cabanillas:</strong></p><p><strong>TB1</strong><br>En el TB1 participé en el Strategic-Level Domain-Driven Design, lideré la identificación de flujos de mensajes de dominio, la definición de Bounded Contexts y la elaboración de Context Map, asegurando que cada modelo reflejara una visión, promoviendo la colaboración entre los miembros del equipo y lograran comprender cómo funciona cada diagrama.</p><p><strong>Erick Palomino:</strong></p><p>Durante el desarrollo del proyecto, lideré la estructuración del escenario futuro del usuario (To-Be Scenario Map), alineando funcionalidades con etapas clave del journey. Además, organicé y prioricé las épicas y user stories del backlog, vinculándolas con objetivos del negocio. También diseñé visualmente el customer journey estratégico, asegurando la trazabilidad entre entregables, impactos y funcionalidades. Estos aportes facilitaron el entendimiento compartido del producto dentro del equipo, promoviendo la colaboración y visión sistémica del proyecto.</p> | **TB1:** Fue fundamental la capacidad del equipo para colaborar de forma eficaz para ejercer un liderazgo compartido. Cada miembro, al aportar sus habilidades y conocimientos únicos, contribuye al avance del proyecto. La toma de decisiones conjuntas, la comunicación abierta y el apoyo mutuo son esenciales para superar los desafíos y alcanzar los objetivos establecidos. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <p><strong>Astrid Boronda:</strong></p><p><strong>TB1</strong><br>Para el TB1 de este proyecto, me propuse comprender en profundidad la problemática central del cuidado de plantas y los diferentes segmentos de usuarios a los que nos dirigimos. Realicé una investigación exhaustiva para identificar las necesidades y desafíos de los aficionados a la jardinería. Como resultado de este proceso, pude conocer mejor al segmento objetivo y sus necesidades, lo que me permitió colaborar en la definición inicial de la aplicación 'Plantita' y sus funcionalidades, tales como el monitoreo de condiciones ambientales y la identificación de problemas en las plantas.</p><p><strong>Franky Mallma:</strong></p><p>Trabajé en promover un entorno de respeto y escucha activa en las reuniones de equipo. Propuse y ayudé a construir el capítulo 4 utilizando el contenido de capítulos anteriores definidos. Coordiné la planificación de pequeñas entregas semanales para alcanzar las metas establecidas, revisando los avances y adaptando las tareas cuando fue necesario.</p><p><strong>Juan Montes:</strong></p><p>Promoví la participación activa de todos los integrantes en las reuniones de trabajo, fomentando un ambiente de respeto y apertura para compartir ideas. Propuse un esquema de tareas semanales para asegurar el avance del proyecto, y ayudé a establecer las metas para la definición de las funcionalidades prioritarias de la aplicación.</p><p><strong>Andrea Cabanillas:</strong></p><p>Trabajé en la identificación de los Domain Message Flows y la elaboración de los Bounded Context Canvases, estableciendo metas claras para cada etapa del modelado. Además, organicé la planificación de tareas para construir los Context Maps y asegurar que se cumpliera con los objetivos de diseñar una arquitectura de software coherente y alineada al proyecto 'Plantita'.</p><p><strong>Erick Palomino:</strong></p><p>Contribuí activamente a la planificación estratégica del proyecto 'Plantita' mediante la organización del backlog priorizado y la definición visual de funcionalidades clave. Propuse un enfoque centrado en el valor para el usuario, estructurando los entregables en función de los objetivos del negocio. Además, presenté los mapas y artefactos de forma clara para facilitar la comprensión y toma de decisiones en equipo, promoviendo la integración entre diseño, desarrollo y objetivos de producto.</p> | Se demostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, tal como se evidencia en la organización de sus roles, la definición de objetivos claros y la planificación detallada de tareas. Esta estructura ha permitido cumplir con los objetivos propuestos en el desarrollo del proyecto. La colaboración, el respeto a las ideas de cada miembro y la eficiencia en la ejecución de tareas han sido pilares fundamentales para alcanzar el éxito. Este enfoque de trabajo en equipo no solo ha facilitado el desarrollo técnico del proyecto, sino que también ha fomentado un ambiente positivo y productivo, esencial para la innovación y la resolución de problemas.|
+| Criterio específico                                          | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Astrid Boronda**:  <br>**TB1**: Participé activamente en el análisis profundo de la problemática central del proyecto. Esto implicó, en colaboración con el equipo, la definición clara del problema principal, la identificación de los segmentos de clientes y la formulación de hipótesis y estrategias para abordarlo. Contribuí a definir los segmentos objetivo específicos del proyecto. <br>**TB2**: Participé en el desarrollo de funcionalidades como el historial de salud y progreso con fotos. También apoyé en la integración del código y revisión de avances técnicos, coordinando validaciones cruzadas de entregables.  <br><br> **Franky Mallma**: <br>**TB1**: Participé activamente en la organización del equipo para la definición del proyecto 'Plantita'. Ayudé en la estructuración de tareas técnicas del sistema IoT. <br>**TB2**: Lideré la implementación de la landing page y la integración de funcionalidades del frontend. Documenté commits y coordiné validaciones con pruebas en Gherkin. <br><br>**Juan Montes**: <br>**TB1**: Colaboré en el análisis de necesidades del segmento inicial y definición de pain points. Aporté a la integración de ideas para un enfoque sólido. <br>**TB2**: Apoyé en el testing de funcionalidades como el comparador de plantas y biblioteca de guías. Coordiné flujos entre backend y frontend para asegurar integración de datos. <br><br>**Andrea Cabanillas**: <br>**TB1**: Lideré la identificación de Domain Message Flows, Bounded Contexts y elaboración de Context Map. Promoví colaboración para entender los modelos. <br>**TB2**: Validé los módulos de búsqueda por tipo de planta y biblioteca de guías. También participé en la integración del sensor de humedad. <br><br>**Erick Palomino**: <br>**TB1**: Lideré la estructuración del To-Be Scenario Map, organización de épicas y backlog, y el diseño del customer journey estratégico. <br>**TB2**: Coordiné la asignación de tareas del Sprint 2 y lideré la validación de sensores y alertas críticas. Supervisé calidad y trazabilidad de entregables. | **TB1**: Fue fundamental la capacidad del equipo para colaborar de forma eficaz para ejercer un liderazgo compartido. La toma de decisiones conjuntas, comunicación abierta y apoyo mutuo fueron claves para superar desafíos. <br><br> **TB2**: Se fortaleció el liderazgo colaborativo mediante la distribución de funcionalidades clave. Cada integrante lideró aspectos técnicos relevantes, asegurando la calidad del Sprint. Se demostró una ejecución efectiva, alineada a objetivos técnicos y funcionales. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Astrid Boronda**: <br>**TB1**: Me enfoqué en comprender la problemática del cuidado de plantas y los segmentos de usuarios. Realicé investigación sobre sus necesidades y colaboré en la definición de funcionalidades clave. <br>**TB2**: Coordiné pruebas de funcionalidades entregadas, aseguré el cumplimiento de metas semanales y fomenté un ambiente inclusivo en las reuniones técnicas. <br><br>**Franky Mallma**: <br>**TB1**: Fomenté un entorno de respeto y escucha activa. Ayudé a construir el capítulo 4 y planifiqué entregas semanales revisando y adaptando tareas. <br>**TB2**: Organicé tareas en GitHub, documenté el Sprint, coordiné entregas parciales y propuse mejoras continuas en base a avances y bloqueos. <br><br>**Juan Montes**: <br>**TB1**: Promoví la participación activa del equipo y propuse tareas semanales para garantizar avances. Ayudé a establecer metas funcionales. <br>**TB2**: Contribuí al cumplimiento de objetivos del Sprint y participé en testing colaborativo. Fomenté la inclusión en validaciones técnicas. <br><br>**Andrea Cabanillas**: <br>**TB1**: Identifiqué flujos y Bounded Contexts. Establecí metas claras y planifiqué tareas para construir Context Maps del sistema. <br>**TB2**: Organicé planificación de guías y sensores. Supervisé avance semanal y validé consistencia entre entregables. <br><br>**Erick Palomino**: <br>**TB1**: Organicé el backlog, definí funcionalidades clave y estructuré los entregables en base a objetivos del negocio. Promoví la integración entre diseño y desarrollo. <br>**TB2**: Lideré la planificación del Sprint 2, establecí prioridades técnicas y validé el cumplimiento de objetivos mediante reuniones técnicas y checklist interno. | Se demostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, con roles organizados, objetivos claros y planificación detallada. <br><br>En TB2, esta estructura se fortaleció mediante buena comunicación, integración técnica efectiva y cumplimiento puntual de entregables. Esto consolidó un ambiente positivo, enfocado en resultados y solución de problemas, esencial para el éxito del proyecto. |
 
 
 <div id='1.'><h1>1. Capítulo I: Introducción.</h1></div>
@@ -1489,7 +1489,7 @@ Aplicacion web: (link deploy)
 
 ![](assets/home5.jpg)
 
-Aplicacion movil: (link repo)
+Aplicacion movil: https://github.com/LlanterosTech/Fronted-MobileApp
 
 ![](assets/mob1.jpg)
 
@@ -1501,9 +1501,11 @@ Aplicacion movil: (link repo)
 
 ![](assets/mob5.jpg)
 
-Capa Edge: (link repo)
+Capa Edge: 
 
+![](assets/edge1.jpg)
 
+![](assets/edge2.jpg)
 
 
 
@@ -1560,20 +1562,95 @@ En este proyecto se utilizó Netlify como plataforma de despliegue. Para ello, f
 
 <div id='6.3.2'><h4><b>6.3.2 Registro de Entrevistas</b></h4> 
 
-Entrevista 1:
+### Entrevista 1:
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EdCwFJyhcutGoUnepkaMRREB9RvKKsxDJinFbtzFIYXPqg?e=sAWhgo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTEuNDN9fQ%3D%3D
+![](assets/entre1.png)
+
+**Entrevistador:** Andrea Canillas  
+**Datos del entrevistado:**
+- **Nombres:** Luis
+- **Apellidos:** Chinchihualpa
+- **Edad:** 23
+- **Distrito:** Surco
 
 
-Entrevista 2:
+**Duración:** Aproximadamente 6 minutos  
+**Inicio de la entrevista:** 00:06  
+**Link:** *https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EdCwFJyhcutGoUnepkaMRREB9RvKKsxDJinFbtzFIYXPqg?e=sAWhgo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTEuNDN9fQ%3D%3D*
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EZK2D8-pO_NElKor1AWsstEBxWTMXv9_cn2fQ8J4L42WyQ?e=G9vLcR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Ni4yNH19
+### Resumen de la entrevista:
 
-Entrevista 3:
+Durante la entrevista, se presentó una aplicación móvil orientada al cuidado de plantas que utiliza sensores y registro visual para ayudar a los usuarios en el seguimiento de la salud de sus plantas. El entrevistado valoró positivamente el diseño atractivo y amigable de la interfaz, resaltando que transmite tranquilidad y está bien enfocada hacia personas amantes de las plantas.
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EZK2D8-pO_NElKor1AWsstEBxWTMXv9_cn2fQ8J4L42WyQ?e=1hUxia&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OC44OX19
+Consideró especialmente útil la funcionalidad para registrar plantas y recibir recomendaciones personalizadas según la especie, así como el uso de sensores para alertar sobre riego, fertilización o necesidades específicas. Comentó que algunas descripciones dentro de la aplicación podrían ser más accesibles, sugiriendo el uso de lenguaje más simple o explicaciones visuales.
 
-Resumen general:
+Propuso como mejora la implementación de un diario visual donde se puedan registrar fotos del desarrollo de las plantas, a lo cual la entrevistadora respondió que ya se encuentra implementado, aunque aún no se mostró en la demostración. El entrevistado expresó interés en usar la aplicación varias veces por semana, especialmente por las noches y fines de semana, como parte de su rutina de cuidado personal y de plantas.
+
+Además, valoró como muy útil la opción de recibir notificaciones sobre tareas de cuidado y confirmó que recomendaría la aplicación a amigos, incluyendo tanto a principiantes como a personas más experimentadas en jardinería.
+
+
+
+
+### Entrevista 2:
+
+![](assets/entre2.png)
+
+**Entrevistador:** Andrea Cabanillas 
+**Datos del entrevistado:**
+- **Nombres:** Alberto
+- **Apellidos:** Quispe Rojas
+- **Edad:** 23 años
+- **Distrito:** San Juan de Lurigancho
+- **Profesión:** Estudiante universitario interesado en el cuidado de plantas
+
+**Duración:** Aproximadamente 10 minutos  
+**Inicio de la entrevista:** 00:00  
+**Link:** *https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EZK2D8-pO_NElKor1AWsstEBxWTMXv9_cn2fQ8J4L42WyQ?e=G9vLcR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Ni4yNH19*
+
+### Resumen de la entrevista:
+
+Durante la entrevista se presentó una aplicación enfocada en el monitoreo y cuidado de plantas usando sensores IoT. La app permite registrar plantas con datos como nombre, ubicación e imagen, asignar sensores a cada una y recibir alertas sobre el estado de salud, necesidades de riego o nutrientes.
+
+El entrevistado destacó como aspecto más útil la funcionalidad que permite conocer el estado de salud de las plantas, especialmente para personas que no tienen experiencia previa en jardinería. Considera valioso recibir alertas sobre cuándo regar y cómo cuidar adecuadamente sus plantas.
+
+Mencionó que la sección de sensores le resultó algo confusa inicialmente, aunque reconoció su utilidad para dar seguimiento al estado de las plantas. Sugirió como mejora incluir información sobre el tipo de suelo ideal para cada especie, lo cual sería un valor agregado para el usuario.
+
+También resaltó el diseño atractivo y la buena organización de la interfaz móvil, lo que le transmitió una sensación de orden y cuidado. Indicó que usaría la aplicación diariamente para realizar un seguimiento constante del cuidado de sus plantas, sobre todo por la gran variedad que posee.
+
+Finalmente, afirmó que le parecería muy útil recibir notificaciones o recordatorios, incluso si no está en casa, y estaría dispuesto a recomendar la app a sus amigos, especialmente aquellos interesados en el cuidado de plantas. La aplicación cumple con sus expectativas al proporcionar herramientas efectivas para el monitoreo y mantenimiento del bienestar vegetal.
+
+
+### Entrevista 3:
+
+![](assets/entre3.png)
+
+**Entrevistador:** Andrea Cabanillas  
+**Datos del entrevistado:**
+- **Nombres:** Diego
+- **Apellidos:** Ramírez Soto
+- **Edad:** 22 años
+- **Distrito:** Los Olivos
+- **Profesión:** Estudiante universitario con interés en jardinería
+
+**Duración:** Aproximadamente 10 minutos  
+**Inicio de la entrevista:** 00:00  
+**Link:** *https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EZK2D8-pO_NElKor1AWsstEBxWTMXv9_cn2fQ8J4L42WyQ?e=1hUxia&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OC44OX19*
+
+### Resumen de la entrevista:
+
+En esta entrevista se presentó una aplicación móvil desarrollada como parte de un proyecto de IoT, centrada en el registro y monitoreo del estado de plantas. La app permite subir imágenes, identificar especies, asignar sensores y recibir alertas sobre la salud de las plantas.
+
+El entrevistado destacó la utilidad de la sección que muestra el estado de salud de las plantas, indicando que es especialmente valioso para personas sin experiencia previa en jardinería. Considera que la aplicación ofrece una guía clara para saber cuándo regar o exponer al sol una planta, mejorando así sus cuidados.
+
+Señaló que la parte de los sensores puede resultar algo confusa al principio, aunque reconoció su importancia en el seguimiento. Como sugerencia de mejora, propuso incluir información sobre el tipo de suelo o abono adecuado para cada especie vegetal, lo que aportaría valor adicional.
+
+Valoró positivamente la estética de la interfaz, especialmente en la versión móvil, resaltando su organización, paleta de colores y facilidad de uso. Afirmó que usaría la aplicación todos los días para hacer seguimiento del estado de sus diversas plantas, ya que actualmente le cuesta mantener un control eficiente.
+
+También indicó que recibir notificaciones sobre el riego sería muy útil, incluso en caso de estar fuera de casa, ya que podría delegar la tarea a otra persona. Finalmente, aseguró que recomendaría la aplicación a sus amigos interesados en el cuidado de plantas por su practicidad y enfoque completo en la gestión vegetal.
+
+
+
+### Resumen general:
 
 Los entrevistados expresaron una opinión muy positiva sobre la app. Destacaron que es intuitiva, fácil de usar y que los colores y la interfaz están bien diseñados. Consideran que la aplicación cumple efectivamente con su propósito de monitorear y dar seguimiento al cuidado de las plantas, y valoran funciones como las notificaciones sobre riego u olvidos.
 Además, señalaron que usarían la app regularmente para cuidar sus plantas. Como sugerencias de mejora, propusieron identificar el tipo de usuario adecuado para cada planta y agregar una función para ver el historial de crecimiento o evolución de cada planta.
@@ -1603,6 +1680,23 @@ A continuación, se presenta una evaluación heurística de la app , basada en l
 
 
 <div id='6.4'><h4><b>6.4 Video About-the-Product</b></h4>
+
+![](assets/about.png)
+
+En esta sección, presentamos y describimos el contenido del video **About-the-Product**, el cual está dirigido a los visitantes de nuestra aplicación móvil *Plantita*, interesados en conocer más sobre su propósito, funcionamiento y beneficios.
+
+El video introduce tanto la interfaz de la **Landing Page** como las principales funcionalidades de la **versión móvil de Plantita**. Se muestra el proceso de registro de plantas mediante imágenes, la identificación automática de especies, y el uso de sensores conectados para monitorear la salud de cada planta. Todo esto se presenta con un tono amigable, cálido y accesible, en línea con el enfoque centrado en el usuario de nuestra propuesta.
+
+La comunicación visual del video está cuidadosamente diseñada para transmitir simplicidad, naturaleza y organización, cualidades que definen a *Plantita*. El lenguaje utilizado mantiene coherencia con la identidad del producto, buscando siempre empatizar con los usuarios y generar confianza desde el primer contacto.
+
+Como parte del video, se incluyen testimonios positivos de usuarios entrevistados durante la etapa de validación, representando a diferentes perfiles: desde principiantes en jardinería hasta aficionados con múltiples plantas. Estas voces resaltan cómo *Plantita* ha contribuido a mejorar el seguimiento del riego, el estado de salud y el cuidado general de sus plantas, incluso en contextos de poco tiempo o falta de experiencia.
+
+Link del video en Microsoft Stream:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/Ec2vH8RbIUZAvy2SMgBdR_IBYRL6tPkgUu_OqB3MGOueMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KIOk0D
+
+Duración del vídeo: 05:50
+
+
 
 
 **Conclusiones**
