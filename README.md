@@ -1660,24 +1660,48 @@ Además, señalaron que usarían la app regularmente para cuidar sus plantas. Co
 
 <div id='6.3.3'><h4><b>6.3.3 Evaluaciones según heurísticas</b></h4>
 
+App A Evaluar : PLANTITA
 
-A continuación, se presenta una evaluación heurística de la app , basada en los **10 principios de usabilidad de Jakob Nielsen**. 
+Tareas a evaluar : 
 
-| #  | Heurística                                           | Observación                                                                 | Cumple     | Problema detectado                                             | Severidad |
-|----|------------------------------------------------------|------------------------------------------------------------------------------|------------|----------------------------------------------------------------|-----------|
-| 1  | Visibilidad del estado del sistema                  | La app muestra indicadores de carga y mensajes de confirmación.             | Sí         | Ninguno                                                        | -         |
-| 2  | Coincidencia entre el sistema y el mundo real       | Se usan iconos comunes (lupa, casa) y lenguaje sencillo.                    | Sí         | Ninguno                                                        | -         |
-| 3  | Control y libertad del usuario                      | No hay botón para deshacer ciertas acciones (ej. eliminación accidental).   | si         | niguno                                                        |           |
-| 4  | Consistencia y estándares                           | Se usa el mismo estilo de botones y colores en toda la app.                | Sí         | Ninguno                                                        | -         |
-| 5  | Prevención de errores                               | Falta confirmación antes de eliminar una planta.                           | No         | El usuario podría borrar información por error.                | Alta      |
-| 6  | Reconocimiento antes que recuerdo                   | Menús con íconos y etiquetas claras; algunos submenús no son intuitivos.   | si    | niguno                                                               |          |
-| 7  | Flexibilidad y eficiencia de uso                    | No existen atajos para usuarios expertos.                                   | No         | Podría ser más eficiente para usuarios frecuentes.             | Media     |
-| 8  | Diseño estético y minimalista                       | El diseño es limpio, con buen uso del espacio y colores suaves.            | Sí         | Ninguno                                                        | -         |
-| 9  | Ayuda para reconocer, diagnosticar y corregir errores | Mensajes de error no explican cómo solucionarlos.                          | No         | Puede frustrar a usuarios sin conocimientos técnicos.          | Alta      |
-| 10 | Ayuda y documentación                               | No hay sección de ayuda ni tutorial de inicio.                             | No         | Usuarios nuevos pueden sentirse perdidos al empezar.           | Alta      |
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas del sistema:
 
----
+1. Registro de un usuario nuevo  
+2. Publicación de un post  
+3. Búsqueda de un paquete turístico  
+4. Reserva de un viaje  
+5. Cancelación de una reserva  
+6. Agregar ítems a un pedido  
+7. Pago de un paquete turístico  
+8. Etc.
 
+## Tareas fuera de alcance
+
+Las siguientes tareas no están incluidas en esta versión de la evaluación:
+
+1. Compartir reservas entre usuarios  
+2. Presentar ofertas de último minuto  
+3. Administrar puntos del programa de fidelización de viajes  
+4. Guardar “alerta de paquetes”  
+5. Etc.
+
+## Evaluación heurística
+
+A continuación, se presenta una evaluación heurística de la interfaz del sistema, basada en los **10 principios de usabilidad de Jakob Nielsen**. Para cada heurística, se indica si se cumple o no, se describe la observación realizada, el posible problema identificado y su severidad.
+
+
+| #  | Heurística                                       | Observación relacionada con tareas                                         | ¿Cumple?  | Problema detectado                                                    | Severidad |
+|----|--------------------------------------------------|----------------------------------------------------------------------------|-----------|------------------------------------------------------------------------|------------|
+| 1  | Visibilidad del estado del sistema              | El sistema muestra mensajes claros durante registro, analizis,etc         | si      | No hay turtorial de registro                                          | Media      |
+| 2  | Correspondencia entre el sistema y el mundo real| Uso de términos amigables como "analizar", "buscar paquetes", "registrar" | si      | En algunos formularios (registro), hay tecnicismos innecesarios.      | Baja       |
+| 3  | Control y libertad del usuario                  | Se puede eliminar una planta , pero no para confirmar su eliminacion    . | no      | Al agregar elimanar una planta no hay opción de deshacer cambios.       | Alta       |
+| 4  | Consistencia y estándares                       | Interfaz coherente entre módulos (registro, búsqueda, sensor).            | si   | El botón “analizar plantar” cambia de ubicación en versiones móviles.         | Media      |
+| 5  | Prevención de errores                           | Confirmación antes de apagar o eliminar sensor               .            | no        | Falta validación en algunos campos           .                      | Media      |
+| 6  | Reconocimiento antes que recuerdo               | Íconos y etiquetas guían al usuario en la búsqueda y registro             | si       | El botón para agregar ver sensores no tiene una etiqueta clara.    | Media      |
+| 7  | Flexibilidad y eficiencia de uso                | Permite autocompletar campos en la búsqueda y formularios.                | si        | No hay atajos ni filtros avanzados para usuarios frecuentes.          | Baja       |
+| 8  | Estética y diseño minimalista                   | Interfaz limpia, sin sobrecarga visual, uso coherente de colores.         | si      | Algunos formularios se ven saturados en pantallas pequeñas.           | Media      |
+| 9  | Ayuda a reconocer, diagnosticar y recuperarse de errores | Muestra errores  pero no explica cómo corregirlos. |             | si       |Mensajes como de error sin explicación para el usuario.            | Alta       |
+| 10 | Ayuda y documentación                           | No hay tutorial ni ayuda contextual al registrarse                        | si    | Usuarios primerizos pueden sentirse perdidos al usar ciertas funciones.| Alta       |
 
 
 
