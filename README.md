@@ -1477,7 +1477,7 @@ Landing page:
 
 link deploy: https://plantita-landing.netlify.app/
 
-Aplicacion web: (link deploy)
+Aplicacion web: https://plantita-web.netlify.app/
 
 ![](assets/login.jpg)
 
