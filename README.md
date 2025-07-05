@@ -1394,19 +1394,19 @@ Para este proyecto, se utilizo Netlify para subir el proyecto, donde fue necesar
 
 Este Sprint Planning corresponde al Sprint #2 del proyecto, donde se definen los objetivos, participantes y metas a alcanzar durante el ciclo de trabajo. Se detallan los aprendizajes del Sprint anterior y se establecen las funcionalidades prioritarias que el equipo desarrollará, con el fin de seguir avanzando en la construcción del sistema de monitoreo y cuidado de plantas.
 
-| Elemento                           | Detalle                                                                                                                                                     |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint #**                      | Sprint 2                                                                                                                                                    |
-| **Date**                          | 17 de junio de 2025                                                                                                                                         |
-| **Time**                          | 23:00 horas (GMT-5)                                                                                                                                         |
-| **Location**                      | Modalidad remota                                                                                                                                            |
-| **Prepared By**                   | LlantaTech                                                                                                                                                  |
-| **Attendees (to planning meeting)** | Todos los miembros de LlantaTech                                                                                                                             |
-| **Sprint 0 Review Summary**       | Se definieron los lineamientos iniciales del proyecto, así como el Product Backlog general y la arquitectura base del sistema. Se instalaron las herramientas necesarias para el desarrollo colaborativo y la gestión de versiones. |
+| Elemento                           | Detalle                                                                                                                                                                                                                                                                                                                     |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 2                                                                                                                                                                                                                                                                                                                    |
+| **Date**                          | 17 de junio de 2025                                                                                                                                                                                                                                                                                                         |
+| **Time**                          | 23:00 horas (GMT-5)                                                                                                                                                                                                                                                                                                         |
+| **Location**                      | Modalidad remota                                                                                                                                                                                                                                                                                                            |
+| **Prepared By**                   | LlantaTech                                                                                                                                                                                                                                                                                                                  |
+| **Attendees (to planning meeting)** | Todos los miembros de LlantaTech                                                                                                                                                                                                                                                                                            |
+| **Sprint 0 Review Summary**       | Se definieron los lineamientos iniciales del proyecto, así como el Product Backlog general y la arquitectura base del sistema. Se instalaron las herramientas necesarias para el desarrollo colaborativo y la gestión de versiones.                                                                                         |
 | **Sprint 1 Retrospective Summary**| Durante el Sprint 1 se lograron completar exitosamente tareas clave para el registro y seguimiento de plantas. El equipo tuvo buena colaboración, aunque se identificó la necesidad de mejorar la estimación de tiempos. Se propuso reforzar la comunicación diaria para asegurar sincronización entre los desarrolladores. |
-| **Sprint Goal 2**                 | Implementar funcionalidades esenciales de monitoreo ambiental y contenido educativo adicional, que ayuden a los usuarios a tomar decisiones informadas para el cuidado de sus plantas. |
-| **Sprint Velocity 2**             | 13                                                                                                                                                          |
-| **Sum of Story Points**           | 24                                                                                                                                                          |
+| **Sprint Goal 2**                 | Implementacion de la capa edge embebida y el desarrollo terminado del backend, ademas de correcciones en documentacion.                                                                                                                                                                                                     |
+| **Sprint Velocity 2**             | 13                                                                                                                                                                                                                                                                                                                          |
+| **Sum of Story Points**           | 24                                                                                                                                                                                                                                                                                                                          |
 
 
 <div id='6.2.1.2.'><h4><b>6.2.1.2. Aspect Leaders and Collaborators</b></h4>
@@ -1539,6 +1539,125 @@ En este proyecto se utilizó Netlify como plataforma de despliegue. Para ello, f
 ![](assets/teamcolab.png)
 
 ![](assets/teamcol2.png)
+
+
+<div id='6.3.1.'><h3><b>6.3.2. Sprint 3</b></h3>
+
+<div id='6.3.1.1.'><h4><b>6.3.2.1. Sprint Planning 3</b></h4>
+
+
+
+<div id='6.3.1.2.'><h4><b>6.3.1.2. Aspect Leaders and Collaborators</b></h4>
+
+La colaboración del equipo en este sprint se estructuró de la siguiente manera:
+
+| Aspecto                   | Líder del Aspecto | Colaboradores                |
+|---------------------------|-------------------|------------------------------|
+| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea  |
+| Desarrollo del Backend    | Erick             | Andrea, Franky               |
+| Desarrollo del Frontend   | Luis              | Astrid, Erick                |
+| Desarrollo de App         | Astrid            | Luis, Erick                  |
+| Documentación             | Andrea            | Franky, Erick, Luis, Astrid  |
+
+<div id='6.3.1.3.'><h4><b>6.3.2.3. Sprint Backlog 3</b></h4>
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+Link del Trello:
+Vista del Sprint Backlog en Trello:
+
+
+
+Sprint #3
+
+
+
+
+<div id='6.3.2.4.'><h4><b>6.3.2.4. Development Evidence for Sprint Review</b></h4>
+
+Nuestro repositorio:
+-https://github.com/LlanterosTech/Frontend
+-https://github.com/LlanterosTech/BackendC-
+-https://github.com/LlanterosTech/Landing-Page
+-https://github.com/LlanterosTech/Fronted-MobileApp
+
+
+
+<div id='6.3.2.5.'><h4><b>6.3.2.5. Testing Suite Evidence for Sprint Review</b></h4>
+
+
+
+
+<div id='6.3.2.6.'><h4><b>6.3.2.6. Execution Evidence for Sprint Review</b></h4>
+
+
+
+Landing page:
+
+![](assets/despliegue.png)
+
+link deploy: https://plantita-landing.netlify.app/
+
+Aplicacion web: https://plantita-web.netlify.app/
+
+![](assets/login.jpg)
+
+![](assets/home.jpg)
+
+![](assets/home2.jpg)
+
+![](assets/home3.jpg)
+
+![](assets/home5.jpg)
+
+Aplicacion movil: https://github.com/LlanterosTech/Fronted-MobileApp
+
+![](assets/mob1.jpg)
+
+![](assets/mob2.jpg)
+
+![](assets/mob3.jpg)
+
+![](assets/mob4.jpg)
+
+![](assets/mob5.jpg)
+
+Capa Edge:
+
+![](assets/edge1.jpg)
+
+![](assets/edge2.jpg)
+
+
+
+<div id='6.3.1.7.'><h4><b>6.3.2.7. Services Documentation Evidence for Sprint Review</b></h4>
+
+Link deploy: https://plantita-backend.onrender.com/swagger/index.html
+
+![](assets/des1.jpg)
+
+![](assets/des2.jpg)
+
+![](assets/des3.jpg)
+
+<div id='6.3.1.8.'><h4><b>6.3.2.8. Software Deployment Evidence for Sprint</b></h4>
+
+En este proyecto se utilizó Netlify como plataforma de despliegue. Para ello, fue necesario iniciar sesión con una cuenta de GitHub que tuviera acceso al repositorio del proyecto. Tras seleccionar el repositorio, se completaron las configuraciones requeridas, como la ruta del archivo principal, las dependencias necesarias y el nombre de la aplicación. Una vez realizado esto, se esperó a que todos los archivos se cargaran correctamente. Finalmente, Netlify generó la URL pública de la aplicación.
+![](assets/Deploy1.png)
+
+![](assets/Deploy2.png)
+
+![](assets/Deploy3.png)
+
+![](assets/Deploy4.png)
+
+![](assets/Deploy5.png)
+
+**Enlace del Deploy:** [ https://plantita-web.netlify.app](https://app.netlify.com/projects/plantita-web/configuration/general)
+
+<div id='6.3.1.9.'><h4><b>6.3.2.9. Team Collaboration Insights during Sprint</b></h4>
+
+
+
 
 
 <div id='6.3'><h4><b>6.3 Validation Interviews</b></h4>
