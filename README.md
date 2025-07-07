@@ -1545,30 +1545,57 @@ En este proyecto se utilizó Netlify como plataforma de despliegue. Para ello, f
 
 <div id='6.3.1.1.'><h4><b>6.3.2.1. Sprint Planning 3</b></h4>
 
+| Elemento                           | Detalle                                                                                                                                                                                                                                                                |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 3                                                                                                                                                                                                                                                               |
+| **Date**                          | 01 de julio de 2025                                                                                                                                                                                                                                                    |
+| **Time**                          | 22:00 horas (GMT-5)                                                                                                                                                                                                                                                    |
+| **Location**                      | Modalidad remota                                                                                                                                                                                                                                                       |
+| **Prepared By**                   | LlantaTech                                                                                                                                                                                                                                                             |
+| **Attendees (to planning meeting)** | Todos los miembros de LlantaTech                                                                                                                                                                                                                                       |
+| **Sprint 2 Review Summary**       | En el Sprint 2 se completo el desarrollo backend y la implementación inicial de la capa Edge, aunque se notó la necesidad de cerrar componentes embebidos y validar la comunicación IoT.                                                                               |
+| **Sprint 2 Retrospective Summary**| Se reforzó la colaboración entre frontend, backend y sensores. Se sugirió centralizar documentación y unificar criterios para la validación final de funcionalidades IoT. Se planificó que el Sprint 3 consolidaría el desarrollo final de todos los frentes técnicos. |
+| **Sprint Goal 3**                 | Desarrollo completo de todas las capas: backend terminado, frontend web terminado, aplicación móvil terminada, firmware del embebido IoT finalizado e integración funcional del procesamiento en edge.                                                                 |
+| **Sprint Velocity 3**             | 16                                                                                                                                                                                                                                                                     |
+| **Sum of Story Points**           | 34                                                                                                                                                                                                                                                                     |
 
 
 <div id='6.3.1.2.'><h4><b>6.3.1.2. Aspect Leaders and Collaborators</b></h4>
 
 La colaboración del equipo en este sprint se estructuró de la siguiente manera:
 
-| Aspecto                   | Líder del Aspecto | Colaboradores                |
-|---------------------------|-------------------|------------------------------|
-| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea  |
-| Desarrollo del Backend    | Erick             | Andrea, Franky               |
-| Desarrollo del Frontend   | Luis              | Astrid, Erick                |
-| Desarrollo de App         | Astrid            | Luis, Erick                  |
-| Documentación             | Andrea            | Franky, Erick, Luis, Astrid  |
+| Aspecto                   | Líder del Aspecto | Colaboradores               |
+|---------------------------|-------------------|-----------------------------|
+| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea |
+| Desarrollo del Backend    | Erick             | Andrea, Franky              |
+| Desarrollo del Frontend   | Luis              | Astrid, Erick               |
+| Desarrollo de App         | Astrid            | Luis, Erick                 |
+| Desarrollo Embebido (IoT) | Erick             | Franky, Andrea              |
+| Desarrollo Edge IoT       | Luis              | Erick, Astrid               |
+| Documentación             | Andrea            | Franky, Erick, Luis, Astrid |
+
 
 <div id='6.3.1.3.'><h4><b>6.3.2.3. Sprint Backlog 3</b></h4>
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
-Link del Trello:
+Link del Trello: https://trello.com/b/LdfkOWwk
 Vista del Sprint Backlog en Trello:
 
+![](assets/trello3.png)
 
 
 Sprint #3
 
+| User Story ID | Work-item / Task ID | Título                          | Descripción                                                                                                  | Estimado horas | Asignado a | Estado    |
+|---------------|----------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------|----------------|------------|-----------|
+| US07          | T17                 | Recomendaciones Personalizadas  | Desarrollar lógica personalizada para cada planta basada en especie y condiciones ambientales.              | 5              | Franky     | Terminado |
+| US12          | T18                 | Videos Educativos               | Integrar reproductor de video y sistema de almacenamiento de recursos audiovisuales.                        | 3              | Luis       | Pendiente |
+| US28          | T19                 | Compatibilidad de Plantas       | Desarrollar funcionalidad para sugerir combinaciones compatibles de especies.                               | 5              | Astrid     | Terminado |
+| US30          | T20                 | Sugerencias de Nuevas Plantas   | Implementar motor de sugerencias basado en historial y preferencias del usuario.                            | 5              | Andrea     | Terminado |
+| US10          | T21                 | Notificaciones de Fertilización | Activar alertas automáticas de fertilización por especie y calendario.                                      | 3              | Erick      | Terminado |
+| US26          | T22                 | Recordatorio de Poda            | Enviar recordatorios periódicos de poda personalizada por tipo de planta.                                   | 3              | Erick      | Terminado |
+| EP06          | T23                 | Integración IoT Embebido        | Finalizar firmware para sensores y módulos embebidos con conexión MQTT.                                     | 8              | Luis       | Terminado |
+| EP06          | T24                 | Procesamiento Edge IoT          | Desarrollar reglas locales para acciones automáticas en caso de desconexión de red.                         | 8              | Erick      | Terminado |
 
 
 
@@ -1580,15 +1607,30 @@ Nuestro repositorio:
 -https://github.com/LlanterosTech/Landing-Page
 -https://github.com/LlanterosTech/Fronted-MobileApp
 
+| Repository | Branch | Commit ID                                | Commit Message                                                | Commit Message Body | Committed on |
+|------------|--------|-------------------------------------------|----------------------------------------------------------------|---------------------|--------------|
+| Frontend   | main   | a834f46464b95c1853e4cf67bc3bf6e4778a5246  | fix: update plant detail UI                                   | -                   | 01 jul, 2025 |
+|            | main   | fb09df5c0bb3a177379a6e446bc022f416308dc7  | feat: update library section with new layout                  | -                   | 01 jul, 2025 |
+|            | main   | 4d9f6f00e4aec22700ee3f9c2f1c2418a5ebf6d4  | chore: add backend link in config                             | -                   | 27 jun, 2025 |
+| Backend    | main   | 3c0e8674f5e6b648de8507761048269ffc13c623  | chore: update docker config                                   | -                   | 28 jun, 2025 |
+|            | main   | d93fdf9aa61d3442ca4a2ed0897790ecfecf70e6  | refactor: improve sensor controller                           | -                   | 28 jun, 2025 |
+|            | main   | 314b28a0eda37909611636ca3b59ff5815e1c290  | feat: add frontend link in CORS config                        | -                   | 25 jun, 2025 |
+| Mobile     | main   | 462cb88809fa4e65ff84bec6a606d4bbc76be241  | fix: fix login and registration with backend token            | -                   | 28 jun, 2025 |
+|            | main   | 2668371c4d599ec20c31451401ad4fdafe61805e  | feat: implement login/register with secure backend access     | -                   | 29 jun, 2025 |
+|            | main   | a81c150e8d1e12b64b8a1957e513b846b52ab461  | feat: add plant creation with form validation                 | -                   | 25 jun, 2025 |
+| EdgeIoT    | main   | ec1a9873d9ba4c5f8762e3c52d1a7a9dfc09b991  | feat: implement local alert for humidity threshold breach     | -                   | 29 jun, 2025 |
+|            | main   | 2bcf408ea6bb3df2e3f98d4d7df7acfa76d02fdc  | feat: offline data buffering in edge device                   | -                   | 30 jun, 2025 |
+|            | main   | b72e61ee9a9ac2515d2334f2e3e4adf8c5639fe2  | fix: mqtt reconnect logic improvement                         | -                   | 30 jun, 2025 |
+|            | main   | 173d5aeccabf9fa8de492fef2e16c8b4e18c43dc  | chore: add environment config for edge node                   | -                   | 30 jun, 2025 |
 
 
 <div id='6.3.2.5.'><h4><b>6.3.2.5. Testing Suite Evidence for Sprint Review</b></h4>
 
+![](assets/test3.png)
 
-
+![](assets/test35.png)
 
 <div id='6.3.2.6.'><h4><b>6.3.2.6. Execution Evidence for Sprint Review</b></h4>
-
 
 
 Landing page:
