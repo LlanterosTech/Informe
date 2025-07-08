@@ -1624,6 +1624,69 @@ Nuestro repositorio:
 |            | main   | b72e61ee9a9ac2515d2334f2e3e4adf8c5639fe2 | fix: mqtt reconnect logic improvement                     | -                   | 30 jun, 2025 |
 |            | main   | 173d5aeccabf9fa8de492fef2e16c8b4e18c43dc | chore: add environment config for edge node               | -                   | 30 jun, 2025 |
 
+<img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+<img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+
+<img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+<img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+  <img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+  <img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+  <img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+<img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
+
+<img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
+
 
 <div id='6.3.2.5.'><h4><b>6.3.2.5. Testing Suite Evidence for Sprint Review</b></h4>
 
