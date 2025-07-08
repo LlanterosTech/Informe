@@ -1639,49 +1639,49 @@ Nuestro repositorio:
 
 
 
-<img src= "./assets/UPC-logo.png" 
+<img src= "./assets/c" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
 
-<img src= "./assets/UPC-logo.png" 
+<img src= "./assets/d" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
 
-  <img src= "./assets/UPC-logo.png" 
+  <img src= "./assets/e" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
 
-  <img src= "./assets/UPC-logo.png" 
+  <img src= "./assets/g" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
 
-  <img src= "./assets/UPC-logo.png" 
+  <img src= "./assets/f" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
 
-<img src= "./assets/UPC-logo.png" 
+<img src= "./assets/h" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
   width=50%"/>
 
 
-<img src= "./assets/UPC-logo.png" 
+<img src= "./assets/UPC-i" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
