@@ -1287,13 +1287,13 @@ En este sprint planning 1 se presenta la evidencia de la planificación y desarr
 
 La colaboración del equipo en este sprint se estructuró de la siguiente manera:
 
-| Aspecto                   | Líder del Aspecto | Colaboradores                |
-|---------------------------|-------------------|------------------------------|
-| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea  |
-| Desarrollo del Backend    | Erick             | Andrea, Franky               |
-| Desarrollo del Frontend   | Luis              | Astrid, Erick                |
-| Desarrollo de App         | Astrid            | Luis, Erick                  |
-| Documentación             | Andrea            | Franky, Erick, Luis, Astrid  |
+| Aspecto                   | Líder del Aspecto | Colaboradores               |
+|---------------------------|-------------------|-----------------------------|
+| Planificación del Sprint  | Franky            | Erick, Juan, Astrid, Andrea |
+| Desarrollo del Backend    | Erick             | Andrea, Franky              |
+| Desarrollo del Frontend   | Juan              | Astrid, Erick               |
+| Desarrollo de App         | Astrid            | Juan, Erick                 |
+| Documentación             | Andrea            | Franky, Erick, Juan, Astrid    |
 
 <div id='6.2.1.3.'><h4><b>6.2.1.3. Sprint Backlog 1</b></h4>
 
@@ -1305,19 +1305,19 @@ Vista del Sprint Backlog en Trello:
 
 Sprint #1
 
-| User Story ID | Work-item / Task ID | Título                               | Descripción                                                                                                                                     | Estimado horas | Asignado a              | Estado     |
-|---------------|---------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------|------------|
-| EP01          | T1                  | Registro y Configuración de Plantas | Como usuario, quiero un sistema que registre y configure las plantas iniciales para comenzar a gestionar su cuidado y estado.                  | 8              | Erick, Andrea            | Terminado  |
-| US01          | T2                  | Registro de Planta                   | Como usuario, quiero poder registrar nuevas plantas en el sistema para realizar un seguimiento adecuado de su cuidado.                         | 5              | Erick                   | Terminado  |
-| US02          | T3                  | Edición de Datos de Planta           | Como usuario, quiero editar los datos de las plantas registradas para mantener la información actualizada.                                     | 3              | Erick                   | Terminado  |
-| US25          | T4                  | Añadir Comentarios por Planta        | Como usuario, quiero agregar comentarios y notas personales en cada planta para hacer un seguimiento detallado de su cuidado.                  | 2              | Astrid                  | Terminado  |
-| US11          | T5                  | Sugerencias ante Problemas Comunes  | Como usuario, quiero recibir sugerencias sobre cómo tratar problemas comunes como plagas o enfermedades en las plantas.                        | 5              | Andrea, Franky           | Terminado  |
-| US06          | T6                  | Historial de Salud de Planta         | Como usuario, quiero tener un historial de salud para cada planta, con información sobre su evolución, tratamientos y problemas previos.       | 5              | Erick, Andrea            | Terminado  |
-| US24          | T7                  | Progreso con Fotos                   | Como usuario, quiero seguir el progreso de mis plantas mediante fotos para ver su evolución a lo largo del tiempo.                             | 5              | Luis, Astrid            | Terminado  |
-| EP04          | T8                  | Guías y Recomendaciones de Cuidado  | Como usuario, quiero acceder a contenido educativo sobre el cuidado de las plantas, adaptado a cada especie, para mejorar su bienestar.        | 8              | Andrea, Franky           | Terminado  |
-| US13          | T9                  | Guardar Plantas Favoritas            | Como usuario, quiero guardar mis plantas favoritas en una lista para poder acceder a ellas fácilmente cuando las necesite.                     | 2              | Luis                    | Terminado  |
-| US09          | T10                 | Recordatorios de Riego               | Como usuario, quiero recibir recordatorios automáticos de riego para asegurarme de que mis plantas siempre reciban la cantidad de agua adecuada.| 3              | Franky, Luis             | Terminado  |
-| US31          | T11                 | Desarrollo de Landing Page           | Como visitante o potencial usuario, quiero ver una landing page atractiva y funcional del sistema para conocer sus beneficios y registrarme fácilmente. | 5         | Franky                  | Terminado  |
+| User Story ID | Work-item / Task ID | Título                               | Descripción                                                                                                                                     | Estimado horas | Asignado a     | Estado     |
+|---------------|---------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|------------|
+| EP01          | T1                  | Registro y Configuración de Plantas | Como usuario, quiero un sistema que registre y configure las plantas iniciales para comenzar a gestionar su cuidado y estado.                  | 8              | Erick, Andrea  | Terminado  |
+| US01          | T2                  | Registro de Planta                   | Como usuario, quiero poder registrar nuevas plantas en el sistema para realizar un seguimiento adecuado de su cuidado.                         | 5              | Erick          | Terminado  |
+| US02          | T3                  | Edición de Datos de Planta           | Como usuario, quiero editar los datos de las plantas registradas para mantener la información actualizada.                                     | 3              | Erick          | Terminado  |
+| US25          | T4                  | Añadir Comentarios por Planta        | Como usuario, quiero agregar comentarios y notas personales en cada planta para hacer un seguimiento detallado de su cuidado.                  | 2              | Astrid         | Terminado  |
+| US11          | T5                  | Sugerencias ante Problemas Comunes  | Como usuario, quiero recibir sugerencias sobre cómo tratar problemas comunes como plagas o enfermedades en las plantas.                        | 5              | Andrea, Franky | Terminado  |
+| US06          | T6                  | Historial de Salud de Planta         | Como usuario, quiero tener un historial de salud para cada planta, con información sobre su evolución, tratamientos y problemas previos.       | 5              | Erick, Andrea  | Terminado  |
+| US24          | T7                  | Progreso con Fotos                   | Como usuario, quiero seguir el progreso de mis plantas mediante fotos para ver su evolución a lo largo del tiempo.                             | 5              | Juan, Astrid   | Terminado  |
+| EP04          | T8                  | Guías y Recomendaciones de Cuidado  | Como usuario, quiero acceder a contenido educativo sobre el cuidado de las plantas, adaptado a cada especie, para mejorar su bienestar.        | 8              | Andrea, Franky | Terminado  |
+| US13          | T9                  | Guardar Plantas Favoritas            | Como usuario, quiero guardar mis plantas favoritas en una lista para poder acceder a ellas fácilmente cuando las necesite.                     | 2              | Juan           | Terminado  |
+| US09          | T10                 | Recordatorios de Riego               | Como usuario, quiero recibir recordatorios automáticos de riego para asegurarme de que mis plantas siempre reciban la cantidad de agua adecuada.| 3              | Franky, Juan   | Terminado  |
+| US31          | T11                 | Desarrollo de Landing Page           | Como visitante o potencial usuario, quiero ver una landing page atractiva y funcional del sistema para conocer sus beneficios y registrarme fácilmente. | 5         | Franky         | Terminado  |
 
 <div id='6.2.1.4.'><h4><b>6.2.1.4. Development Evidence for Sprint Review</b></h4>
 En esta parte, se muestran los commits efectuados en el repositorio de GitHub correspondientes a la landing page y la aplicación móvil. Estos registros evidencian el avance y las mejoras incorporadas a lo largo del sprint, ofreciendo una visión clara del trabajo realizado y las aportaciones del equipo de desarrollo.
@@ -1414,13 +1414,13 @@ Este Sprint Planning corresponde al Sprint #2 del proyecto, donde se definen los
 
 La colaboración del equipo en este sprint se estructuró de la siguiente manera:
 
-| Aspecto                   | Líder del Aspecto | Colaboradores                |
-|---------------------------|-------------------|------------------------------|
-| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea  |
-| Desarrollo del Backend    | Erick             | Andrea, Franky               |
-| Desarrollo del Frontend   | Luis              | Astrid, Erick                |
-| Desarrollo de App         | Astrid            | Luis, Erick                  |
-| Documentación             | Andrea            | Franky, Erick, Luis, Astrid  |
+| Aspecto                   | Líder del Aspecto | Colaboradores               |
+|---------------------------|-------------------|-----------------------------|
+| Planificación del Sprint  | Franky            | Erick, Juan, Astrid, Andrea |
+| Desarrollo del Backend    | Erick             | Andrea, Franky              |
+| Desarrollo del Frontend   | Juan              | Astrid, Erick               |
+| Desarrollo de App         | Astrid            | Juan, Erick                 |
+| Documentación             | Andrea            | Franky, Erick, Juan, Astrid |
 
 <div id='6.2.1.3.'><h4><b>6.2.2.3. Sprint Backlog 2</b></h4>
 
@@ -1432,13 +1432,13 @@ Vista del Sprint Backlog en Trello:
 
 Sprint #2
 
-| User Story ID | Work-item / Task ID | Título                              | Descripción                                                                                                                                  | Estimado horas | Asignado a             | Estado     |
-|---------------|---------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------------|------------|
-| US03          | T12                 | Integración de Sensor de Humedad    | Como usuario, quiero conectar sensores para medir la humedad de las plantas y recibir alertas si se desvían de los valores recomendados.   | 8              | Andrea, Erick           | Terminado  |
-| US04          | T13                 | Alertas por Condiciones Críticas    | Como usuario, quiero recibir alertas cuando las condiciones ambientales sean críticas para poder tomar acción inmediata.                    | 5              | Franky                  | Terminado  |
-| US21          | T14                 | Comparar el Estado entre Plantas    | Como usuario, quiero comparar el estado ambiental entre diferentes plantas para tomar decisiones informadas sobre su cuidado.              | 5              | Astrid, Luis            | Terminado  |
-| US08          | T15                 | Biblioteca de Guías                 | Como usuario, quiero una biblioteca con guías categorizadas sobre cuidado de plantas.                                                       | 3              | Erick                   | Terminado  |
-| US14          | T16                 | Buscar por Tipos de Planta          | Como usuario, quiero buscar plantas por tipos para encontrar fácilmente las que mejor se adapten a mi espacio o necesidades.               | 3              | Andrea                  | Terminado  |
+| User Story ID | Work-item / Task ID | Título                              | Descripción                                                                                                                                  | Estimado horas | Asignado a    | Estado     |
+|---------------|---------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------|------------|
+| US03          | T12                 | Integración de Sensor de Humedad    | Como usuario, quiero conectar sensores para medir la humedad de las plantas y recibir alertas si se desvían de los valores recomendados.   | 8              | Andrea, Erick | Terminado  |
+| US04          | T13                 | Alertas por Condiciones Críticas    | Como usuario, quiero recibir alertas cuando las condiciones ambientales sean críticas para poder tomar acción inmediata.                    | 5              | Franky        | Terminado  |
+| US21          | T14                 | Comparar el Estado entre Plantas    | Como usuario, quiero comparar el estado ambiental entre diferentes plantas para tomar decisiones informadas sobre su cuidado.              | 5              | Astrid, Juan  | Terminado  |
+| US08          | T15                 | Biblioteca de Guías                 | Como usuario, quiero una biblioteca con guías categorizadas sobre cuidado de plantas.                                                       | 3              | Erick         | Terminado  |
+| US14          | T16                 | Buscar por Tipos de Planta          | Como usuario, quiero buscar plantas por tipos para encontrar fácilmente las que mejor se adapten a mi espacio o necesidades.               | 3              | Andrea        | Terminado  |
 
 
 
@@ -1567,13 +1567,13 @@ La colaboración del equipo en este sprint se estructuró de la siguiente manera
 
 | Aspecto                   | Líder del Aspecto | Colaboradores               |
 |---------------------------|-------------------|-----------------------------|
-| Planificación del Sprint  | Franky            | Erick, Luis, Astrid, Andrea |
+| Planificación del Sprint  | Franky            | Erick, Juan, Astrid, Andrea |
 | Desarrollo del Backend    | Erick             | Andrea, Franky              |
-| Desarrollo del Frontend   | Luis              | Astrid, Erick               |
-| Desarrollo de App         | Astrid            | Luis, Erick                 |
+| Desarrollo del Frontend   | Juan              | Astrid, Erick               |
+| Desarrollo de App         | Astrid            | Juan, Erick                 |
 | Desarrollo Embebido (IoT) | Erick             | Franky, Andrea              |
-| Desarrollo Edge IoT       | Luis              | Erick, Astrid               |
-| Documentación             | Andrea            | Franky, Erick, Luis, Astrid |
+| Desarrollo Edge IoT       | Juan              | Erick, Astrid               |
+| Documentación             | Andrea            | Franky, Erick, Juan, Astrid |
 
 
 <div id='6.3.1.3.'><h4><b>6.3.2.3. Sprint Backlog 3</b></h4>
@@ -1590,12 +1590,12 @@ Sprint #3
 | User Story ID | Work-item / Task ID | Título                          | Descripción                                                                                                  | Estimado horas | Asignado a | Estado    |
 |---------------|----------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------|----------------|------------|-----------|
 | US07          | T17                 | Recomendaciones Personalizadas  | Desarrollar lógica personalizada para cada planta basada en especie y condiciones ambientales.              | 5              | Franky     | Terminado |
-| US12          | T18                 | Videos Educativos               | Integrar reproductor de video y sistema de almacenamiento de recursos audiovisuales.                        | 3              | Luis       | Pendiente |
+| US12          | T18                 | Videos Educativos               | Integrar reproductor de video y sistema de almacenamiento de recursos audiovisuales.                        | 3              | Juan       | Pendiente |
 | US28          | T19                 | Compatibilidad de Plantas       | Desarrollar funcionalidad para sugerir combinaciones compatibles de especies.                               | 5              | Astrid     | Terminado |
 | US30          | T20                 | Sugerencias de Nuevas Plantas   | Implementar motor de sugerencias basado en historial y preferencias del usuario.                            | 5              | Andrea     | Terminado |
 | US10          | T21                 | Notificaciones de Fertilización | Activar alertas automáticas de fertilización por especie y calendario.                                      | 3              | Erick      | Terminado |
 | US26          | T22                 | Recordatorio de Poda            | Enviar recordatorios periódicos de poda personalizada por tipo de planta.                                   | 3              | Erick      | Terminado |
-| EP06          | T23                 | Integración IoT Embebido        | Finalizar firmware para sensores y módulos embebidos con conexión MQTT.                                     | 8              | Luis       | Terminado |
+| EP06          | T23                 | Integración IoT Embebido        | Finalizar firmware para sensores y módulos embebidos con conexión MQTT.                                     | 8              | Juan       | Terminado |
 | EP06          | T24                 | Procesamiento Edge IoT          | Desarrollar reglas locales para acciones automáticas en caso de desconexión de red.                         | 8              | Erick      | Terminado |
 
 
